@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2082993071894257822",
+    "created_at": "2026-07-31T00:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082993071894257822"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YuwenMewo/stat…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/YuwenMewo/status/2082972756451491897",
+          "start": 51,
+          "url": "https://t.co/Pkwod9rS0x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082993071894257822",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082972756451491897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我为此道歉\n但\n1.我仅对自己使用相关称谓，我也同意他人对我使用该称谓\n2.我不会对他人使用此类称谓 https://t.co/Pkwod9rS0x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2082993071894257822",
+        "created_at": "2026-07-31T00:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082993071894257822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YuwenMewo/stat…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/YuwenMewo/status/2082972756451491897",
+              "start": 51,
+              "url": "https://t.co/Pkwod9rS0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082993071894257822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082972756451491897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我为此道歉\n但\n1.我仅对自己使用相关称谓，我也同意他人对我使用该称谓\n2.我不会对他人使用此类称谓 https://t.co/Pkwod9rS0x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2082972756451491897",
+        "created_at": "2026-07-30T23:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082972756451491897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCA8798suki/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/CCA8798suki/status/2082737260244685059",
+              "start": 20,
+              "url": "https://t.co/sl9p24etux"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082972756451491897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082737260244685059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "服了\n你都mtf还雷雷雷真是够尊重女性 https://t.co/sl9p24etux"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 1460,
+          "like_count": 7913,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 955
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2081227156424962265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 90,
+          "like_count": 182,
+          "listed_count": 5,
+          "media_count": 608,
+          "tweet_count": 1916
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      }
+    ]
+  }
+}

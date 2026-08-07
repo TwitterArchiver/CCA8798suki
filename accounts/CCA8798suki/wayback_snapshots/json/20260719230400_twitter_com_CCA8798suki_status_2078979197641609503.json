@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2078856960745881772",
+    "created_at": "2026-07-19T23:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T00:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078979197641609503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1667423069076348928",
+          "start": 0,
+          "username": "Kan_AyaneZero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078979197641609503",
+    "in_reply_to_user_id": "1667423069076348928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078856960745881772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kan_AyaneZero 抱抱，事情会好起来的，你不必一个人面对困境..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2078856960745881772",
+        "created_at": "2026-07-19T23:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T00:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078979197641609503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1667423069076348928",
+              "start": 0,
+              "username": "Kan_AyaneZero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078979197641609503",
+        "in_reply_to_user_id": "1667423069076348928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078856960745881772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kan_AyaneZero 抱抱，事情会好起来的，你不必一个人面对困境..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667423069076348928",
+        "conversation_id": "2078856960745881772",
+        "created_at": "2026-07-19T14:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078856960745881772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078856960745881772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1156,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没死成……好晕，闭上眼睛都是幻觉，想割腕，但是红贝印被妈妈抢走了，只割到一点……或许有一天，他们能想通，我想成为女孩子……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 1387,
+          "like_count": 5699,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 746
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-10T06:47:03.000Z",
+        "description": "性别:秀吉│173cm│爱好:ACGN│持证含糖│18歳│ INTP│37码│小萌新想找大佬互动(◍ ´꒳` ◍)│提问箱↓ │坐标浙江杭州│水色医疗电波が大好きです│\n锁推小号@oldhan12_ww(会不定时发疯😇)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "oldhan12_ww"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kan_ayanezero1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kan_ayanezero1",
+                "start": 0,
+                "url": "https://t.co/DkdYMZ72cH"
+              }
+            ]
+          }
+        },
+        "id": "1667423069076348928",
+        "location": "Mars",
+        "name": "小韩韩韩子",
+        "pinned_tweet_id": "2038771673789518180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755826726293344256/CHUR4I8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 529,
+          "like_count": 1064,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/DkdYMZ72cH",
+        "username": "Kan_AyaneZero",
+        "verified": true
+      }
+    ]
+  }
+}

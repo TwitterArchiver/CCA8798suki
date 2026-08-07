@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2068219043119526138",
+    "created_at": "2026-06-21T07:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068591950941639067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2063266311254552576",
+          "start": 0,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068591950941639067",
+    "in_reply_to_user_id": "2063266311254552576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068219043119526138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17nuun 酸甜酱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 414,
+        "media_key": "3_2068188954583875584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLOu5X5bwAAKWCl.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2068219043119526138",
+        "created_at": "2026-06-21T07:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068591950941639067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068591950941639067",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068219043119526138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 酸甜酱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068188954583875584"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068219043119526138",
+        "created_at": "2026-06-20T06:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T07:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068219043119526138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqqwjqfMyA",
+              "end": 46,
+              "expanded_url": "https://x.com/17nuun/status/2068219043119526138/photo/1",
+              "media_key": "3_2068188954583875584",
+              "start": 23,
+              "url": "https://t.co/YqqwjqfMyA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068219043119526138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22202,
+          "like_count": 206,
+          "quote_count": 7,
+          "reply_count": 292,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界没有番茄酱， 你会用什么来配薯条呢： https://t.co/YqqwjqfMyA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 832,
+          "like_count": 1657,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 350
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!/欢迎投稿或分享!!!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n优质内容在咱亮点里~\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 100,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 855,
+          "like_count": 389,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 771
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

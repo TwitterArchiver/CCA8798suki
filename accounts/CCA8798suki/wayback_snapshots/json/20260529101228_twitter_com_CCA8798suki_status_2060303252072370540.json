@@ -1,0 +1,118 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060303247035002880"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "conversation_id": "2060303252072370540",
+    "created_at": "2026-05-29T10:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T11:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060303252072370540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oL9c6tjurn",
+          "end": 102,
+          "expanded_url": "https://x.com/CCA8798suki/status/2060303252072370540/photo/1",
+          "media_key": "3_2060303247035002880",
+          "start": 79,
+          "url": "https://t.co/oL9c6tjurn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060303252072370540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "300mgpr+500mg丙戊酸钠+30mg奥沙西泮+20mg巴氯芬+10mg多潘立酮\nGABAA+GABAB混合双打\nγ-氨基丁酸：这一血药浓度将会很疯狂 https://t.co/oL9c6tjurn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060303252072370540].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060303252072370540",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060303252072370540"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2060303247035002880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeq4yEa8AAG5MH.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 252,
+          "like_count": 269,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

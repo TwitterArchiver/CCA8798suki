@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2082490468475302130",
+    "created_at": "2026-07-29T15:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082493489288520016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1995146888249778177",
+          "start": 0,
+          "username": "Rin_Mashiro_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082493489288520016",
+    "in_reply_to_user_id": "1995146888249778177",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082490468475302130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rin_Mashiro_ ✓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2082490468475302130",
+        "created_at": "2026-07-29T15:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082493489288520016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1995146888249778177",
+              "start": 0,
+              "username": "Rin_Mashiro_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082493489288520016",
+        "in_reply_to_user_id": "1995146888249778177",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082490468475302130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rin_Mashiro_ ✓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995146888249778177",
+        "conversation_id": "2082490468475302130",
+        "created_at": "2026-07-29T15:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082490468475302130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cca8798suki/st…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/cca8798suki/status/2082482032735850884",
+              "start": 120,
+              "url": "https://t.co/zYiDFRxsFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082490468475302130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082482032735850884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样，大部分人甚至都没有意识到他们应该针对的是什么，只是随波逐流的、无脑的进行着无谓的、丑陋的仇恨\n这也是中国社会的现状（没有说外国就不是这样的意思）\n有思考能力、思辨能力，处于中立立场的人往往不会采用情绪宣泄之类的方式去表达自己的情感 https://t.co/zYiDFRxsFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1328,
+          "following_count": 1457,
+          "like_count": 7718,
+          "listed_count": 5,
+          "media_count": 117,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-30T15:04:29.000Z",
+        "description": "VPS梦女？（很喜欢这个称呼就拿来用了）｜处于HRT与非HRT叠加态（取决于买完vps还有没有钱…）｜无GD｜全栈｜软件开发｜AI｜ACGN｜JP（N2） EN CH｜SillyTavern二开及插件开发者\n个人博客:https://t.co/PVGkqciT7N\n匿名提问:https://t.co/520DUeTJuy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 132,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 109,
+                "url": "https://t.co/PVGkqciT7N"
+              },
+              {
+                "display_url": "blog.rin.wtf/ask",
+                "end": 161,
+                "expanded_url": "https://blog.rin.wtf/ask",
+                "start": 138,
+                "url": "https://t.co/520DUeTJuy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.rin.wtf",
+                "end": 23,
+                "expanded_url": "https://blog.rin.wtf",
+                "start": 0,
+                "url": "https://t.co/PVGkqciT7N"
+              }
+            ]
+          }
+        },
+        "id": "1995146888249778177",
+        "name": "Rin",
+        "pinned_tweet_id": "2080359589506404639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006297830823215106/c2krAf_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 61,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/PVGkqciT7N",
+        "username": "Rin_Mashiro_",
+        "verified": true
+      }
+    ]
+  }
+}

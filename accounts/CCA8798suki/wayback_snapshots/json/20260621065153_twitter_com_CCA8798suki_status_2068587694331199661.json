@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2068587694331199661",
+    "created_at": "2026-06-21T06:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T07:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068587694331199661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/breakcoreWTF/s…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/breakcoreWTF/status/2068498998105985298",
+          "start": 29,
+          "url": "https://t.co/o8N05Sip27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068587694331199661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068498998105985298",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我存着30000+mgpr但是一点想吃的欲望都没有怎么办 https://t.co/o8N05Sip27"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2068587694331199661",
+        "created_at": "2026-06-21T06:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068587694331199661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/breakcoreWTF/s…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/breakcoreWTF/status/2068498998105985298",
+              "start": 29,
+              "url": "https://t.co/o8N05Sip27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068587694331199661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068498998105985298",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我存着30000+mgpr但是一点想吃的欲望都没有怎么办 https://t.co/o8N05Sip27"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964331185590718464",
+        "conversation_id": "2068498998105985298",
+        "created_at": "2026-06-21T00:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T01:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068498998105985298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ta1z19/status/…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Ta1z19/status/2068224932438532169",
+              "start": 143,
+              "url": "https://t.co/zsy9RQ6F4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068498998105985298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1343,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068224932438532169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严禁任何人碰加巴喷丁类药物！\n\n加巴喷丁、普瑞巴林、美洛加巴林等，一律禁碰！加巴喷丁类会让你瞬间产生极强生理和心理依赖。\n一旦成瘾，戒断反应是生不如死的折磨！\n你会变成只为加巴喷丁而活的“加巴鬼”，满脑子只有对药物的疯狂渴求，彻底毁掉正常人生。\n\n哪怕用策划药，也绝不能沾加巴喷丁类！ https://t.co/zsy9RQ6F4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 820,
+          "like_count": 1619,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-06T14:13:55.000Z",
+        "description": "OD丨自伤丨Vocaloid丨音游丨LGBTQ+friendly\n喜欢爬宠 不卖药 非必要不回私信 我很穷欢迎投喂\n不喜欢的直接b 同类查成分回fo 取关请双取",
+        "id": "1964331185590718464",
+        "location": "颅内",
+        "name": "箸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061439509125074944/Hf-Lim6c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 715,
+          "like_count": 19685,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 5153
+        },
+        "url": "",
+        "username": "breakcoreWTF",
+        "verified": false
+      }
+    ]
+  }
+}

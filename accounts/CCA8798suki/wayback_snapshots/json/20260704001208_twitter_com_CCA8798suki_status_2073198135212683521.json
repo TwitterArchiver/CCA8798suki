@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2072998252375589124",
+    "created_at": "2026-07-04T00:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T01:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073198135212683521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1761113424677773312",
+          "start": 0,
+          "username": "uygvkkygfg34289"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073198135212683521",
+    "in_reply_to_user_id": "1761113424677773312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073144779567775968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uygvkkygfg34289 收到收到，感谢感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2072998252375589124",
+        "created_at": "2026-07-04T00:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T01:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073198135212683521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1761113424677773312",
+              "start": 0,
+              "username": "uygvkkygfg34289"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073198135212683521",
+        "in_reply_to_user_id": "1761113424677773312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073144779567775968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uygvkkygfg34289 收到收到，感谢感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761113424677773312",
+        "conversation_id": "2072998252375589124",
+        "created_at": "2026-07-03T20:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T21:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073144779567775968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073144779567775968",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072998252375589124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 贾艳滨更高，精神科医师有精神诊断权。\n高绿芬只是妇产科，只有HRT使用及指导权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 1146,
+          "like_count": 3135,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 506
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-23T19:39:12.000Z",
+        "description": "Normal ！！！\nHRT/法学在读/泛性恋/此号仅用于记录日常生活\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n.\n\n.\n枕头是偶像   很喜欢的一个   已经过去很久很久",
+        "id": "1761113424677773312",
+        "name": "樱桃谷空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950921399960551425/xblVl_oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 90,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "uygvkkygfg34289",
+        "verified": false
+      }
+    ]
+  }
+}

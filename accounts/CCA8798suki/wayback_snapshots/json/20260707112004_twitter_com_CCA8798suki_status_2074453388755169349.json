@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2074112412425269325",
+    "created_at": "2026-07-07T11:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T12:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074453388755169349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2050537864908128256",
+          "start": 0,
+          "username": "jiutao1034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074453388755169349",
+    "in_reply_to_user_id": "2050537864908128256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074112412425269325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiutao1034 色要注意副作用哦，6.25mg/d就可以起到很好的效果啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074112341416009728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi6L3Za4AAs1gF.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2074112363217948672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi6NInaEAA2djO.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2074112378355224576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi6OBAakAAaDvb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2074112394759168000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi6O-Ha4AASzQt.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2074112412425269325",
+        "created_at": "2026-07-07T11:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074453388755169349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050537864908128256",
+              "start": 0,
+              "username": "jiutao1034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074453388755169349",
+        "in_reply_to_user_id": "2050537864908128256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074112412425269325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiutao1034 色要注意副作用哦，6.25mg/d就可以起到很好的效果啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074112341416009728",
+            "3_2074112363217948672",
+            "3_2074112378355224576",
+            "3_2074112394759168000"
+          ]
+        },
+        "author_id": "2050537864908128256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074112412425269325",
+        "created_at": "2026-07-06T12:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074112412425269325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ueCg3zb50",
+              "end": 118,
+              "expanded_url": "https://x.com/jiutao1034/status/2074112412425269325/photo/1",
+              "media_key": "3_2074112341416009728",
+              "start": 95,
+              "url": "https://t.co/0ueCg3zb50"
+            },
+            {
+              "display_url": "pic.x.com/0ueCg3zb50",
+              "end": 118,
+              "expanded_url": "https://x.com/jiutao1034/status/2074112412425269325/photo/1",
+              "media_key": "3_2074112363217948672",
+              "start": 95,
+              "url": "https://t.co/0ueCg3zb50"
+            },
+            {
+              "display_url": "pic.x.com/0ueCg3zb50",
+              "end": 118,
+              "expanded_url": "https://x.com/jiutao1034/status/2074112412425269325/photo/1",
+              "media_key": "3_2074112378355224576",
+              "start": 95,
+              "url": "https://t.co/0ueCg3zb50"
+            },
+            {
+              "display_url": "pic.x.com/0ueCg3zb50",
+              "end": 118,
+              "expanded_url": "https://x.com/jiutao1034/status/2074112412425269325/photo/1",
+              "media_key": "3_2074112394759168000",
+              "start": 95,
+              "url": "https://t.co/0ueCg3zb50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074112412425269325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5022,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "26.7.3-26.7.6  螺内酯换成色普龙\n起码口服的时候好多了，之前5t螺内酯有可能咽不下去，但是现在好多了，另外以后我还是改为天天发吧，我怕msk的大手制裁我😭\n爱你们，明天见❤️ https://t.co/0ueCg3zb50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 1253,
+          "like_count": 3784,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-02T11:28:32.000Z",
+        "description": "年龄党丨mtf丨反对党（母亲反对父亲超级反对)丨出厂日期:10.3.4丨🍥hrt:26.5.18丨无证含糖丨上班族丨不o丨不刀丨同类互fo丨各类fps又菜又爱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiutao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiutao",
+                "start": 0,
+                "url": "https://t.co/r2yUTmzIja"
+              }
+            ]
+          }
+        },
+        "id": "2050537864908128256",
+        "location": "翁法罗斯",
+        "name": "玖桃🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2072324031664275752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066341755046486016/Z5gd4bcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 196,
+          "like_count": 148,
+          "listed_count": 6,
+          "media_count": 35,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/r2yUTmzIja",
+        "username": "jiutao1034",
+        "verified": true
+      }
+    ]
+  }
+}

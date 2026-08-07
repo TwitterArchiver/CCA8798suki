@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2080588066537066634",
+    "created_at": "2026-07-25T13:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081015119140782454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956958284310818816",
+          "start": 0,
+          "username": "qian67068"
+        },
+        {
+          "end": 21,
+          "id": "1863319222765428736",
+          "start": 11,
+          "username": "Re_ZaoTon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081015119140782454",
+    "in_reply_to_user_id": "1956958284310818816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080964506810011769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian67068 @Re_ZaoTon 没绷住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2080588066537066634",
+        "created_at": "2026-07-25T13:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081015119140782454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956958284310818816",
+              "start": 0,
+              "username": "qian67068"
+            },
+            {
+              "end": 21,
+              "id": "1863319222765428736",
+              "start": 11,
+              "username": "Re_ZaoTon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081015119140782454",
+        "in_reply_to_user_id": "1956958284310818816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080964506810011769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian67068 @Re_ZaoTon 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956958284310818816",
+        "conversation_id": "2080588066537066634",
+        "created_at": "2026-07-25T10:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080964506810011769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "Re_ZaoTon"
+            },
+            {
+              "end": 23,
+              "id": "2048693394226974720",
+              "start": 11,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080964506810011769",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080959874645844080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_ZaoTon @CCA8798suki ai帮忙生小孩😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 1430,
+          "like_count": 7062,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-17T05:56:38.000Z",
+        "description": "无糖MtX（F？）半家長黨 | 泛性恋\n它/it 简/繁/en\n必須掛的壞人：@wanliyan3\n姐姐：@LianQiNian\n不ban真人 发布nsfw，满脑子黄色废料 \n分身@qian68069\n在互联网攻受可切的触手娘\n愛所有人，但不会愛人\n学习🎹ing，爱鱼韵、回春丹，研究各种电子软硬件。1.77m57kg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "wanliyan3"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "username": "LianQiNian"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "username": "qian68069"
+              }
+            ]
+          }
+        },
+        "id": "1956958284310818816",
+        "name": "🏳️‍⚧️Qian触手小千🏳️‍🌈",
+        "pinned_tweet_id": "2079745966102700096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074454790810238976/_o3piX2K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1229,
+          "like_count": 8620,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 3014
+        },
+        "url": "",
+        "username": "qian67068",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-01T20:28:37.000Z",
+        "description": "HRT2023.11.21 反跨跨女🍥｜小证含糖🤕｜脾气超好😊｜精神不稳定😖｜不可能自杀😇｜不od不割手🔪｜农村究极穷B❌｜牢保思想🤐｜账号用来当朋友圈使用，分享点有趣的东西，自我评价纯粹神人，受不了可以提前把我B掉😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2345.lgbt",
+                "end": 23,
+                "expanded_url": "http://2345.lgbt",
+                "start": 0,
+                "url": "https://t.co/6l43xOCIK5"
+              }
+            ]
+          }
+        },
+        "id": "1863319222765428736",
+        "location": "埃迪卡拉纪",
+        "name": "枣桐酱🍥",
+        "pinned_tweet_id": "2080614910753726686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058420873053577216/7R8Md9U5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 286,
+          "like_count": 10340,
+          "listed_count": 5,
+          "media_count": 84,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/6l43xOCIK5",
+        "username": "Re_ZaoTon",
+        "verified": false
+      }
+    ]
+  }
+}

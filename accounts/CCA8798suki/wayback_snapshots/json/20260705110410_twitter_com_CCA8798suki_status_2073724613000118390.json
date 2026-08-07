@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073428074096734506",
+    "created_at": "2026-07-05T11:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073724613000118390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821089011727003649",
+          "start": 0,
+          "username": "arrco_justin2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073724613000118390",
+    "in_reply_to_user_id": "1821089011727003649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073428074096734506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arrco_justin2 蒸棒！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2073427981457072128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZLw34aoAAOnzd.png",
+        "width": 262
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073428074096734506",
+        "created_at": "2026-07-05T11:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073724613000118390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821089011727003649",
+              "start": 0,
+              "username": "arrco_justin2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073724613000118390",
+        "in_reply_to_user_id": "1821089011727003649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073428074096734506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arrco_justin2 蒸棒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073427981457072128"
+          ]
+        },
+        "author_id": "1821089011727003649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073428074096734506",
+        "created_at": "2026-07-04T15:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073428074096734506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JiULZXryL3",
+              "end": 94,
+              "expanded_url": "https://x.com/arrco_justin2/status/2073428074096734506/photo/1",
+              "media_key": "3_2073427981457072128",
+              "start": 71,
+              "url": "https://t.co/JiULZXryL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073428074096734506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 818,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一名（初一）考生！\n期末我有7科考完（出分）！\n班级群里欣喜若狂！\n考完！考完！考完！\n（唔嘿~怎么样~班级12desuwa！快夸夸我） https://t.co/JiULZXryL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1213,
+          "like_count": 3520,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-07T07:40:40.000Z",
+        "description": "你好呀！\n这里是JUSTIN哦～",
+        "id": "1821089011727003649",
+        "name": "ARRCO_JUSTIN",
+        "pinned_tweet_id": "1973214125116490192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004481219170594816/t16iV2JK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 979,
+          "like_count": 17700,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2837
+        },
+        "url": "",
+        "username": "arrco_justin2",
+        "verified": false
+      }
+    ]
+  }
+}

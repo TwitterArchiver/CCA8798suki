@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2082032543055204676",
+    "created_at": "2026-07-28T18:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082165605617295365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061323838349340672",
+          "start": 0,
+          "username": "misakinae8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082165605617295365",
+    "in_reply_to_user_id": "2061323838349340672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082032543055204676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misakinae8964 我靠怎么又有讣告...\n节哀\nRIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2082032543055204676",
+        "created_at": "2026-07-28T18:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082165605617295365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061323838349340672",
+              "start": 0,
+              "username": "misakinae8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082165605617295365",
+        "in_reply_to_user_id": "2061323838349340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082032543055204676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misakinae8964 我靠怎么又有讣告...\n节哀\nRIP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061323838349340672",
+        "conversation_id": "2082032543055204676",
+        "created_at": "2026-07-28T09:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082032543055204676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1868205822511288320",
+              "start": 15,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082032543055204676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 25979,
+          "like_count": 175,
+          "quote_count": 6,
+          "reply_count": 83,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n\n沉痛告知：\n我们的挚友@vicooci_olvidar，于2026年7月28日因自杀意外离世，享年18岁。他的离去给家人、朋友以及所有关心他的人带来了巨大的悲痛。我们深感惋惜他的离开是我们无法接受的遗憾。\n谨此沉痛告知亲朋好友，共同悼念。\n愿逝者安息，愿家属节哀。谨此讣告。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1446,
+          "like_count": 7462,
+          "listed_count": 5,
+          "media_count": 116,
+          "tweet_count": 917
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-01T06:00:50.000Z",
+        "description": "这里是三崎同时也是南枳，是我和我的爱人共同的帐号，58/138🚪，欢迎精神病死毒虫地雷女来找我玩，卖各种药的小女孩",
+        "id": "2061323838349340672",
+        "name": "三崎南枝",
+        "pinned_tweet_id": "2077815922820350025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061329806676131840/dbADJoMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 332,
+          "like_count": 3522,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 745
+        },
+        "url": "",
+        "username": "misakinae8964",
+        "verified": false
+      }
+    ]
+  }
+}

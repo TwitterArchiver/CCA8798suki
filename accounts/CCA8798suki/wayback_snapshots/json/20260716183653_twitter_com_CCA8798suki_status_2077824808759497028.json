@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2077692128285897010",
+    "created_at": "2026-07-16T18:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T19:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077824808759497028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077824808759497028",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077692128285897010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2077692108652400640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVx9vjb0AAsYXN.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2412,
+        "media_key": "3_2077692119674945536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVx-YnagAAalD1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2077692128285897010",
+        "created_at": "2026-07-16T18:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077824808759497028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077824808759497028",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077692128285897010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077692108652400640",
+            "3_2077692119674945536"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2077692128285897010",
+        "created_at": "2026-07-16T09:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077692128285897010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMM2yaQ6X7",
+              "end": 36,
+              "expanded_url": "https://x.com/aaarjkk/status/2077692128285897010/photo/1",
+              "media_key": "3_2077692108652400640",
+              "start": 13,
+              "url": "https://t.co/jMM2yaQ6X7"
+            },
+            {
+              "display_url": "pic.x.com/jMM2yaQ6X7",
+              "end": 36,
+              "expanded_url": "https://x.com/aaarjkk/status/2077692128285897010/photo/1",
+              "media_key": "3_2077692119674945536",
+              "start": 13,
+              "url": "https://t.co/jMM2yaQ6X7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077692128285897010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1800,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有手机了喵！！🎉🎉🎉🎉 https://t.co/jMM2yaQ6X7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 1343,
+          "like_count": 5230,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2076140275316261294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 1145,
+          "like_count": 23804,
+          "listed_count": 5,
+          "media_count": 529,
+          "tweet_count": 3295
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

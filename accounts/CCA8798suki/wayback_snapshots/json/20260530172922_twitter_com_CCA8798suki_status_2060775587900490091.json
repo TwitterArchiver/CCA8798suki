@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2060565643653698001",
+    "created_at": "2026-05-30T17:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T18:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060775587900490091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040203145544880128",
+          "start": 0,
+          "username": "iWwAUfN9Eo50488"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060775587900490091",
+    "in_reply_to_user_id": "2040203145544880128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060565643653698001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iWwAUfN9Eo50488 恐怖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060565629082705920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJiZhbXaoAAKb0o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2060565643653698001",
+        "created_at": "2026-05-30T17:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T18:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060775587900490091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040203145544880128",
+              "start": 0,
+              "username": "iWwAUfN9Eo50488"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060775587900490091",
+        "in_reply_to_user_id": "2040203145544880128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060565643653698001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iWwAUfN9Eo50488 恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060565629082705920"
+          ]
+        },
+        "author_id": "2040203145544880128",
+        "conversation_id": "2060565643653698001",
+        "created_at": "2026-05-30T03:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060565643653698001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXkMCmtVDN",
+              "end": 30,
+              "expanded_url": "https://x.com/iWwAUfN9Eo50488/status/2060565643653698001/photo/1",
+              "media_key": "3_2060565629082705920",
+              "start": 7,
+              "url": "https://t.co/DXkMCmtVDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060565643653698001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 253,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被同学咬了😰 https://t.co/DXkMCmtVDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 359,
+          "like_count": 404,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-03T23:02:47.000Z",
+        "description": "hrt/08 1.18高中牲 /odo的多一点💊/不🔪\n闲聊找我/私信看见会回/非常喜欢coffee/💊/书法/🚬/双向\n不善言辞但是会倾听，可以充当大家的情绪垃圾桶。\n（求你们和我唠嗑吧😭）",
+        "id": "2040203145544880128",
+        "name": "321908🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040341735541477376/sjwX1z81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 331,
+          "like_count": 1142,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 592
+        },
+        "username": "iWwAUfN9Eo50488",
+        "verified": false
+      }
+    ]
+  }
+}

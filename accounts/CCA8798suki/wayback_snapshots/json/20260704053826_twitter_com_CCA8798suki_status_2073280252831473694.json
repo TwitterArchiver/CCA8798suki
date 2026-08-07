@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073216486731309252",
+    "created_at": "2026-07-04T05:38:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:38:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073280252831473694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1792161919429996544",
+          "start": 0,
+          "username": "suki_kawaii_no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073280252831473694",
+    "in_reply_to_user_id": "1792161919429996544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073261728096543155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suki_kawaii_no 准确来说是城际车来跑地铁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073216486731309252",
+        "created_at": "2026-07-04T05:38:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:38:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073280252831473694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1792161919429996544",
+              "start": 0,
+              "username": "suki_kawaii_no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073280252831473694",
+        "in_reply_to_user_id": "1792161919429996544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073261728096543155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suki_kawaii_no 准确来说是城际车来跑地铁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792161919429996544",
+        "conversation_id": "2073216486731309252",
+        "created_at": "2026-07-04T04:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T05:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073261728096543155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073261728096543155",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073216486731309252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki ？地铁变高铁了？\n不过我更喜欢地铁座位的小面积"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1160,
+          "like_count": 3203,
+          "listed_count": 3,
+          "media_count": 69,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T11:56:45.000Z",
+        "description": "你好！陌生人祝你天天开心^_^",
+        "id": "1792161919429996544",
+        "name": "纳纳芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071072393679011840/GIZTHZlZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 45,
+          "like_count": 1715,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 726
+        },
+        "url": "",
+        "username": "suki_kawaii_no",
+        "verified": false
+      }
+    ]
+  }
+}

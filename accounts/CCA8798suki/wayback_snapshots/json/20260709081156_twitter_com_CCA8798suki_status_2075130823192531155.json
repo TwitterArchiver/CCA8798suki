@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2075105292896092352",
+    "created_at": "2026-07-09T08:11:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:11:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075130823192531155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771831647320801280",
+          "start": 0,
+          "username": "xi_mo_jiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075130823192531155",
+    "in_reply_to_user_id": "1771831647320801280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075105292896092352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_mo_jiang 别买，是那种老奶奶拿来垫厨房的那种衣服，我买过"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075105282678759424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxBQp2aoAAUWNi.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2075105292896092352",
+        "created_at": "2026-07-09T08:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075130823192531155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771831647320801280",
+              "start": 0,
+              "username": "xi_mo_jiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075130823192531155",
+        "in_reply_to_user_id": "1771831647320801280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075105292896092352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_mo_jiang 别买，是那种老奶奶拿来垫厨房的那种衣服，我买过"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075105282678759424"
+          ]
+        },
+        "author_id": "1771831647320801280",
+        "conversation_id": "2075105292896092352",
+        "created_at": "2026-07-09T06:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T07:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075105292896092352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/De5O08PJa3",
+              "end": 39,
+              "expanded_url": "https://x.com/xi_mo_jiang/status/2075105292896092352/photo/1",
+              "media_key": "3_2075105282678759424",
+              "start": 16,
+              "url": "https://t.co/De5O08PJa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075105292896092352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卖家：这么一清理，仓库干净多了 https://t.co/De5O08PJa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1267,
+          "like_count": 3968,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 596
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T09:29:32.000Z",
+        "description": "",
+        "id": "1771831647320801280",
+        "name": "汐沫(前身山竹)",
+        "pinned_tweet_id": "2004532477600387349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072261259794268161/G6IO0KTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 920,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "xi_mo_jiang",
+        "verified": false
+      }
+    ]
+  }
+}

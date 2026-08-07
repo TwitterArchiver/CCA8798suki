@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2074883441955311975",
+    "created_at": "2026-07-09T08:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T09:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075134964438651188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937427868826357762",
+          "start": 0,
+          "username": "miradreaamy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075134964438651188",
+    "in_reply_to_user_id": "1937427868826357762",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074883441955311975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miradreaamy 120🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2074883231745208320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMt3TlqWcAAl5IF.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2074883441955311975",
+        "created_at": "2026-07-09T08:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075134964438651188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937427868826357762",
+              "start": 0,
+              "username": "miradreaamy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075134964438651188",
+        "in_reply_to_user_id": "1937427868826357762",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074883441955311975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miradreaamy 120🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074883231745208320"
+          ]
+        },
+        "author_id": "1937427868826357762",
+        "conversation_id": "2074883441955311975",
+        "created_at": "2026-07-08T15:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074883441955311975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tgn88i6mJO",
+              "end": 69,
+              "expanded_url": "https://x.com/miradreaamy/status/2074883441955311975/photo/1",
+              "media_key": "3_2074883231745208320",
+              "start": 46,
+              "url": "https://t.co/Tgn88i6mJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074883441955311975",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 354,
+          "impression_count": 624213,
+          "like_count": 1405,
+          "quote_count": 164,
+          "reply_count": 8089,
+          "retweet_count": 147
+        },
+        "reply_settings": "everyone",
+        "text": "Bunu çözersen, dahisin.\n\n11'in değeri nedir ? https://t.co/Tgn88i6mJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 1271,
+          "like_count": 4023,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-24T08:29:43.000Z",
+        "description": "Posting positive warm and art and viral content ...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "http://x.com",
+                "start": 0,
+                "url": "https://t.co/HWER0DDBKK"
+              }
+            ]
+          }
+        },
+        "id": "1937427868826357762",
+        "location": "İstanbul, Türkiye",
+        "name": "Mira",
+        "pinned_tweet_id": "2074883441955311975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050991924933226496/BfoEDBzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15301,
+          "following_count": 0,
+          "like_count": 8357,
+          "listed_count": 30,
+          "media_count": 236,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/HWER0DDBKK",
+        "username": "miradreaamy",
+        "verified": true
+      }
+    ]
+  }
+}

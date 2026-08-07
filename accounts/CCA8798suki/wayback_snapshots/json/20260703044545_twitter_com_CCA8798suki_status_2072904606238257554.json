@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2072684471347007608",
+    "created_at": "2026-07-03T04:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072904606238257554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072904606238257554",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072744060109156749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2072684471347007608",
+        "created_at": "2026-07-03T04:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072904606238257554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072904606238257554",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072744060109156749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153430387504373764",
+        "conversation_id": "2072684471347007608",
+        "created_at": "2026-07-02T18:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072744060109156749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 23,
+              "id": "2063957681984225280",
+              "start": 13,
+              "username": "YuwenMewo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072744060109156749",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072684471347007608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @YuwenMewo 哦烧仙草啊那正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 1112,
+          "like_count": 3078,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 501
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067242056930746368/6sGN2gJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 286,
+          "like_count": 172,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

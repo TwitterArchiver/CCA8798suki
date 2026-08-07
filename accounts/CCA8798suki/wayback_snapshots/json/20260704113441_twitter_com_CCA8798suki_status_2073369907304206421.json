@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073320836367560717",
+    "created_at": "2026-07-04T11:34:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073369907304206421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "Snow_Xue_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073369907304206421",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073320836367560717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_1 抱抱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073320836367560717",
+        "created_at": "2026-07-04T11:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073369907304206421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073369907304206421",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073320836367560717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627860014114168833",
+        "conversation_id": "2073320836367560717",
+        "created_at": "2026-07-04T08:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073320836367560717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073320836367560717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 351,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么会从小就想当女孩纸呢，为什么会性别焦虑呢。\n他们小时候似乎从来没逼着我要怎么帅怎么样，只是不愿意让我穿女装。\n或许是天生的吧，注定了我有性别焦虑，注定了我想当女孩纸。\n可是，无论是hrt还是srs都只能缓解，不能彻底解决。\n最终，咱还是拥抱了药药，只有药药不会背叛我，爱着我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1176,
+          "like_count": 3269,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林，曲马多重度依赖✝️ \n| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 半家长党（约等于家长不管党） od不管 | 姐姐 @vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 263,
+          "like_count": 5004,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2061814797843468381",
+    "created_at": "2026-06-03T08:27:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:27:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062088867520618991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249681779218190338",
+          "start": 0,
+          "username": "realMlgmXyysd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062088867520618991",
+    "in_reply_to_user_id": "1249681779218190338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062081369745109390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realMlgmXyysd 实际上如果早期直接高雌压雄会造成乳房发育不良，而比卡鲁胺太贵，螺内酯太拉，CPA算是综合一点的方案，如果注意累积剂量，12.5mg/3d或6.25mg/d完全可以压制睾酮了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2061814797843468381",
+        "created_at": "2026-06-03T08:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062088867520618991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249681779218190338",
+              "start": 0,
+              "username": "realMlgmXyysd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062088867520618991",
+        "in_reply_to_user_id": "1249681779218190338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062081369745109390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realMlgmXyysd 实际上如果早期直接高雌压雄会造成乳房发育不良，而比卡鲁胺太贵，螺内酯太拉，CPA算是综合一点的方案，如果注意累积剂量，12.5mg/3d或6.25mg/d完全可以压制睾酮了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249681779218190338",
+        "conversation_id": "2061814797843468381",
+        "created_at": "2026-06-03T07:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062081369745109390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062081369745109390",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061814797843468381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki wiki 也不怎么准了说实话\n\n而且现在 cpa 都成综合最差抗雄方案了，累计毒性和副作用太严重，安全剂量还完全达不到抗雄效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 530,
+          "like_count": 777,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T12:52:14.000Z",
+        "description": "A cat, nya~｜Inner @MlgmXyysd｜https://t.co/xB1GClxlkz｜😘@cjybyjk @WanBin1010｜XDA Recognized Developer｜Programmer/Engineer/Coder/Tipster｜CisF (DSD)｜Bisexuality｜Geek Girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "MlgmXyysd"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "cjybyjk"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "WanBin1010"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 52,
+                "expanded_url": "http://neko.ink",
+                "start": 29,
+                "url": "https://t.co/xB1GClxlkz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 23,
+                "expanded_url": "https://neko.ink",
+                "start": 0,
+                "url": "https://t.co/PeWlFBJuYU"
+              }
+            ]
+          }
+        },
+        "id": "1249681779218190338",
+        "location": "In Your Heart 💘",
+        "name": "MlgmXyysd🐱💕",
+        "pinned_tweet_id": "1612139513215582209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057543814043320320/KHl6UoL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 96,
+          "like_count": 7613,
+          "listed_count": 5,
+          "media_count": 549,
+          "tweet_count": 7413
+        },
+        "url": "https://t.co/PeWlFBJuYU",
+        "username": "realMlgmXyysd",
+        "verified": false
+      }
+    ]
+  }
+}

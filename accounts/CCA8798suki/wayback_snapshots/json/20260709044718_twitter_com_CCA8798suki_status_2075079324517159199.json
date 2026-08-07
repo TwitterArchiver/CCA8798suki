@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2052654227869343855",
+    "created_at": "2026-07-09T04:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T05:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075079324517159199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771831647320801280",
+          "start": 0,
+          "username": "xi_mo_jiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075079324517159199",
+    "in_reply_to_user_id": "1771831647320801280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052654227869343855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_mo_jiang 非常好域名 使我想加你Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052654222555197440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHx-I9YbsAApurA.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2052654227869343855",
+        "created_at": "2026-07-09T04:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T05:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075079324517159199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771831647320801280",
+              "start": 0,
+              "username": "xi_mo_jiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075079324517159199",
+        "in_reply_to_user_id": "1771831647320801280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052654227869343855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_mo_jiang 非常好域名 使我想加你Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052654222555197440"
+          ]
+        },
+        "author_id": "1771831647320801280",
+        "conversation_id": "2052654227869343855",
+        "created_at": "2026-05-08T07:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052654227869343855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mtx.wiki",
+              "end": 32,
+              "expanded_url": "http://mtx.wiki",
+              "start": 9,
+              "unwound_url": "http://mtx.wiki",
+              "url": "https://t.co/dxnzshtOO4"
+            },
+            {
+              "display_url": "mtf.wiki",
+              "end": 73,
+              "expanded_url": "http://mtf.wiki",
+              "start": 50,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.wiki/",
+              "url": "https://t.co/uWGWlvBGc4"
+            },
+            {
+              "display_url": "pic.x.com/Juv2FHzB6e",
+              "end": 104,
+              "expanded_url": "https://x.com/xi_mo_jiang/status/2052654227869343855/photo/1",
+              "media_key": "3_2052654222555197440",
+              "start": 81,
+              "url": "https://t.co/Juv2FHzB6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052654227869343855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花巨额RMB买下了https://t.co/dxnzshtOO4，可以弄些什么内容呢？总感觉好多都和https://t.co/uWGWlvBGc4的内容重合了呢 https://t.co/Juv2FHzB6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1261,
+          "like_count": 3863,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 589
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T09:29:32.000Z",
+        "description": "",
+        "id": "1771831647320801280",
+        "name": "汐沫(前身山竹)",
+        "pinned_tweet_id": "2004532477600387349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072261259794268161/G6IO0KTm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 918,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "xi_mo_jiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2067802093038276948",
+    "created_at": "2026-06-19T14:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067973117281268163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2063266311254552576",
+          "start": 0,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067973117281268163",
+    "in_reply_to_user_id": "2063266311254552576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067802093038276948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17nuun 超天才"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2067802037920935936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJO_3AbMAAqje0.jpg",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2067802093038276948",
+        "created_at": "2026-06-19T14:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067973117281268163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2063266311254552576",
+              "start": 0,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067973117281268163",
+        "in_reply_to_user_id": "2063266311254552576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067802093038276948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17nuun 超天才"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067802037920935936"
+          ]
+        },
+        "author_id": "2063266311254552576",
+        "conversation_id": "2067802093038276948",
+        "created_at": "2026-06-19T02:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T03:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067802093038276948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rseiiz4YVZ",
+              "end": 33,
+              "expanded_url": "https://x.com/17nuun/status/2067802093038276948/photo/1",
+              "media_key": "3_2067802037920935936",
+              "start": 10,
+              "url": "https://t.co/rseiiz4YVZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067802093038276948",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6584,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我甚至不敢露出全名 https://t.co/rseiiz4YVZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 721,
+          "like_count": 1461,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "免费心理委员兼树洞~/倾诉或聊天请私信!\n日常/梗图为主🥳\nsub/mt(x)f🏳️‍⚧️/年龄??/心境情感障碍/INFP /💊活在春风里/\n\n最爱的小孩@dnshu135734 / 小号是@haiyueshuimuxia",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 78,
+                "username": "dnshu135734"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "haiyueshuimuxia"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "name": "海月水母",
+        "pinned_tweet_id": "2067783468805959714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063269297489944576/ibIHQ0Jl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 662,
+          "like_count": 385,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 702
+        },
+        "url": "",
+        "username": "17nuun",
+        "verified": true
+      }
+    ]
+  }
+}

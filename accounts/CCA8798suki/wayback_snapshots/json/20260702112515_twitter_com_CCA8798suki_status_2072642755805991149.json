@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2071934286564081785",
+    "created_at": "2026-07-02T11:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072642755805991149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1580456162050584577",
+          "start": 0,
+          "username": "chushouplay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072642755805991149",
+    "in_reply_to_user_id": "1580456162050584577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072640930184859977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chushouplay 肝肾：？！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2071934286564081785",
+        "created_at": "2026-07-02T11:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072642755805991149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1580456162050584577",
+              "start": 0,
+              "username": "chushouplay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072642755805991149",
+        "in_reply_to_user_id": "1580456162050584577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072640930184859977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chushouplay 肝肾：？！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580456162050584577",
+        "conversation_id": "2071934286564081785",
+        "created_at": "2026-07-02T11:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072640930184859977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072640930184859977",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072623989286207866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 给睾酮来个全军出击（不是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1082,
+          "like_count": 2939,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 495
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-13T07:11:58.000Z",
+        "description": "175/50kg，xyn。mtf🏳️‍⚧️｜无证含🍥中｜HRT🍥：26.3.21 ｜不od（没药），感觉死亡无所谓了，不疼的话死就死了吧｜现在已经润到上海，且和家里断联\nhttps://t.co/JMXtEerJaC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chushouplay",
+                "end": 108,
+                "expanded_url": "https://ngl.link/chushouplay",
+                "start": 85,
+                "url": "https://t.co/JMXtEerJaC"
+              }
+            ]
+          }
+        },
+        "id": "1580456162050584577",
+        "name": "精灵_Elf🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065613332477005824/SDup7AFK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 54,
+          "like_count": 293,
+          "listed_count": 7,
+          "media_count": 65,
+          "tweet_count": 392
+        },
+        "url": "",
+        "username": "chushouplay",
+        "verified": true
+      }
+    ]
+  }
+}

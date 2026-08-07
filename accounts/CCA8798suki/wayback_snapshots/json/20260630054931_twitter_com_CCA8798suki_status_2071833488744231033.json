@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2071806299843731667",
+    "created_at": "2026-06-30T05:49:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071833488744231033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071833488744231033",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071830849302167724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa 公式法就是好用🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2071806299843731667",
+        "created_at": "2026-06-30T05:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071833488744231033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071833488744231033",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071830849302167724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa 公式法就是好用🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060679315126439936",
+        "conversation_id": "2071806299843731667",
+        "created_at": "2026-06-30T05:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071830849302167724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071830849302167724",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071806299843731667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 我将毕生研究这句话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 1006,
+          "like_count": 2604,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | 述情障碍 | Developer | TypeScript | Node.js | LocalLLaMA Maximalist | 先天跨 | 会伪音 | 反向深柜 | MioMtFWiki 创建者 | 平权主义 | ✨同类互 fo 喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 799,
+          "like_count": 1336,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "MioKitsukawa",
+        "verified": true
+      }
+    ]
+  }
+}

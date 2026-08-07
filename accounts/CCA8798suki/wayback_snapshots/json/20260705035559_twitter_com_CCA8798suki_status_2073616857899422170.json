@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073403125910970578",
+    "created_at": "2026-07-05T03:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073616857899422170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073616857899422170",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073403125910970578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 别吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073390504289738752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYprajboAAtJxR.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073403125910970578",
+        "created_at": "2026-07-05T03:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073616857899422170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073616857899422170",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073403125910970578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 别吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073390504289738752"
+          ]
+        },
+        "author_id": "2053864757329817600",
+        "conversation_id": "2073403125910970578",
+        "created_at": "2026-07-04T13:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073403125910970578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cgf52CiRyq",
+              "end": 48,
+              "expanded_url": "https://x.com/today_is_foggy/status/2073403125910970578/photo/1",
+              "media_key": "3_2073390504289738752",
+              "start": 25,
+              "url": "https://t.co/Cgf52CiRyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073403125910970578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1061,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能，吗？不不不，不，吗？兑。\n一个怂货还在纠结。 https://t.co/Cgf52CiRyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 1185,
+          "like_count": 3326,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 527
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "kiki，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "是kiki~",
+        "pinned_tweet_id": "2072524780209864832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054228140684410881/UolaELqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 91,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      }
+    ]
+  }
+}

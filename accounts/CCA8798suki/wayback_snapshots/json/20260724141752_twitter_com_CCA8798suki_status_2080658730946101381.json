@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2080534574019612876",
+    "created_at": "2026-07-24T14:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T15:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080658730946101381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2075765382602969088",
+          "start": 0,
+          "username": "lxlUsually1101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080658730946101381",
+    "in_reply_to_user_id": "2075765382602969088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080648782212178053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxlUsually1101 螺内酯是保钾利尿药哦，有经济能力的话可以买醋酸甲羟孕酮配合稍低剂量的螺内酯吃，注意避免吃高钾食物哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2080648779494285312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_zCowbYAA1jQh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2080534574019612876",
+        "created_at": "2026-07-24T14:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080658730946101381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2075765382602969088",
+              "start": 0,
+              "username": "lxlUsually1101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080658730946101381",
+        "in_reply_to_user_id": "2075765382602969088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080648782212178053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxlUsually1101 螺内酯是保钾利尿药哦，有经济能力的话可以买醋酸甲羟孕酮配合稍低剂量的螺内酯吃，注意避免吃高钾食物哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080648779494285312"
+          ]
+        },
+        "author_id": "2075765382602969088",
+        "conversation_id": "2080534574019612876",
+        "created_at": "2026-07-24T13:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080648782212178053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7huyoj1sxG",
+              "end": 40,
+              "expanded_url": "https://x.com/lxlUsually1101/status/2080648782212178053/photo/1",
+              "media_key": "3_2080648779494285312",
+              "start": 17,
+              "url": "https://t.co/7huyoj1sxG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080648782212178053",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080628856617353263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 有在吃 https://t.co/7huyoj1sxG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 1426,
+          "like_count": 7034,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-11T02:15:16.000Z",
+        "description": "坚持一个中国原则|生产日期2012|真寻粉|\n不吸du不抽烟不喝酒",
+        "id": "2075765382602969088",
+        "name": "Usually🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077894554313953280/K-eTBj3b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 55,
+          "like_count": 791,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "lxlUsually1101",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059087957274066944",
+        "3_2059087958217719808"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "conversation_id": "2059087961044697224",
+    "created_at": "2026-05-26T01:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T02:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059087961044697224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1764195010986274816",
+          "start": 11,
+          "username": "CCA8798"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DQ1u5fVMUe",
+          "end": 165,
+          "expanded_url": "https://x.com/CCA8798suki/status/2059087961044697224/photo/1",
+          "media_key": "3_2059087957274066944",
+          "start": 142,
+          "url": "https://t.co/DQ1u5fVMUe"
+        },
+        {
+          "display_url": "pic.x.com/DQ1u5fVMUe",
+          "end": 165,
+          "expanded_url": "https://x.com/CCA8798suki/status/2059087961044697224/photo/1",
+          "media_key": "3_2059087958217719808",
+          "start": 142,
+          "url": "https://t.co/DQ1u5fVMUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059087961044697224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "非常不幸的是，本人大号@CCA8798疑似被盗号销户了，我尝试了多种渠道和解决方式，包括但不限于换节点换浏览器开匿名换手机电脑换登录方式等各种排列组合，但是由于sb马斯克开发团队把测试代码放生产环境跑导致的沙比bug，即一直提示“内部错误”，账号暂时无法找回，望推u们提供解决办法😭 https://t.co/DQ1u5fVMUe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [CCA8798].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "CCA8798",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "CCA8798"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 375,
+        "media_key": "3_2059087957274066944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNZlm6bAAArETm.jpg",
+        "width": 652
+      },
+      {
+        "height": 103,
+        "media_key": "3_2059087958217719808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNZlqbaAAAgfBa.jpg",
+        "width": 212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059087957274066944",
+            "3_2059087958217719808"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2059087961044697224",
+        "created_at": "2026-05-26T01:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T02:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059087961044697224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1764195010986274816",
+              "start": 11,
+              "username": "CCA8798"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DQ1u5fVMUe",
+              "end": 165,
+              "expanded_url": "https://x.com/CCA8798suki/status/2059087961044697224/photo/1",
+              "media_key": "3_2059087957274066944",
+              "start": 142,
+              "url": "https://t.co/DQ1u5fVMUe"
+            },
+            {
+              "display_url": "pic.x.com/DQ1u5fVMUe",
+              "end": 165,
+              "expanded_url": "https://x.com/CCA8798suki/status/2059087961044697224/photo/1",
+              "media_key": "3_2059087958217719808",
+              "start": 142,
+              "url": "https://t.co/DQ1u5fVMUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059087961044697224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常不幸的是，本人大号@CCA8798疑似被盗号销户了，我尝试了多种渠道和解决方式，包括但不限于换节点换浏览器开匿名换手机电脑换登录方式等各种排列组合，但是由于sb马斯克开发团队把测试代码放生产环境跑导致的沙比bug，即一直提示“内部错误”，账号暂时无法找回，望推u们提供解决办法😭 https://t.co/DQ1u5fVMUe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 二代目互fo\n一代目@CCA8798(日常)\n二代目🔞！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 134,
+                "username": "CCA8798"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "name": "不会起名の捌拐玖捌🍥(二代目nsfw版)",
+        "pinned_tweet_id": "2048695961262969222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048693785580929024/pXyNXwXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 29,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 11
+        },
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

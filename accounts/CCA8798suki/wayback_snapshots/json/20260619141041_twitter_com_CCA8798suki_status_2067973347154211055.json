@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2067768348604301744",
+    "created_at": "2026-06-19T14:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067973347154211055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955218488185982980",
+          "start": 0,
+          "username": "bbbkamen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067973347154211055",
+    "in_reply_to_user_id": "1955218488185982980",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067768348604301744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbbkamen why mix femboy and mtf?🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 452,
+        "media_key": "3_2067768345827696640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLIwWuLbYAA3FmH.jpg",
+        "width": 379
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2067768348604301744",
+        "created_at": "2026-06-19T14:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067973347154211055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955218488185982980",
+              "start": 0,
+              "username": "bbbkamen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067973347154211055",
+        "in_reply_to_user_id": "1955218488185982980",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067768348604301744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbbkamen why mix femboy and mtf?🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067768345827696640"
+          ]
+        },
+        "author_id": "1955218488185982980",
+        "conversation_id": "2067768348604301744",
+        "created_at": "2026-06-19T00:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T01:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067768348604301744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5biM2KT2x",
+              "end": 38,
+              "expanded_url": "https://x.com/bbbkamen/status/2067768348604301744/photo/1",
+              "media_key": "3_2067768345827696640",
+              "start": 15,
+              "url": "https://t.co/Q5biM2KT2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067768348604301744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 29344,
+          "like_count": 213,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真以为逛了两天推就啥都懂了？ https://t.co/Q5biM2KT2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 721,
+          "like_count": 1461,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 291
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T10:43:18.000Z",
+        "description": "传奇耐电王/MTX/出厂日09.7.11/高二物化生/不政/🍥💊/正在尝试炒作/周末党/家长严管党/前世@aaakamen来生@ccckamen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 52,
+                "username": "aaakamen"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "ccckamen"
+              }
+            ]
+          }
+        },
+        "id": "1955218488185982980",
+        "location": "内蒙+++真的有这地方同类吗",
+        "name": "☬脊髓☬世一没素",
+        "pinned_tweet_id": "2067854989201199460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040938841524301824/DBpinweT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 312,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 348
+        },
+        "url": "",
+        "username": "bbbkamen",
+        "verified": false
+      }
+    ]
+  }
+}

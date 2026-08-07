@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2071806299843731667",
+    "created_at": "2026-07-01T05:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072186462389571953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061209095689105408",
+          "start": 0,
+          "username": "NekoNekoAzusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072186462389571953",
+    "in_reply_to_user_id": "2061209095689105408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072039101445120201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NekoNekoAzusa 那很超标了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2071806299843731667",
+        "created_at": "2026-07-01T05:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072186462389571953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061209095689105408",
+              "start": 0,
+              "username": "NekoNekoAzusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072186462389571953",
+        "in_reply_to_user_id": "2061209095689105408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072039101445120201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NekoNekoAzusa 那很超标了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061209095689105408",
+        "conversation_id": "2071806299843731667",
+        "created_at": "2026-06-30T19:26:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T20:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072039101445120201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072039101445120201",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071806299843731667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 我哥们以前的学校还有情侣躲厕所里口的，躲小树林或者别的隐秘的角落SOX的，真的震惊到我了，不过亲眼见证的逆天点的也就是俩情侣带红酒和利群来学校里，喝醉了就搁那草地上亲，男的休学处分回家，女的不知道，下场大概也很惨吧🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 1034,
+          "like_count": 2769,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-31T22:13:40.000Z",
+        "description": "来自小镇的废柴二次元\n希望人生能得到一些不起眼的改变",
+        "id": "2061209095689105408",
+        "name": "Alva_Adam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071202562280460288/KFDVzQAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 73,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "NekoNekoAzusa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2083215151168397581",
+    "created_at": "2026-08-01T08:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083466662687424942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1368897611672018953",
+          "start": 0,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083466662687424942",
+    "in_reply_to_user_id": "1368897611672018953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083215151168397581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUEQIUxka 蹲蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2083215143983628288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkRItfbwAAo0tR.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2083215151168397581",
+        "created_at": "2026-08-01T08:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083466662687424942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1368897611672018953",
+              "start": 0,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083466662687424942",
+        "in_reply_to_user_id": "1368897611672018953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083215151168397581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUEQIUxka 蹲蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083215143983628288"
+          ]
+        },
+        "author_id": "1368897611672018953",
+        "conversation_id": "2083215151168397581",
+        "created_at": "2026-07-31T15:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083215151168397581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1t1HttmDpE",
+              "end": 141,
+              "expanded_url": "https://x.com/XUEQIUxka/status/2083215151168397581/photo/1",
+              "media_key": "3_2083215143983628288",
+              "start": 118,
+              "url": "https://t.co/1t1HttmDpE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "d029ddcdc4fc44b6"
+        },
+        "id": "2083215151168397581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2085,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "庆祝9700fo，日常抽奖第12弹！\n揪9个小可爱送一份礼物\n奖品：定制周边小礼物一份\n奖品于8月15号统一发出\n后续抽奖也会放在亮点，欢迎参加\n开奖时间为：2026年8月8日（UTC+8）20:00分开奖\n转发或点赞或评论，均可参与 https://t.co/1t1HttmDpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 1457,
+          "like_count": 8029,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看简介&日常@Xyliaxka\n爱人：@yongquan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "yongquan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9798,
+          "following_count": 2360,
+          "like_count": 33651,
+          "listed_count": 26,
+          "media_count": 1663,
+          "tweet_count": 5995
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

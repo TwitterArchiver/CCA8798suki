@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048989844450521088"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "conversation_id": "2048990030337917190",
+    "created_at": "2026-04-28T04:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048990030337917190"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 37,
+          "start": 33,
+          "tag": "男の娘"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DRqFpVqyjd",
+          "end": 61,
+          "expanded_url": "https://x.com/CCA8798suki/status/2048990030337917190/photo/1",
+          "media_key": "3_2048989844450521088",
+          "start": 38,
+          "url": "https://t.co/DRqFpVqyjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048990030337917190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "老大...我们这样真的能going到人吗....\n#可爱的男孩子 #男の娘 https://t.co/DRqFpVqyjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2048989844450521088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG95aFLbMAABoZ3.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048989844450521088"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2048990030337917190",
+        "created_at": "2026-04-28T04:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048990030337917190"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "男の娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DRqFpVqyjd",
+              "end": 61,
+              "expanded_url": "https://x.com/CCA8798suki/status/2048990030337917190/photo/1",
+              "media_key": "3_2048989844450521088",
+              "start": 38,
+              "url": "https://t.co/DRqFpVqyjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048990030337917190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老大...我们这样真的能going到人吗....\n#可爱的男孩子 #男の娘 https://t.co/DRqFpVqyjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 二代目慢慢回fo(求互fo)\n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "name": "不会起名の捌拐玖捌🍥(二代目仇恨msk版)",
+        "pinned_tweet_id": "2048695961262969222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048693785580929024/pXyNXwXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 23,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 5
+        },
+        "username": "CCA8798suki",
+        "verified": false
+      }
+    ]
+  }
+}

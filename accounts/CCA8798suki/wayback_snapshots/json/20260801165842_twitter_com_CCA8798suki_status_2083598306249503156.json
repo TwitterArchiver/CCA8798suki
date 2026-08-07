@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2082764804612305353",
+    "created_at": "2026-08-01T16:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083598306249503156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083598306249503156",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082764804612305353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 恭喜恭喜ヾ ^_^♪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082764786354577408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd3iclbYAA-WCJ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082764785956114432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd3ibGbUAAnXJF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 946,
+        "media_key": "3_2082764786346192896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd3icjbcAA97cc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2082764804612305353",
+        "created_at": "2026-08-01T16:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083598306249503156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083598306249503156",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082764804612305353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 恭喜恭喜ヾ ^_^♪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082764786354577408",
+            "3_2082764785956114432",
+            "3_2082764786346192896"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "conversation_id": "2082764804612305353",
+        "created_at": "2026-07-30T09:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082764804612305353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/grpsMs8Zs0",
+              "end": 34,
+              "expanded_url": "https://x.com/xue_zhi2008/status/2082764804612305353/photo/1",
+              "media_key": "3_2082764786354577408",
+              "start": 11,
+              "url": "https://t.co/grpsMs8Zs0"
+            },
+            {
+              "display_url": "pic.x.com/grpsMs8Zs0",
+              "end": 34,
+              "expanded_url": "https://x.com/xue_zhi2008/status/2082764804612305353/photo/1",
+              "media_key": "3_2082764785956114432",
+              "start": 11,
+              "url": "https://t.co/grpsMs8Zs0"
+            },
+            {
+              "display_url": "pic.x.com/grpsMs8Zs0",
+              "end": 34,
+              "expanded_url": "https://x.com/xue_zhi2008/status/2082764804612305353/photo/1",
+              "media_key": "3_2082764786346192896",
+              "start": 11,
+              "url": "https://t.co/grpsMs8Zs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082764804612305353",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 30731,
+          "like_count": 423,
+          "quote_count": 2,
+          "reply_count": 64,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "胜利收工！明天出院力 https://t.co/grpsMs8Zs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 1461,
+          "like_count": 8060,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 1023
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n观上下至前后，知里外于左右 || 过期JK（悲）/医学与药物/有机化学/分子生物学/逻辑学/声乐/摄影（喜欢是一方面，啊我太菜了×）|| Arknights/Endfield/maimaiDX || 查完成分记得 ↑是我的投影 ↓是鲜活的我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "name": "织织织织织",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024737262987251713/RPkPlRXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2583,
+          "following_count": 559,
+          "like_count": 8012,
+          "listed_count": 8,
+          "media_count": 827,
+          "tweet_count": 3132
+        },
+        "url": "",
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

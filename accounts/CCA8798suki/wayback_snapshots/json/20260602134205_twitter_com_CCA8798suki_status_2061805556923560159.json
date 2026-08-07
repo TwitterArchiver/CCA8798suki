@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2061698453848387940",
+    "created_at": "2026-06-02T13:42:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:42:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061805556923560159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061805556923560159",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061733076544405519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue 推流机制发力了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2061698453848387940",
+        "created_at": "2026-06-02T13:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061805556923560159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061805556923560159",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061733076544405519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue 推流机制发力了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838866598427549696",
+        "conversation_id": "2061698453848387940",
+        "created_at": "2026-06-02T08:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061733076544405519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061733076544405519",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061698453848387940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 大数据是这么安排的，我也库库缺爱😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 498,
+          "like_count": 722,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "2026.5开启hrt/持证含糖MtF/持续羡慕年轻小药娘/1997年老登",
+        "id": "1838866598427549696",
+        "name": "云梦玥🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 184,
+          "like_count": 608,
+          "listed_count": 5,
+          "media_count": 7,
+          "tweet_count": 417
+        },
+        "username": "Yunmengyue",
+        "verified": false
+      }
+    ]
+  }
+}

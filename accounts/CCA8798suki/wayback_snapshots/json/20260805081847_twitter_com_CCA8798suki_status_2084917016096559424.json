@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2084915556575334668",
+    "created_at": "2026-08-05T08:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084917016096559424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863998472762114048",
+          "start": 0,
+          "username": "humming_hanming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084917016096559424",
+    "in_reply_to_user_id": "1863998472762114048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084916808709190051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@humming_hanming 不过深圳康宁貌似要求DNA检测什么的，贾这里方便很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2084915556575334668",
+        "created_at": "2026-08-05T08:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084917016096559424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863998472762114048",
+              "start": 0,
+              "username": "humming_hanming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084917016096559424",
+        "in_reply_to_user_id": "1863998472762114048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084916808709190051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@humming_hanming 不过深圳康宁貌似要求DNA检测什么的，贾这里方便很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863998472762114048",
+        "conversation_id": "2084915556575334668",
+        "created_at": "2026-08-05T08:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084916808709190051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084916808709190051",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084916619407692273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 但是我的证是贾开的？\n以及我的hrt是在高那边做的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1490,
+          "like_count": 8771,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 1078
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-03T17:27:39.000Z",
+        "description": "BTW, I use Arch. 私も死ぬ系？\n喜欢的人是@FoxRed695449\nNerdy Girl Overwork！\n科研女孩過量工作！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 29,
+                "username": "FoxRed695449"
+              }
+            ]
+          }
+        },
+        "id": "1863998472762114048",
+        "name": "Humming",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081369216276393984/GBPHNwiL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 312,
+          "like_count": 8172,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 909
+        },
+        "url": "",
+        "username": "humming_hanming",
+        "verified": false
+      }
+    ]
+  }
+}

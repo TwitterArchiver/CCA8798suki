@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2061652584474267853",
+    "created_at": "2026-06-02T03:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061657659724710329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061657659724710329",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061652584474267853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn 怎么啦怎么啦怎么啦❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2061652584474267853",
+        "created_at": "2026-06-02T03:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061657659724710329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061657659724710329",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061652584474267853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn 怎么啦怎么啦怎么啦❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2061652584474267853",
+        "created_at": "2026-06-02T03:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:33:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061652477079101943",
+          "2061652584474267853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "2048693394226974720",
+              "start": 11,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061652584474267853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 23,
+                "id": "2048693394226974720",
+                "start": 11,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "text": "不会起名の捌拐玖捌🍥\n@CCA8798suki \n\n捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱捌酱❤️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会起名の捌拐玖捌🍥\n@CCA8798suki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 439,
+          "like_count": 561,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n高二物化生｜成绩倒数｜考虑休学\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban我\n不阔爱不pass｜缺爱想交朋友\n\n私信互fo｜友好相处｜喜欢我就关注下呗🥺\n对象 @xiaoyimiaoaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 154,
+                "start": 140,
+                "username": "xiaoyimiaoaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2060573450616664245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 895,
+          "like_count": 1496,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1336
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2069050826988085553",
+    "created_at": "2026-06-22T13:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069050826988085553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huihui_mikumi/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/huihui_mikumi/status/2068900604391641232",
+          "start": 30,
+          "url": "https://t.co/Ndx8VoYn88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069050826988085553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068900604391641232",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好羡慕你们这些天生长得好看的人，我天天因为长相自卑还要被骂 https://t.co/Ndx8VoYn88"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2069050826988085553",
+        "created_at": "2026-06-22T13:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069050826988085553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huihui_mikumi/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/huihui_mikumi/status/2068900604391641232",
+              "start": 30,
+              "url": "https://t.co/Ndx8VoYn88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069050826988085553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068900604391641232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好羡慕你们这些天生长得好看的人，我天天因为长相自卑还要被骂 https://t.co/Ndx8VoYn88"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598557374046179328",
+        "conversation_id": "2068900604391641232",
+        "created_at": "2026-06-22T03:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068900604391641232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068900604391641232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 744,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好羡慕你们这些天生长得好看的人，我天天因为长相自卑还要被骂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 887,
+          "like_count": 1897,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n 姐姐@Air_Yukiha 妹妹@qiancongxyn 小贱狗 @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 101,
+                "start": 89,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 114,
+                "start": 106,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广东韶关",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 872,
+          "like_count": 880,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 2161
+        },
+        "url": "",
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

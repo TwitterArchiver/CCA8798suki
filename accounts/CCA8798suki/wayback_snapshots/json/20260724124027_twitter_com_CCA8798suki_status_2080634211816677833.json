@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2080615133320184248",
+    "created_at": "2026-07-24T12:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080634211816677833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "765020583574720512",
+          "start": 0,
+          "username": "Four1020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080634211816677833",
+    "in_reply_to_user_id": "765020583574720512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080615261527248936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Four1020 感觉像是间隔太短然后调度要求区间调整的("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2080615133320184248",
+        "created_at": "2026-07-24T12:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080634211816677833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "765020583574720512",
+              "start": 0,
+              "username": "Four1020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080634211816677833",
+        "in_reply_to_user_id": "765020583574720512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080615261527248936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Four1020 感觉像是间隔太短然后调度要求区间调整的("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "765020583574720512",
+        "conversation_id": "2080615133320184248",
+        "created_at": "2026-07-24T11:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080615261527248936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080615261527248936",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080615133320184248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 不停站通过确实少见，感觉像临时调度情况"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1419,
+          "like_count": 6954,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 843
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-15T03:01:35.000Z",
+        "description": "银狐VPN，高速稳定不断线，畅享全球网络。\n下载地址↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/ttMtVwNPEs"
+              }
+            ]
+          }
+        },
+        "id": "765020583574720512",
+        "name": "银狐VPN网络加速站",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077473227664658432/ca0C1aVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "url": "https://t.co/ttMtVwNPEs",
+        "username": "Four1020",
+        "verified": false
+      }
+    ]
+  }
+}

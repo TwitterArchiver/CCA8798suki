@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2081652765307351060",
+    "created_at": "2026-07-27T09:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T10:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081672851250397604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781745564738281472",
+          "start": 0,
+          "username": "Stolly21_TG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081672851250397604",
+    "in_reply_to_user_id": "1781745564738281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081652765307351060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stolly21_TG 可爱(๑• . •๑)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4064,
+        "media_key": "3_2081652750342148096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOEJbnb0AAMocZ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2081652765307351060",
+        "created_at": "2026-07-27T09:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T10:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081672851250397604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781745564738281472",
+              "start": 0,
+              "username": "Stolly21_TG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081672851250397604",
+        "in_reply_to_user_id": "1781745564738281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081652765307351060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stolly21_TG 可爱(๑• . •๑)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081652750342148096"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2081652765307351060",
+        "created_at": "2026-07-27T08:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081652765307351060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ClloT9Q67O",
+              "end": 30,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081652765307351060/photo/1",
+              "media_key": "3_2081652750342148096",
+              "start": 7,
+              "url": "https://t.co/ClloT9Q67O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081652765307351060",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wcwmc！ https://t.co/ClloT9Q67O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1299,
+          "following_count": 1444,
+          "like_count": 7351,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、鼻吸130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 267,
+          "like_count": 1692,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

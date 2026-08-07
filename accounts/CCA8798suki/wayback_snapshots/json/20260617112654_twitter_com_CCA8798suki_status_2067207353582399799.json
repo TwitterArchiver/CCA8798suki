@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2066960015773356432",
+    "created_at": "2026-06-17T11:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067207353582399799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1973748660975587328",
+          "start": 0,
+          "username": "Recz3eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067207353582399799",
+    "in_reply_to_user_id": "1973748660975587328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066960015773356432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Recz3eth 晚安..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2066960008257183745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9RLSEboAE2_Lt.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1775,
+        "media_key": "3_2066960008261332992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9RLSFa8AA4n5l.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066960008261300224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9RLSFacAAx8sN.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066960008257138688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK9RLSEa8AAzXYZ.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2066960015773356432",
+        "created_at": "2026-06-17T11:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067207353582399799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1973748660975587328",
+              "start": 0,
+              "username": "Recz3eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067207353582399799",
+        "in_reply_to_user_id": "1973748660975587328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066960015773356432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Recz3eth 晚安..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066960008257183745",
+            "3_2066960008261332992",
+            "3_2066960008261300224",
+            "3_2066960008257138688"
+          ]
+        },
+        "author_id": "1973748660975587328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066960015773356432",
+        "created_at": "2026-06-16T19:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T20:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066960015773356432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pPYfRWgxhQ",
+              "end": 178,
+              "expanded_url": "https://x.com/guxwkw/status/2066960015773356432/photo/1",
+              "media_key": "3_2066960008257183745",
+              "start": 155,
+              "url": "https://t.co/pPYfRWgxhQ"
+            },
+            {
+              "display_url": "pic.x.com/pPYfRWgxhQ",
+              "end": 178,
+              "expanded_url": "https://x.com/guxwkw/status/2066960015773356432/photo/1",
+              "media_key": "3_2066960008261332992",
+              "start": 155,
+              "url": "https://t.co/pPYfRWgxhQ"
+            },
+            {
+              "display_url": "pic.x.com/pPYfRWgxhQ",
+              "end": 178,
+              "expanded_url": "https://x.com/guxwkw/status/2066960015773356432/photo/1",
+              "media_key": "3_2066960008261300224",
+              "start": 155,
+              "url": "https://t.co/pPYfRWgxhQ"
+            },
+            {
+              "display_url": "pic.x.com/pPYfRWgxhQ",
+              "end": 178,
+              "expanded_url": "https://x.com/guxwkw/status/2066960015773356432/photo/1",
+              "media_key": "3_2066960008257138688",
+              "start": 155,
+              "url": "https://t.co/pPYfRWgxhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066960015773356432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 356605,
+          "like_count": 337,
+          "quote_count": 16,
+          "reply_count": 202,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "补档：\n原号主“夏目安安”已经跳楼去世了 \n\n原因是在币圈合约输掉了所有的钱之后无力生活：从2026年2月开始到现在总计输掉了30000多元人民币。\n\n6月8号又把卖旧电脑换来的4000元也输掉了，这是压垮她的最后一根稻草，现在已经一分钱都没有了\n\n晚安，祝她下辈子成为富二代\n\n——此账号已经易主，请勿骚扰 https://t.co/pPYfRWgxhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 687,
+          "like_count": 1356,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "号主于 2026.6.16 死于跳楼｜此号已经易主、请勿骚扰",
+        "id": "1973748660975587328",
+        "name": "吾輩わ夏目安安",
+        "pinned_tweet_id": "2066960015773356432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066955365569404928/0t7Ul55X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 748,
+          "like_count": 5022,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 539
+        },
+        "username": "Recz3eth",
+        "verified": false
+      }
+    ]
+  }
+}

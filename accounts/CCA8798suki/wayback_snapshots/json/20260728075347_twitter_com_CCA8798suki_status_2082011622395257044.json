@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2081658144749719978",
+    "created_at": "2026-07-28T07:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082011622395257044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1242351495108059137",
+          "start": 0,
+          "username": "lizilisan1387"
+        },
+        {
+          "end": 25,
+          "id": "2069210600778117120",
+          "start": 15,
+          "username": "xieran197"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082011622395257044",
+    "in_reply_to_user_id": "1242351495108059137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081763497403146744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lizilisan1387 @xieran197 我为什么要骂你呢，你是本人吗\n我是不会无差别攻击人的哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2081658144749719978",
+        "created_at": "2026-07-28T07:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082011622395257044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1242351495108059137",
+              "start": 0,
+              "username": "lizilisan1387"
+            },
+            {
+              "end": 25,
+              "id": "2069210600778117120",
+              "start": 15,
+              "username": "xieran197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082011622395257044",
+        "in_reply_to_user_id": "1242351495108059137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081763497403146744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lizilisan1387 @xieran197 我为什么要骂你呢，你是本人吗\n我是不会无差别攻击人的哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242351495108059137",
+        "conversation_id": "2081658144749719978",
+        "created_at": "2026-07-27T15:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081763497403146744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 23,
+              "id": "2069210600778117120",
+              "start": 13,
+              "username": "xieran197"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081763497403146744",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081713067709341787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @xieran197 来来来我看看你能骂出什么来 你能骂出什么发我这来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 1442,
+          "like_count": 7386,
+          "listed_count": 5,
+          "media_count": 115,
+          "tweet_count": 893
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-24T07:24:21.000Z",
+        "description": "中推宇宙级心理健康第一人\n⚠️只是坦然接受性快感，喜爱自己的身体，虽然看似尺度很大但真正成分需查询对线记录。嘘。\n赛博xp与本人思行毫无关联 理论支撑为平日不停歇的思虑 下流的xp是逃离了思虑\n钱性恋。腰臀62/83\n日常刷屏骂男比啥都狠 慎重关注！\n厌男不做没被操过。\n多私信评论有助于小猫身心健康。小猫不定时删帖。",
+        "id": "1242351495108059137",
+        "name": "栗子≼🐾（",
+        "pinned_tweet_id": "2029406137414762707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030475412632199168/-aCMT6EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 291,
+          "like_count": 2855,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1747
+        },
+        "url": "",
+        "username": "lizilisan1387",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T00:08:41.000Z",
+        "description": "09年生人    2026/06/30开始的- MtF GAHT     168-170cm\n大号：@sngxi3837901",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "sngxi3837901"
+              }
+            ]
+          }
+        },
+        "id": "2069210600778117120",
+        "location": "中华人民共和国🇨🇳",
+        "name": "谢然🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080211682186723328/o4vwEeht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 19,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "xieran197",
+        "verified": false
+      }
+    ]
+  }
+}

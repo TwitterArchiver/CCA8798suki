@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073659387865174124",
+    "created_at": "2026-07-12T12:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076285091291226583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042969235505242112",
+          "start": 0,
+          "username": "lfcypo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076285091291226583",
+    "in_reply_to_user_id": "2042969235505242112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076282964334489729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfcypo 加油噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073659387865174124",
+        "created_at": "2026-07-12T12:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076285091291226583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042969235505242112",
+              "start": 0,
+              "username": "lfcypo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076285091291226583",
+        "in_reply_to_user_id": "2042969235505242112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076282964334489729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfcypo 加油噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042969235505242112",
+        "conversation_id": "2073659387865174124",
+        "created_at": "2026-07-12T12:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076282964334489729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076282964334489729",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076281259807117699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 嗯呢....和家里人还没谈好....."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 1322,
+          "like_count": 4605,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 649
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T14:13:24.000Z",
+        "description": "08 广州｜高二在读｜计算机+医学｜名字不好读…可以直接叫我ypo｜猫猫｜想变可爱喵\n\n🏳️‍⚧️是女孩子哦｜窝也想吃糖喵…\n\n目标医学方向｜内分泌与代谢/性腺内分泌｜跨性别/DSD/妇科\n「如果这一切能改变什么的话，那就去做吧！」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lfcypo",
+                "end": 23,
+                "expanded_url": "https://github.com/lfcypo",
+                "start": 0,
+                "url": "https://t.co/l8q95vyHka"
+              }
+            ]
+          }
+        },
+        "id": "2042969235505242112",
+        "name": "lfcypo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070361298706292736/mRdgCCSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 176,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/l8q95vyHka",
+        "username": "lfcypo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2068738200844312771",
+    "created_at": "2026-06-22T00:46:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:46:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068858113772675343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068858113772675343",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068738200844312771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 721,
+        "media_key": "3_2068738198663208960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLWibliaIAAD31o.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2068738200844312771",
+        "created_at": "2026-06-22T00:46:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068858113772675343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068858113772675343",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068738200844312771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068738198663208960"
+          ]
+        },
+        "author_id": "1600024316552179713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068738200844312771",
+        "created_at": "2026-06-21T16:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068738200844312771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnRPJ8mKX1",
+              "end": 34,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2068738200844312771/photo/1",
+              "media_key": "3_2068738198663208960",
+              "start": 11,
+              "url": "https://t.co/gnRPJ8mKX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068738200844312771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时间的尺度是什么呢🍥 https://t.co/gnRPJ8mKX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 854,
+          "like_count": 1776,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 368
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 | 泛性恋喵 | 170cm/61kg | 有点地雷 | 老婆 @Y205621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "Y205621"
+              }
+            ]
+          }
+        },
+        "id": "1600024316552179713",
+        "location": "荒漠迷城",
+        "name": "祈晴kiki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062376314695532544/1WEAosvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 335,
+          "like_count": 5933,
+          "listed_count": 7,
+          "media_count": 130,
+          "tweet_count": 2123
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false
+      }
+    ]
+  }
+}

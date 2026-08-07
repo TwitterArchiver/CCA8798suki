@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2068882007497789899",
+    "created_at": "2026-06-22T15:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069076442739278049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069076442739278049",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069076032695762956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne 可以用上，可能是我对着高绿芬上来就是一波“我担心脑膜瘤风险”，给高绿芬留的第一印象比较好的原因吧，别人来找她她也有不开的("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2068882007497789899",
+        "created_at": "2026-06-22T15:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069076442739278049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069076442739278049",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069076032695762956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 可以用上，可能是我对着高绿芬上来就是一波“我担心脑膜瘤风险”，给高绿芬留的第一印象比较好的原因吧，别人来找她她也有不开的("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "conversation_id": "2068882007497789899",
+        "created_at": "2026-06-22T15:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069076032695762956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069076032695762956",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068882007497789899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 阻断剂能打上很好了，中国也能轻松用上了？网上还有很多人面对阻断剂都大惊小怪的……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 891,
+          "like_count": 1916,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "éla 网络路人｜數碼/科幻/政治/Wikier｜ 🚩◼️ libertarian socialism🌹｜🏳️‍🌈pan/gay🏳️‍⚧️｜ 🌐漢語 吴、普/English OK/打卡Deutsch中｜Alt @JunenKim 目前不太确定该发什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "JunenKim"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "北京市西城区长安街174号",
+        "name": "Ⓐστήρ |星ない",
+        "pinned_tweet_id": "2058825811151450595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066762624986128384/QLOsTOqL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 1119,
+          "like_count": 82671,
+          "listed_count": 6,
+          "media_count": 1359,
+          "tweet_count": 17346
+        },
+        "url": "",
+        "username": "quasarne",
+        "verified": true
+      }
+    ]
+  }
+}

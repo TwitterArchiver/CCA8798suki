@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2082854067601391986",
+    "created_at": "2026-07-30T15:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082855419345776825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883712976567377920",
+          "start": 0,
+          "username": "r65166_song"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082855419345776825",
+    "in_reply_to_user_id": "1883712976567377920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082854067601391986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@r65166_song 哦，牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2082854067601391986",
+        "created_at": "2026-07-30T15:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082855419345776825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883712976567377920",
+              "start": 0,
+              "username": "r65166_song"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082855419345776825",
+        "in_reply_to_user_id": "1883712976567377920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082854067601391986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@r65166_song 哦，牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883712976567377920",
+        "conversation_id": "2082854067601391986",
+        "created_at": "2026-07-30T15:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082854067601391986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCA8798suki/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/CCA8798suki/status/2082845440937230724",
+              "start": 26,
+              "url": "https://t.co/yDd2dwgINP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082854067601391986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082845440937230724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就说假寄吧是用来草飞机呗的☝️🤓说不定她会信呢😋😋 https://t.co/yDd2dwgINP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1335,
+          "following_count": 1459,
+          "like_count": 7886,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 947
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-27T03:06:12.000Z",
+        "description": "未出柜MTF——暂居武汉——线下创作剪辑——2006.1.25——无证\n拒绝暴力-拒绝恶意-拒绝攻击/守护美好与和平",
+        "id": "1883712976567377920",
+        "location": "你猜嘻嘻",
+        "name": "宋权倾🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082801071140073472/mhaEPi16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 74,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "r65166_song",
+        "verified": false
+      }
+    ]
+  }
+}

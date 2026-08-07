@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2080298604355555432",
+    "created_at": "2026-07-24T12:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080635235520393265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884546510919979008",
+          "start": 0,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080635235520393265",
+    "in_reply_to_user_id": "1884546510919979008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080298604355555432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamThuja 谁能和我解释一下是什么意思😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2717,
+        "media_key": "3_2080298570796924928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN60hzsagAAJdVr.jpg",
+        "width": 2136
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2080298604355555432",
+        "created_at": "2026-07-24T12:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080635235520393265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884546510919979008",
+              "start": 0,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080635235520393265",
+        "in_reply_to_user_id": "1884546510919979008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080298604355555432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamThuja 谁能和我解释一下是什么意思😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080298570796924928"
+          ]
+        },
+        "author_id": "1884546510919979008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080298604355555432",
+        "created_at": "2026-07-23T14:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T15:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080298604355555432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GQHnqUy4rF",
+              "end": 25,
+              "expanded_url": "https://x.com/iamThuja/status/2080298604355555432/photo/1",
+              "media_key": "3_2080298570796924928",
+              "start": 2,
+              "url": "https://t.co/GQHnqUy4rF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080298604355555432",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1056,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/GQHnqUy4rF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1421,
+          "like_count": 6970,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 845
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2079235686994268393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055663647347908608/v3bgVl7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 998,
+          "like_count": 8807,
+          "listed_count": 5,
+          "media_count": 338,
+          "tweet_count": 3926
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false
+      }
+    ]
+  }
+}

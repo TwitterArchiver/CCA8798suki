@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2062520143847342180",
+    "created_at": "2026-06-05T07:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062795865308438637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062795865308438637",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062520143847342180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 就喜欢这样吃，最爽了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2062520018907414528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-LB40bwAAUpru.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2062520143847342180",
+        "created_at": "2026-06-05T07:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062795865308438637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062795865308438637",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062520143847342180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 就喜欢这样吃，最爽了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062520018907414528"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062520143847342180",
+        "created_at": "2026-06-04T13:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062520143847342180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bffIjZAgU7",
+              "end": 62,
+              "expanded_url": "https://x.com/Mark67358226/status/2062520143847342180/photo/1",
+              "media_key": "3_2062520018907414528",
+              "start": 39,
+              "url": "https://t.co/bffIjZAgU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062520143847342180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1194,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小時候家人不讓我用勺子吃西瓜，現在可管不了了😋\n諸君小時候被允許這麽吃嗎🤔？ https://t.co/bffIjZAgU7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 552,
+          "like_count": 874,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 991,
+          "like_count": 14104,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 3088
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

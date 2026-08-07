@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2066727647003267185",
+    "created_at": "2026-06-16T04:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T05:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066744578733183358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766407744536420352",
+          "start": 0,
+          "username": "ScarsTowel616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066744578733183358",
+    "in_reply_to_user_id": "1766407744536420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066727647003267185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarsTowel616 生日快乐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066727631316557824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK591KgboAAW6w2.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2066727647003267185",
+        "created_at": "2026-06-16T04:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T05:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066744578733183358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766407744536420352",
+              "start": 0,
+              "username": "ScarsTowel616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066744578733183358",
+        "in_reply_to_user_id": "1766407744536420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066727647003267185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarsTowel616 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066727631316557824"
+          ]
+        },
+        "author_id": "1766407744536420352",
+        "conversation_id": "2066727647003267185",
+        "created_at": "2026-06-16T03:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066727647003267185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdOXtE2fqS",
+              "end": 34,
+              "expanded_url": "https://x.com/ScarsTowel616/status/2066727647003267185/photo/1",
+              "media_key": "3_2066727631316557824",
+              "start": 11,
+              "url": "https://t.co/VdOXtE2fqS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066727647003267185",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 535,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是很特殊的一天呢 https://t.co/VdOXtE2fqS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 653,
+          "like_count": 1284,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家里反对党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|发一些负能碎碎念…|同类互fo喵|vr chat、war thunder、minecraft|宝宝：@Satori065 姐姐：@kuaizichopstick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 121,
+                "username": "Satori065"
+              },
+              {
+                "end": 151,
+                "start": 135,
+                "username": "kuaizichopstick"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "location": "site 02",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2061930928105304269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 477,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 541
+        },
+        "username": "ScarsTowel616",
+        "verified": false
+      }
+    ]
+  }
+}

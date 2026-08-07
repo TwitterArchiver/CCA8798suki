@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2068666537591153142",
+    "created_at": "2026-06-22T01:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T02:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068874504940732556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051761383197339648",
+          "start": 0,
+          "username": "TSimehpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068874504940732556",
+    "in_reply_to_user_id": "2051761383197339648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068666537591153142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSimehpo 第二个\n达斯不坐马桶\n每次去外地酒店上厕所都要消毒铺纸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2068666531597504512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVhQA6b0AANLwt.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2068666537591153142",
+        "created_at": "2026-06-22T01:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T02:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068874504940732556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051761383197339648",
+              "start": 0,
+              "username": "TSimehpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068874504940732556",
+        "in_reply_to_user_id": "2051761383197339648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068666537591153142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSimehpo 第二个\n达斯不坐马桶\n每次去外地酒店上厕所都要消毒铺纸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068666531597504512"
+          ]
+        },
+        "author_id": "2051761383197339648",
+        "conversation_id": "2068666537591153142",
+        "created_at": "2026-06-21T12:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068666537591153142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cX0hdECmLR",
+              "end": 45,
+              "expanded_url": "https://x.com/TSimehpo/status/2068666537591153142/photo/1",
+              "media_key": "3_2068666531597504512",
+              "start": 22,
+              "url": "https://t.co/cX0hdECmLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068666537591153142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的肚子非常疼，而此时你的面前有两个选择： https://t.co/cX0hdECmLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 865,
+          "like_count": 1817,
+          "listed_count": 3,
+          "media_count": 54,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待世界的小麦面包🍞 uwu | 日常碎碎念 | 友跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsimehpo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsimehpo",
+                "start": 0,
+                "url": "https://t.co/NUTbcuJGZH"
+              }
+            ]
+          }
+        },
+        "id": "2051761383197339648",
+        "name": "小麦面包",
+        "pinned_tweet_id": "2067979790322373110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 620,
+          "like_count": 7143,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/NUTbcuJGZH",
+        "username": "TSimehpo",
+        "verified": true
+      }
+    ]
+  }
+}

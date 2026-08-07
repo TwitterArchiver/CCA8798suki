@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2060677225243202027",
+    "created_at": "2026-05-31T04:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T05:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060936214233166044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060936214233166044",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060926191390150935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys 是的(\n感谢圈子让我找到喜欢的事情做("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2060677225243202027",
+        "created_at": "2026-05-31T04:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T05:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060936214233166044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060936214233166044",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060926191390150935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys 是的(\n感谢圈子让我找到喜欢的事情做("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001675650994999296",
+        "conversation_id": "2060677225243202027",
+        "created_at": "2026-05-31T03:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T04:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060926191390150935"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060926191390150935",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060771893423297001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 而且看到亚硝酸钠虽然自己完全不会自杀，但是还是会去研究为什么亚硝酸钠会导致人死亡，这就是科学的魅力🫠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 388,
+          "like_count": 466,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.psychonautwiki.org/wiki/Psychoact…",
+                "end": 23,
+                "expanded_url": "https://m.psychonautwiki.org/wiki/Psychoactive%20substance%20index",
+                "start": 0,
+                "url": "https://t.co/V27J0WGYKr"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2059175171286819294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 96,
+          "like_count": 1214,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1980
+        },
+        "url": "https://t.co/V27J0WGYKr",
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

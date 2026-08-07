@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073370528434516143",
+    "created_at": "2026-07-04T11:37:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:37:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073370528434516143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/danshuishuimu/…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/danshuishuimu/status/2073216501621133555",
+          "start": 36,
+          "url": "https://t.co/JE0sdTj9vA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073370528434516143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073216501621133555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "当生命的抉择权掌握在痛苦的自己手上，坚持活下去反而成了一种...奢望？ https://t.co/JE0sdTj9vA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073370528434516143",
+        "created_at": "2026-07-04T11:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073370528434516143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/danshuishuimu/…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/danshuishuimu/status/2073216501621133555",
+              "start": 36,
+              "url": "https://t.co/JE0sdTj9vA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073370528434516143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073216501621133555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当生命的抉择权掌握在痛苦的自己手上，坚持活下去反而成了一种...奢望？ https://t.co/JE0sdTj9vA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066487415678918657",
+        "conversation_id": "2073216501621133555",
+        "created_at": "2026-07-04T01:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073216501621133555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073216501621133555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 800,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "17从一月份就买了亚硝\n但是我从来没有去打开它，而是放在那里，反而是因为有了可以死亡的权力，我才敢活下去。\n可是现在被一次又一次的伤害，也没有人能理解水母\n这才是把水母逼上了死路\n我恨你们把我逼上死路\n我真的好难受\n我讨厌双相，我讨厌发病\n到底怎么样才能活下去？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 1176,
+          "like_count": 3270,
+          "listed_count": 3,
+          "media_count": 70,
+          "tweet_count": 517
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-15T11:49:41.000Z",
+        "description": "不再是心理委员，但是依然爱着你\nsub / mtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊overdose/🚪52¥/会慢慢回fo/♡真的很爱你/❤️ @tngxngxng13171 主人@Summeryn754\n频道链接https://t.co/fH6wssz2c5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "tngxngxng13171"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "Summeryn754"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 143,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 120,
+                "url": "https://t.co/fH6wssz2c5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/3JPf2UoHaa"
+              }
+            ]
+          }
+        },
+        "id": "2066487415678918657",
+        "location": "正在抱住你",
+        "name": "海月淡水水母17🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116790475296768/Qu3Pj1bB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 343,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 177
+        },
+        "url": "https://t.co/3JPf2UoHaa",
+        "username": "danshuishuimu",
+        "verified": false
+      }
+    ]
+  }
+}

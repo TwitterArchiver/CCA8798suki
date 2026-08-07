@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077328045514670080"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077328061633360061",
+    "created_at": "2026-07-15T09:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077328061633360061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZiJoMOKFrL",
+          "end": 67,
+          "expanded_url": "https://x.com/CCA8798suki/status/2077328061633360061/photo/1",
+          "media_key": "3_2077328045514670080",
+          "start": 44,
+          "url": "https://t.co/ZiJoMOKFrL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077328061633360061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "高绿芬：我看你不像有精神疾病的样子呀\n\n(一日跑完心理治疗、贾艳滨、高绿芬)\n我真棒🤗 https://t.co/ZiJoMOKFrL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2077328045514670080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQm2erbwAAFdbJ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077328045514670080"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077328061633360061",
+        "created_at": "2026-07-15T09:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077328061633360061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiJoMOKFrL",
+              "end": 67,
+              "expanded_url": "https://x.com/CCA8798suki/status/2077328061633360061/photo/1",
+              "media_key": "3_2077328045514670080",
+              "start": 44,
+              "url": "https://t.co/ZiJoMOKFrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077328061633360061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高绿芬：我看你不像有精神疾病的样子呀\n\n(一日跑完心理治疗、贾艳滨、高绿芬)\n我真棒🤗 https://t.co/ZiJoMOKFrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 1329,
+          "like_count": 4922,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

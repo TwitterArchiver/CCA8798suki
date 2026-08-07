@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2079542995884621828",
+    "created_at": "2026-07-21T12:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079546174453989442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079546174453989442",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079542995884621828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 这家伙在说什么呢😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_2079542993447792640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwFVaubsAAaqnL.jpg",
+        "width": 184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2079542995884621828",
+        "created_at": "2026-07-21T12:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079546174453989442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079546174453989442",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079542995884621828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 这家伙在说什么呢😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079542993447792640"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2079542995884621828",
+        "created_at": "2026-07-21T12:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079542995884621828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ezp3HPkysH",
+              "end": 34,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2079542995884621828/photo/1",
+              "media_key": "3_2079542993447792640",
+              "start": 11,
+              "url": "https://t.co/Ezp3HPkysH"
+            },
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2079406824852476368",
+              "start": 35,
+              "url": "https://t.co/NzMFVbCunJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079542995884621828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079406824852476368",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可惜洞太小了進不去。 https://t.co/Ezp3HPkysH https://t.co/NzMFVbCunJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 1395,
+          "like_count": 6039,
+          "listed_count": 5,
+          "media_count": 104,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期 农历六月初二2010/7/13/1.65m/mtf/hrt2025.5.1/中度抑郁/高敏註意...\n請多多關心我\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 155,
+                "start": 142,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059476908623151105/bgmq9-he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 1715,
+          "like_count": 3376,
+          "listed_count": 7,
+          "media_count": 327,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

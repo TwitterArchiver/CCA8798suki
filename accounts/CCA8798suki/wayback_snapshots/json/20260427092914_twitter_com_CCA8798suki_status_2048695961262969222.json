@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048695692559028224",
+        "3_2048695765032464384",
+        "3_2048695779465052161"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "conversation_id": "2048695961262969222",
+    "created_at": "2026-04-27T09:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048695961262969222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1764195010986274816",
+          "start": 6,
+          "username": "CCA8798"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rogG4d2rcV",
+          "end": 133,
+          "expanded_url": "https://x.com/CCA8798suki/status/2048695961262969222/photo/1",
+          "media_key": "3_2048695692559028224",
+          "start": 110,
+          "url": "https://t.co/rogG4d2rcV"
+        },
+        {
+          "display_url": "pic.x.com/rogG4d2rcV",
+          "end": 133,
+          "expanded_url": "https://x.com/CCA8798suki/status/2048695961262969222/photo/1",
+          "media_key": "3_2048695765032464384",
+          "start": 110,
+          "url": "https://t.co/rogG4d2rcV"
+        },
+        {
+          "display_url": "pic.x.com/rogG4d2rcV",
+          "end": 133,
+          "expanded_url": "https://x.com/CCA8798suki/status/2048695961262969222/photo/1",
+          "media_key": "3_2048695779465052161",
+          "start": 110,
+          "url": "https://t.co/rogG4d2rcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048695961262969222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "泥嚎，这里是@CCA8798的二代目！\n这是窝的自介！是年龄党mtf！\n只要提到列表里有的东西窝都能接上话😋 \n同时欢迎大家来窝的小窝玩喵~ \n有抽奖什么的窝也都会在群里分享的喵😋 \n孔老二头像的赞赏码就摆在这当摆件吧 https://t.co/rogG4d2rcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Self-Introduction",
+        "height": 4000,
+        "media_key": "3_2048695692559028224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5t4L_akAAAcPA.jpg",
+        "width": 3000
+      },
+      {
+        "height": 1370,
+        "media_key": "3_2048695765032464384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5t8Z-bcAA8MpR.jpg",
+        "width": 770
+      },
+      {
+        "height": 691,
+        "media_key": "3_2048695779465052161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5t9PvbQAE3HMs.png",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048695692559028224",
+            "3_2048695765032464384",
+            "3_2048695779465052161"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2048695961262969222",
+        "created_at": "2026-04-27T09:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048695961262969222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1764195010986274816",
+              "start": 6,
+              "username": "CCA8798"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rogG4d2rcV",
+              "end": 133,
+              "expanded_url": "https://x.com/CCA8798suki/status/2048695961262969222/photo/1",
+              "media_key": "3_2048695692559028224",
+              "start": 110,
+              "url": "https://t.co/rogG4d2rcV"
+            },
+            {
+              "display_url": "pic.x.com/rogG4d2rcV",
+              "end": 133,
+              "expanded_url": "https://x.com/CCA8798suki/status/2048695961262969222/photo/1",
+              "media_key": "3_2048695765032464384",
+              "start": 110,
+              "url": "https://t.co/rogG4d2rcV"
+            },
+            {
+              "display_url": "pic.x.com/rogG4d2rcV",
+              "end": 133,
+              "expanded_url": "https://x.com/CCA8798suki/status/2048695961262969222/photo/1",
+              "media_key": "3_2048695779465052161",
+              "start": 110,
+              "url": "https://t.co/rogG4d2rcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048695961262969222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎，这里是@CCA8798的二代目！\n这是窝的自介！是年龄党mtf！\n只要提到列表里有的东西窝都能接上话😋 \n同时欢迎大家来窝的小窝玩喵~ \n有抽奖什么的窝也都会在群里分享的喵😋 \n孔老二头像的赞赏码就摆在这当摆件吧 https://t.co/rogG4d2rcV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 二代目慢慢回fo(求互fo)\n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "name": "不会起名の捌拐玖捌🍥(二代目仇恨msk版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048693785580929024/pXyNXwXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "CCA8798suki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 爱玩战雷/P3D/Roblox… \n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 145,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(求fo版)🍥",
+        "pinned_tweet_id": "2048012900015788117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 432,
+          "like_count": 8502,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 992
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

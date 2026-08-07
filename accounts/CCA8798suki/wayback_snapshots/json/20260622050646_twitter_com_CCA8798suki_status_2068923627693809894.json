@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2068882007497789899",
+    "created_at": "2026-06-22T05:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068923627693809894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1966349027051753472",
+          "start": 0,
+          "username": "mixxxK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068923627693809894",
+    "in_reply_to_user_id": "1966349027051753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068913974515823015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mixxxK bxm欸，我现在还没被父母理解((\n只是我意愿很强烈所以给我打了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2068882007497789899",
+        "created_at": "2026-06-22T05:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068923627693809894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1966349027051753472",
+              "start": 0,
+              "username": "mixxxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068923627693809894",
+        "in_reply_to_user_id": "1966349027051753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068913974515823015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mixxxK bxm欸，我现在还没被父母理解((\n只是我意愿很强烈所以给我打了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966349027051753472",
+        "conversation_id": "2068882007497789899",
+        "created_at": "2026-06-22T04:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068913974515823015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068913974515823015",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068882007497789899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 能用上阻断剂好幸福啊，来自老阿姨的羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 803,
+          "following_count": 878,
+          "like_count": 1865,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-12T03:52:09.000Z",
+        "description": "做过srs手术的跨女\n人生探索中~\n此世苦短，务循本心",
+        "id": "1966349027051753472",
+        "name": "🏳️‍⚧️芸芸紫🏳️‍⚧️",
+        "pinned_tweet_id": "2068341600179359902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054403479129755648/TQpDfEgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4097,
+          "following_count": 263,
+          "like_count": 130,
+          "listed_count": 10,
+          "media_count": 17,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "mixxxK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2049415087694520526",
+    "created_at": "2026-04-29T09:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049415087694520526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764195010986274816",
+          "start": 3,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049415087694520526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047163554101608882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798: 文案摆烂了😈\n辛辛苦苦穿衣服拍出来还要P半天才成图\n老马能不能给我推流😡！！！！！！！！\n人不是老了才会死的！人是随时都会死的！\n所以活到现在很不错了！\n贫贱我就扣屁股，富贵我就玩郊狼！\nTAG我就乱打，推文我就乱发！\n有钱我就全款买女装！没钱我就借钱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2047159300326604801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGj4iY6awAEn-c2.jpg",
+        "width": 863
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2049415087694520526",
+        "created_at": "2026-04-29T09:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049415087694520526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764195010986274816",
+              "start": 3,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049415087694520526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047163554101608882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CCA8798: 文案摆烂了😈\n辛辛苦苦穿衣服拍出来还要P半天才成图\n老马能不能给我推流😡！！！！！！！！\n人不是老了才会死的！人是随时都会死的！\n所以活到现在很不错了！\n贫贱我就扣屁股，富贵我就玩郊狼！\nTAG我就乱打，推文我就乱发！\n有钱我就全款买女装！没钱我就借钱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047159300326604801"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "conversation_id": "2047163554101608882",
+        "created_at": "2026-04-23T04:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047163554101608882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQlHEgm97X",
+              "end": 167,
+              "expanded_url": "https://x.com/CCA8798/status/2047163554101608882/photo/1",
+              "media_key": "3_2047159300326604801",
+              "start": 144,
+              "url": "https://t.co/sQlHEgm97X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047163554101608882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1957,
+                "start": 1950,
+                "tag": "可爱的男孩子"
+              },
+              {
+                "end": 1962,
+                "start": 1958,
+                "tag": "男の娘"
+              },
+              {
+                "end": 1966,
+                "start": 1963,
+                "tag": "男娘"
+              },
+              {
+                "end": 1974,
+                "start": 1967,
+                "tag": "Femboy"
+              },
+              {
+                "end": 1982,
+                "start": 1975,
+                "tag": "Tomboy"
+              },
+              {
+                "end": 1986,
+                "start": 1983,
+                "tag": "自拍"
+              },
+              {
+                "end": 1990,
+                "start": 1987,
+                "tag": "白丝"
+              },
+              {
+                "end": 1995,
+                "start": 1991,
+                "tag": "高跟鞋"
+              },
+              {
+                "end": 2000,
+                "start": 1996,
+                "tag": "防水台"
+              }
+            ]
+          },
+          "text": "文案摆烂了😈\n辛辛苦苦穿衣服拍出来还要P半天才成图\n老马能不能给我推流😡！！！！！！！！\n人不是老了才会死的！人是随时都会死的！\n所以活到现在很不错了！\n贫贱我就扣屁股，富贵我就玩郊狼！\nTAG我就乱打，推文我就乱发！\n有钱我就全款买女装！没钱我就借钱买女装！\n有苦我不吃！没福我硬享！\n没事儿我不找事！有事儿我不怕事！\n除了炸柜！没有大事儿！\n炸柜了，就更没事儿了！\n\n(自己校对的英翻)\nThe writing is a mess 😈\nAfter painstakingly putting on clothes and taking pictures, it still takes a long time to edit and get a finished image\nCan Elon Musk help me to get hot with my post? 😡!!!!!!!!\nPeople don't die when they get old! We can die at any time!\nSo, it's pretty good to be alive till now!\nIf I'm poor and humble, I'll take a masterbate. If I'm rich and powerful, I'll play with Coyote!\nJust tag randomly and post randomly!\nIf I have money, I'll buy my femboy clothing in full payment! If I don't, I'll borrow money to buy my femboy clothing clothing!\nI won't bear any hardship! I insist on enjoying any good fortune!\nIf there's nothing to worry about, I won't make trouble! If there's something to worry about, I'm not afraid of it!\nApart from the parents' attentioning! There's nothing serious!\nIf the parents' attentions are no longer exist, it's even better!\n\n(根据自己校对的英翻机翻成的日韩两语)\nこの文章はめちゃくちゃだ😈\n苦労して服を着て写真を撮った後でも、編集して完成画像にするにはまだ長い時間がかかる\nイーロン・マスクが私の投稿で話題になるよう手伝ってくれますか？ 😡!!!!!!!!\n人は年を取って死ぬわけではない！いつ死ぬかわからない！\nだから、今まで生きてこれたのはかなりいいことだ！\n貧しくて謙虚なら、自慰するだろう。裕福で権力があるなら、コヨーテと遊びよう！\nランダムにタグ付けして、ランダムに投稿しよう！\nもしお金があれば、フェムボーイの服を全額で買います！もしなければ、お金を借りてフェムボーイの服を買います！\n私はどんな苦労も耐えません！どんな幸運も享受することを固く信じています！\n心配するところがなければ、私はトラブルを起こさない！心配するところがあるなら、私は恐れない！\n親の気遣い以外には！大したことはないよ！\n親の気遣いがなくなったなら、それはなおさらいいことだ！\n\n글쓰기가 엉망이야 😈\n옷을 꼼꼼히 입고 사진을 찍은 후에도 편집하고 완성된 이미지를 얻는 데는 여전히 오랜 시간이 걸립니다.\n엘론 머스크가 내 게시물을 인기 있게 만들어 줄 수 있을까요? 😡!!!!!!!!\n사람들은 나이 들어서 죽는 게 아니야! 우리는 언제든 죽을 수 있어!\n그래서 지금까지 살아남은 건 정말 대단한 일이야!\n내가 가난하고 겸손하면 자위를 할 거고, 부유하고 강력하면 코요테와 놀 거야!\n무작위로 태그하고 무작위로 게시하세요!\n돈이 있으면 펠보이 의상을 전부 현금으로 살 거야! 돈이 없으면 빌려서 펠보이 의상을 살 거야!\n나는 어떤 어려움도 견디지 않을 거야! 나는 어떤 좋은 운도 즐기려고 해!\n걱정할 게 없다면, 내가 문제를 만들지 않을 거야! 걱정할 게 있다면, 난 두려워하지 않을 거야!\n부모님의 관심 외에는! 심각한 건 아무것도 없어요!\n부모님의 관심이 더 이상 없으면 더 좋습니다!\n#可爱的男孩子 #男の娘 #男娘 #Femboy #Tomboy\n#自拍 #白丝 #高跟鞋 #防水台"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 693,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "文案摆烂了😈\n辛辛苦苦穿衣服拍出来还要P半天才成图\n老马能不能给我推流😡！！！！！！！！\n人不是老了才会死的！人是随时都会死的！\n所以活到现在很不错了！\n贫贱我就扣屁股，富贵我就玩郊狼！\nTAG我就乱打，推文我就乱发！\n有钱我就全款买女装！没钱我就借钱买女装！\n有苦我不吃！没福我硬享！ https://t.co/sQlHEgm97X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 二代目慢慢回fo(求互fo)\n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "name": "不会起名の捌拐玖捌🍥(二代目仇恨msk版)",
+        "pinned_tweet_id": "2048695961262969222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048693785580929024/pXyNXwXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 30,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 9
+        },
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器\n二代目兼发图推：@CCA8798suki\n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 130,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(求fo版)🍥",
+        "pinned_tweet_id": "2048796576773226883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 466,
+          "like_count": 8990,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

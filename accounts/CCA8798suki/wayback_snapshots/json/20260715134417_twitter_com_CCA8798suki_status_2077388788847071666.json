@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2077328061633360061",
+    "created_at": "2026-07-15T13:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077388788847071666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819726141864964096",
+          "start": 0,
+          "username": "Harukawaiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077388788847071666",
+    "in_reply_to_user_id": "1819726141864964096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077386654957138231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Harukawaiiko 妈的我不行了哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2077328061633360061",
+        "created_at": "2026-07-15T13:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077388788847071666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819726141864964096",
+              "start": 0,
+              "username": "Harukawaiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077388788847071666",
+        "in_reply_to_user_id": "1819726141864964096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077386654957138231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harukawaiiko 妈的我不行了哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819726141864964096",
+        "conversation_id": "2077328061633360061",
+        "created_at": "2026-07-15T13:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077386654957138231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077386654957138231",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077328061633360061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 看成巴氯芬了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 1331,
+          "like_count": 4964,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-03T13:25:06.000Z",
+        "description": "僕はいいこなの？non-binary he/they  中文/Eng/日本語下手",
+        "id": "1819726141864964096",
+        "name": "葉瑠歌",
+        "pinned_tweet_id": "2073787613023228126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003412040296407040/iZnA93pW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 396,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "Harukawaiiko",
+        "verified": false
+      }
+    ]
+  }
+}

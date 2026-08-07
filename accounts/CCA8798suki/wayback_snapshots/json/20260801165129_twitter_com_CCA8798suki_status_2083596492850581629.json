@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2083477753056358690",
+    "created_at": "2026-08-01T16:51:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T17:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083596492850581629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083596492850581629",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083556635864072298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro 收到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2083477753056358690",
+        "created_at": "2026-08-01T16:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083596492850581629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083596492850581629",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083556635864072298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro 收到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2083477753056358690",
+        "created_at": "2026-08-01T14:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083556635864072298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 24,
+              "id": "1813242928325926913",
+              "start": 13,
+              "username": "GzZ1276484"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083556635864072298",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "①尿常規和尿生化的地位很高基本屬於入院必做，可以篩查腎臟功能，來決定住院期間的用藥（比如經腎臟排泄的藥物可能會因為腎功能較低而血藥濃度坪期延長）和檢查（比如確定是否能血管注射需經腎臟排泄的造影劑）、診療策略；②何況各種代謝病、感染性疾病都可以引起精神症狀，比如單純皰疹病毒感染也會引起性格的突變、COVID-19也會導致急性譫妄、梅毒也會引起精神病。\n尿生化絕不是什麼「和心理問題一點關係都沒有的」檢查；感染疾病也絕非和心理/精神問題無關⋯⋯"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083496424948592826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @GzZ1276484 ①尿常規和尿生化的地位很高基本屬於入院必做，可以篩查腎臟功能，來決定住院期間的用藥（比如經腎臟排泄的藥物可能會因為腎功能較低而血藥濃度坪期延長）和檢查（比如確定是否能血管注射需經腎臟排泄的造影劑）、診療策略；②何況各種代謝病、感染性疾病都可以引起精神症狀，比如單純皰疹病毒感染也會"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1460,
+          "like_count": 8035,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 1018
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "我老公我主人我先生我mademoiselle我小貓我女朋友我男朋友我最最親愛的@irisdesombres我的天哪這裡住不下那麼多人！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2057399428529672567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082637634422308865/gCmwleWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 190,
+          "like_count": 15069,
+          "listed_count": 3,
+          "media_count": 429,
+          "tweet_count": 10268
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

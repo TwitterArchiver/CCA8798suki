@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2080322642830373234",
+    "created_at": "2026-07-24T07:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080555900792926503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080555900792926503",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080322642830373234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 生日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2796,
+        "media_key": "3_2080322629240762368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7KaMYaMAAVb7Q.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2080322642830373234",
+        "created_at": "2026-07-24T07:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080555900792926503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080555900792926503",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080322642830373234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 生日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080322629240762368"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2080322642830373234",
+        "created_at": "2026-07-23T16:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080322642830373234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Knqb13Xwpx",
+              "end": 30,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2080322642830373234/photo/1",
+              "media_key": "3_2080322629240762368",
+              "start": 7,
+              "url": "https://t.co/Knqb13Xwpx"
+            },
+            {
+              "display_url": "x.com/jiaoyanboluooo…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/jiaoyanboluooo/status/2080080567052456085",
+              "start": 31,
+              "url": "https://t.co/vurkDgZT9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080322642830373234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3398,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080080567052456085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来戳气球🎈😺 https://t.co/Knqb13Xwpx https://t.co/vurkDgZT9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 1409,
+          "like_count": 6734,
+          "listed_count": 5,
+          "media_count": 108,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！  ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2079594082041823465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5413,
+          "following_count": 4385,
+          "like_count": 31077,
+          "listed_count": 13,
+          "media_count": 1569,
+          "tweet_count": 6708
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

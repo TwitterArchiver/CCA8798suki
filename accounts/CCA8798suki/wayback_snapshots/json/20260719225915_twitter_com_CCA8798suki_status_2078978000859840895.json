@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2078889776841924911",
+    "created_at": "2026-07-19T22:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T23:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078978000859840895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2069160672672546816",
+          "start": 0,
+          "username": "BlackCrow1966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078978000859840895",
+    "in_reply_to_user_id": "2069160672672546816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078889776841924911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackCrow1966 写的很好\n我们应该将她的精神传递下去\n希望你在未来能够事有所成！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1909,
+        "media_key": "3_2078889762723971072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmzOYpbwAAcbCS.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2078889776841924911",
+        "created_at": "2026-07-19T22:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078978000859840895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2069160672672546816",
+              "start": 0,
+              "username": "BlackCrow1966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078978000859840895",
+        "in_reply_to_user_id": "2069160672672546816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078889776841924911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackCrow1966 写的很好\n我们应该将她的精神传递下去\n希望你在未来能够事有所成！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078889762723971072"
+          ]
+        },
+        "author_id": "2069160672672546816",
+        "conversation_id": "2078889776841924911",
+        "created_at": "2026-07-19T17:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078889776841924911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exsZmZg3Zr",
+              "end": 23,
+              "expanded_url": "https://x.com/BlackCrow1966/status/2078889776841924911/photo/1",
+              "media_key": "3_2078889762723971072",
+              "start": 0,
+              "url": "https://t.co/exsZmZg3Zr"
+            },
+            {
+              "display_url": "x.com/cca8798suki/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/cca8798suki/status/2078099309099450736",
+              "start": 24,
+              "url": "https://t.co/C7e1JXEioy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078889776841924911",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078099309099450736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/exsZmZg3Zr https://t.co/C7e1JXEioy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 1386,
+          "like_count": 5691,
+          "listed_count": 5,
+          "media_count": 102,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-22T20:50:56.000Z",
+        "description": "MTF 06年啃老废物 常驻上海\n电影/文学/近现代史/ACG/音乐/摄影/交通/罐头食品/七大基础学科/社会主义宪政\n沉默之前，为我生命作永远的追逐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docuchina.cn",
+                "end": 23,
+                "expanded_url": "http://www.docuchina.cn/",
+                "start": 0,
+                "url": "https://t.co/xIdrdm9T1G"
+              }
+            ]
+          }
+        },
+        "id": "2069160672672546816",
+        "location": "歌乐山，沙坪坝",
+        "name": "自由之夏🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069161445854789632/F2HsobFJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 450,
+          "like_count": 1761,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/xIdrdm9T1G",
+        "username": "BlackCrow1966",
+        "verified": false
+      }
+    ]
+  }
+}

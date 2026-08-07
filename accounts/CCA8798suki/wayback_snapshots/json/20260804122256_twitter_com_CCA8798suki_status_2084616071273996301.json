@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2084615215346573651",
+    "created_at": "2026-08-04T12:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084616071273996301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716000108003946496",
+          "start": 0,
+          "username": "steampork_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084616071273996301",
+    "in_reply_to_user_id": "1716000108003946496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084615215346573651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steampork_114 加油(ง •̀_•́)ง"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2084615215346573651",
+        "created_at": "2026-08-04T12:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084616071273996301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716000108003946496",
+              "start": 0,
+              "username": "steampork_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084616071273996301",
+        "in_reply_to_user_id": "1716000108003946496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084615215346573651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steampork_114 加油(ง •̀_•́)ง"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716000108003946496",
+        "conversation_id": "2084615215346573651",
+        "created_at": "2026-08-04T12:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084615215346573651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084615215346573651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ok，我妈至少同意带我去看心理医生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 1489,
+          "like_count": 8712,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-22T07:54:52.000Z",
+        "description": "HRT2026.2.22🏳️‍⚧️🍥｜普通的学生｜生产日期2012.3.18｜断糖没钱呜😭｜坐标北京｜出柜2026.4｜家长半理解但不支持",
+        "id": "1716000108003946496",
+        "location": "Beijing",
+        "name": "stmpk_114🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082311453407944704/q1IRSlvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 244,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "steampork_114",
+        "verified": false
+      }
+    ]
+  }
+}

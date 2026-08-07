@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073437475104833864",
+    "created_at": "2026-07-05T12:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073741501990134202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067998397429317632",
+          "start": 0,
+          "username": "nhcueee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073741501990134202",
+    "in_reply_to_user_id": "2067998397429317632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073738766565671364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhcueee 嗯，但是色尽量还是切成1/8片一天一片哦，要不然血药浓度波动会比较大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073437475104833864",
+        "created_at": "2026-07-05T12:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073741501990134202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067998397429317632",
+              "start": 0,
+              "username": "nhcueee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073741501990134202",
+        "in_reply_to_user_id": "2067998397429317632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073738766565671364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhcueee 嗯，但是色尽量还是切成1/8片一天一片哦，要不然血药浓度波动会比较大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067998397429317632",
+        "conversation_id": "2073437475104833864",
+        "created_at": "2026-07-05T12:00:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:00:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073738766565671364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073738766565671364",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073734383870308577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 原来如此?!那我之后土色就两天四分之一片了，泰补的话打算按这样一天一片吃两周再换回一天两片这样应该可以了，谢谢提醒啦ヾ(´∀｀。ヾ)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 1217,
+          "like_count": 3576,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-19T15:51:17.000Z",
+        "description": "双性恋，已有对象，请勿过度打扰\n171cm55kg，祈祷变矮变瘦ing……\n2026.6.21🍥，无证含糖，同类回关w（没回大概是忘了的说）\n重度拖延，得过且过，自卑，内耗\n不善言辞，只会玩游戏的阴角，对陌生人相当内向，平时可能会有点呆呆的，交流时还请注意分寸……",
+        "id": "2067998397429317632",
+        "name": "nhcue🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000421747228672/SNMoCeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 80,
+          "like_count": 19,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "nhcueee",
+        "verified": false
+      }
+    ]
+  }
+}

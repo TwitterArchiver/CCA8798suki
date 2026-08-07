@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2083013420706824597",
+    "created_at": "2026-07-31T03:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T04:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083037455125721343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2064284661069520896",
+          "start": 0,
+          "username": "wtflmaotv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083037455125721343",
+    "in_reply_to_user_id": "2064284661069520896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083031908775014798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wtflmaotv 你就是个除了拿脏话渲染情绪之外啥也不会的小丑\n你的逻辑简直贻笑大方\n你连群体内任意一个人干过拉拢未成年的证据都找不出来，你有什么脸敢说我们拉拢未成年？\n比如100个人内50个人全部强碱了牛魔，你连50个人中的1个都找不出来，你凭什么说这100个人有罪？不是臆造是什么？\n神人逻辑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2083013420706824597",
+        "created_at": "2026-07-31T03:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083037455125721343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2064284661069520896",
+              "start": 0,
+              "username": "wtflmaotv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083037455125721343",
+        "in_reply_to_user_id": "2064284661069520896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083031908775014798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wtflmaotv 你就是个除了拿脏话渲染情绪之外啥也不会的小丑\n你的逻辑简直贻笑大方\n你连群体内任意一个人干过拉拢未成年的证据都找不出来，你有什么脸敢说我们拉拢未成年？\n比如100个人内50个人全部强碱了牛魔，你连50个人中的1个都找不出来，你凭什么说这100个人有罪？不是臆造是什么？\n神人逻辑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064284661069520896",
+        "conversation_id": "2083013420706824597",
+        "created_at": "2026-07-31T03:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083031908775014798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083031908775014798",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083024538091270423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 或者说我没枪剑牛魔 但是我整个群体就喜欢枪剑牛魔  但是我没有 是不是等于我们所有人没干过你吗? 什么臭傻逼逻辑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 1463,
+          "like_count": 7945,
+          "listed_count": 5,
+          "media_count": 118,
+          "tweet_count": 990
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-09T09:54:23.000Z",
+        "description": "我是来看粉红笑话的",
+        "id": "2064284661069520896",
+        "name": "逗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076330570154659841/gugfOAHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 84,
+          "like_count": 586,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "wtflmaotv",
+        "verified": false
+      }
+    ]
+  }
+}

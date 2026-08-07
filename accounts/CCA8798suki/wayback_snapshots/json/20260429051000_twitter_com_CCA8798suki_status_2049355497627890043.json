@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048680416295751680"
+      ],
+      "media_source_tweet_id": [
+        "2048680438110237026"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "conversation_id": "2049355497627890043",
+    "created_at": "2026-04-29T05:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049355497627890043"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 28,
+          "tag": "白丝"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "郊狼"
+        },
+        {
+          "end": 45,
+          "start": 41,
+          "tag": "负数锁"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764195010986274816",
+          "start": 3,
+          "username": "CCA8798"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/njslj2nwYu",
+          "end": 111,
+          "expanded_url": "https://x.com/CCA8798/status/2048680438110237026/photo/1",
+          "media_key": "3_2048680416295751680",
+          "start": 88,
+          "url": "https://t.co/njslj2nwYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049355497627890043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048680438110237026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CCA8798: 捌拐玖捌小朋友注意了！你穿着 #白丝 和 #郊狼 带着 #负数锁 在网上发扫的样子已经被炼桐注意到了！请速速取下你身上的衣物，来我房间进行素质教育😋 https://t.co/njslj2nwYu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2049355497627890043].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2049355497627890043",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2049355497627890043"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3807,
+        "media_key": "3_2048680416295751680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5f-_ebkAAMiZC.jpg",
+        "width": 2855
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048680416295751680"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "conversation_id": "2048680438110237026",
+        "created_at": "2026-04-27T08:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:25:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048680041564053566",
+          "2048680438110237026"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "白丝"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "郊狼"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "负数锁"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/njslj2nwYu",
+              "end": 98,
+              "expanded_url": "https://x.com/CCA8798/status/2048680438110237026/photo/1",
+              "media_key": "3_2048680416295751680",
+              "start": 75,
+              "url": "https://t.co/njslj2nwYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048680438110237026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 119,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "捌拐玖捌小朋友注意了！你穿着 #白丝 和 #郊狼 带着 #负数锁 在网上发扫的样子已经被炼桐注意到了！请速速取下你身上的衣物，来我房间进行素质教育😋 https://t.co/njslj2nwYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器 | 二代目慢慢回fo(求互fo)\n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 142,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "name": "不会起名の捌拐玖捌🍥(二代目仇恨msk版)",
+        "pinned_tweet_id": "2048695961262969222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048693785580929024/pXyNXwXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 30,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 8
+        },
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "半MTF🍥药娘 | 含糖 | 年龄党说是 出厂:壹贰.零壹.零叁 | 165cm/41kg | 住佛山 |  偏内向 玻璃心 重抑焦虑不OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 有2台服务器\n二代目兼发图推：@CCA8798suki\n宝宝：@InnoARoma_Rt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 130,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "InnoARoma_Rt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(求fo版)🍥",
+        "pinned_tweet_id": "2048796576773226883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043188404326899712/zqXCx5jU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 464,
+          "like_count": 8981,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 1057
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": true
+      }
+    ]
+  }
+}

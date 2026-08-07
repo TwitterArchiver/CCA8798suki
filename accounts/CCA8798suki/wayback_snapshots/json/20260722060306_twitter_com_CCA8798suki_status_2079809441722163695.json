@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2079809441722163695",
+    "created_at": "2026-07-22T06:03:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T07:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079809441722163695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiafeimao3591/…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/jiafeimao3591/status/2079795949829034248",
+          "start": 49,
+          "url": "https://t.co/kCnexB1hBB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079809441722163695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079795949829034248",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以去漫展一定要带双拖鞋😭😭😭\n穿高跟乐福鞋走长路你的脚趾会体验到前所未有的痛苦(亲身经历😭😭😭 https://t.co/kCnexB1hBB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2079809441722163695",
+        "created_at": "2026-07-22T06:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079809441722163695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiafeimao3591/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/jiafeimao3591/status/2079795949829034248",
+              "start": 49,
+              "url": "https://t.co/kCnexB1hBB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079809441722163695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079795949829034248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以去漫展一定要带双拖鞋😭😭😭\n穿高跟乐福鞋走长路你的脚趾会体验到前所未有的痛苦(亲身经历😭😭😭 https://t.co/kCnexB1hBB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236685274907906049",
+        "conversation_id": "2079795949829034248",
+        "created_at": "2026-07-22T05:09:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079795949829034248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079795949829034248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 155,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前两天买了双很好看的乐福鞋，今天收到了😋尺码大小倒是很合适，但是走路真的好不舒服，而且鞋跟还很高。终于明白美丽刑具是啥意思了，难怪现在穿高跟鞋的女生越来越少🐷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 1401,
+          "like_count": 6311,
+          "listed_count": 5,
+          "media_count": 105,
+          "tweet_count": 787
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别🏳️‍⚧️/无证hrt中/暂居荷兰，家在长春/曾经的化竞党，吉林省省一/JLU化学本科/欧硕打算转学ing/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，经常发疯/喜欢同类，男生勿扰",
+        "id": "1236685274907906049",
+        "location": "The Netherlands",
+        "name": "猪宝宝🐷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049379601412202496/2BRcVdsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 205,
+          "like_count": 54,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 324
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2071806299843731667",
+    "created_at": "2026-07-01T05:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072186407997854173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721863847185952768",
+          "start": 0,
+          "username": "IntelDriver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072186407997854173",
+    "in_reply_to_user_id": "1721863847185952768",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072180743636492660",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IntelDriver ！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2071806299843731667",
+        "created_at": "2026-07-01T05:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072186407997854173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721863847185952768",
+              "start": 0,
+              "username": "IntelDriver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072186407997854173",
+        "in_reply_to_user_id": "1721863847185952768",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072180743636492660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IntelDriver ！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721863847185952768",
+        "conversation_id": "2071806299843731667",
+        "created_at": "2026-07-01T04:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T05:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072180743636492660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072180743636492660",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071806299843731667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 1034,
+          "like_count": 2769,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T12:15:13.000Z",
+        "description": "一只08年的高中牲｜不键政不od会搬石 ｜🏳️‍⚧️是友跨喵｜游戏成分极其复杂（ cs/冰与火/地平线｜visual/android studio重度依赖｜欢迎同类互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ZhaYi-Miao",
+                "end": 23,
+                "expanded_url": "https://github.com/ZhaYi-Miao",
+                "start": 0,
+                "url": "https://t.co/eayqIffgWw"
+              }
+            ]
+          }
+        },
+        "id": "1721863847185952768",
+        "location": "in your heart",
+        "name": "ZhaYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171119429570560/HleURNqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 744,
+          "like_count": 5311,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1023
+        },
+        "url": "https://t.co/eayqIffgWw",
+        "username": "IntelDriver",
+        "verified": false
+      }
+    ]
+  }
+}

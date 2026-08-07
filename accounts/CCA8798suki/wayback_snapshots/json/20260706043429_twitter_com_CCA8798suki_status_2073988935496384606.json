@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073739491551191408",
+    "created_at": "2026-07-06T04:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T05:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073988935496384606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058152524918755328",
+          "start": 0,
+          "username": "Yu_Xin1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073988935496384606",
+    "in_reply_to_user_id": "2058152524918755328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073739491551191408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_Xin1225 恭喜哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_2073739488195690497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdnE86awAE536f.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073739491551191408",
+        "created_at": "2026-07-06T04:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T05:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073988935496384606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058152524918755328",
+              "start": 0,
+              "username": "Yu_Xin1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073988935496384606",
+        "in_reply_to_user_id": "2058152524918755328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073739491551191408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_Xin1225 恭喜哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073739488195690497"
+          ]
+        },
+        "author_id": "2058152524918755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073739491551191408",
+        "created_at": "2026-07-05T12:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073739491551191408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C545ZRDTmr",
+              "end": 43,
+              "expanded_url": "https://x.com/Yu_Xin1225/status/2073739491551191408/photo/1",
+              "media_key": "3_2073739488195690497",
+              "start": 20,
+              "url": "https://t.co/C545ZRDTmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073739491551191408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1274,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "恭喜自己300fo了喵～\n谢谢大家哦～ https://t.co/C545ZRDTmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 1228,
+          "like_count": 3618,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T11:46:49.000Z",
+        "description": "10.12.25\n今年16刚中考完喵\nMtF🍥🏳️‍⚧️\nISFJ-T\n无证含糖喵\n略微喜欢涩涩 \n同类🏳️‍⚧️互fo喵~❤️",
+        "id": "2058152524918755328",
+        "location": "浙江省 温州市 ",
+        "name": "楠楠.🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2071244524043845768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072769762124566528/wLOvtYu5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 268,
+          "like_count": 1402,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "Yu_Xin1225",
+        "verified": false
+      }
+    ]
+  }
+}

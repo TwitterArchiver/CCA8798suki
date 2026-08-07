@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2072335674397872537",
+    "created_at": "2026-07-01T15:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072343878246740005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1304953938320306176",
+          "start": 0,
+          "username": "hry_xsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072343878246740005",
+    "in_reply_to_user_id": "1304953938320306176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072343455548965279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hry_xsu +1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2072335674397872537",
+        "created_at": "2026-07-01T15:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072343878246740005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1304953938320306176",
+              "start": 0,
+              "username": "hry_xsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072343878246740005",
+        "in_reply_to_user_id": "1304953938320306176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072343455548965279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hry_xsu +1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304953938320306176",
+        "conversation_id": "2072335674397872537",
+        "created_at": "2026-07-01T15:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072343455548965279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072343455548965279",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072335674397872537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 所以我对这类群体抱有极大偏见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 1068,
+          "like_count": 2847,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T01:24:17.000Z",
+        "description": "That's ra or Harry \nen&zh | 💻笔电爱好者 | R6 | 无糖 | 女装 | 地雷系 | 🏳️‍🌈LGBTQ+friendly | 大腿夹魔爪拍照开创者\n好朋友@wxb_NB @qusuunmd @XUEQIUxka @CuteCatGYH",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 93,
+                "username": "wxb_NB"
+              },
+              {
+                "end": 110,
+                "start": 101,
+                "username": "qusuunmd"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "CuteCatGYH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lunar.galaxy.gov",
+                "end": 23,
+                "expanded_url": "https://www.lunar.galaxy.gov",
+                "start": 0,
+                "url": "https://t.co/ZmiJZUPn5Q"
+              }
+            ]
+          }
+        },
+        "id": "1304953938320306176",
+        "location": "Lunar,Galaxy,Universe",
+        "name": "xsu_Harryyy",
+        "pinned_tweet_id": "1932047209467421162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016521299070464000/DgHXMLJt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2285,
+          "following_count": 413,
+          "like_count": 56439,
+          "listed_count": 7,
+          "media_count": 292,
+          "tweet_count": 4039
+        },
+        "url": "https://t.co/ZmiJZUPn5Q",
+        "username": "hry_xsu",
+        "verified": false
+      }
+    ]
+  }
+}

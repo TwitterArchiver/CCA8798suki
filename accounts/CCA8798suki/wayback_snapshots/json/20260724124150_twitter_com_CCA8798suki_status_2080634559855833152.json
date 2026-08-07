@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2080563634972090689",
+    "created_at": "2026-07-24T12:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080634559855833152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080634559855833152",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080563634972090689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 也有正常人罢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2080563634972090689",
+        "created_at": "2026-07-24T12:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080634559855833152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080634559855833152",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080563634972090689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 也有正常人罢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945070018905145344",
+        "conversation_id": "2080563634972090689",
+        "created_at": "2026-07-24T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080563634972090689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080563634972090689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2725,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说白了药娘这个圈子就是狗咬狗，烂透了\n双标、引战、歧视、对立是有的，优越感更是莫名其妙的😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1420,
+          "like_count": 6958,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "砂糖橘小猫娘 // 友好(欢迎扩列) // 会发些碎碎念.日常和绳❤️ //  低音吉他🎸 // (隐退的..绳师？) //住在北京 // 想和可爱的男孩子交朋友❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SatouNya",
+                "end": 23,
+                "expanded_url": "https://t.me/SatouNya",
+                "start": 0,
+                "url": "https://t.co/cpFUZonbzW"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔",
+        "pinned_tweet_id": "2072013583832260729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045038326084939776/jocz5Vv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9543,
+          "following_count": 147,
+          "like_count": 4860,
+          "listed_count": 14,
+          "media_count": 361,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/cpFUZonbzW",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

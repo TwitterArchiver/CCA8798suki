@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2077307721200943427",
+    "created_at": "2026-07-15T09:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077329158028562890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochic_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077329158028562890",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077311737062465963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochic_Xyn 吓哭了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2077311728975777792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQYAu1akAAf4ob.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2077307721200943427",
+        "created_at": "2026-07-15T09:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077329158028562890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochic_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077329158028562890",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077311737062465963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochic_Xyn 吓哭了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077311728975777792"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2077307721200943427",
+        "created_at": "2026-07-15T08:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077311737062465963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8CXjbAbtk",
+              "end": 46,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2077311737062465963/photo/1",
+              "media_key": "3_2077311728975777792",
+              "start": 23,
+              "url": "https://t.co/h8CXjbAbtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077311737062465963",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077307721200943427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 又窥见了精一的一角 https://t.co/h8CXjbAbtk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 1329,
+          "like_count": 4924,
+          "listed_count": 3,
+          "media_count": 96,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3951,
+          "following_count": 2040,
+          "like_count": 8011,
+          "listed_count": 6,
+          "media_count": 925,
+          "tweet_count": 6331
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2069420545620533734",
+    "created_at": "2026-06-24T06:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069664169272774747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937385761785188352",
+          "start": 0,
+          "username": "BG9JUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069664169272774747",
+    "in_reply_to_user_id": "1937385761785188352",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069642716309549540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BG9JUE true"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2069420545620533734",
+        "created_at": "2026-06-24T06:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069664169272774747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937385761785188352",
+              "start": 0,
+              "username": "BG9JUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069664169272774747",
+        "in_reply_to_user_id": "1937385761785188352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069642716309549540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BG9JUE true"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937385761785188352",
+        "conversation_id": "2069420545620533734",
+        "created_at": "2026-06-24T04:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069642716309549540"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069642716309549540",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069420545620533734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 教学课说是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 909,
+          "like_count": 2010,
+          "listed_count": 3,
+          "media_count": 57,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-24T05:42:33.000Z",
+        "description": "无线电爱好/退役刷机佬/苦逼高中生/化竞小资历/🏳️‍⚧️(she/her)丨汝将永恒沐浴星光，不论昼夜更替，不论生死轮转，不论晦明阴阳，不论虚实幻灭。",
+        "id": "1937385761785188352",
+        "location": "北落师门",
+        "name": "Starlight",
+        "pinned_tweet_id": "1964342309602164749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037873320708931584/9T0uSZLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 389,
+          "like_count": 23615,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1618
+        },
+        "url": "",
+        "username": "BG9JUE",
+        "verified": false
+      }
+    ]
+  }
+}

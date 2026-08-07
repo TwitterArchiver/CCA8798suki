@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2082464241148395633",
+    "created_at": "2026-07-29T15:29:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082488679755620816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716000108003946496",
+          "start": 0,
+          "username": "steampork_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082488679755620816",
+    "in_reply_to_user_id": "1716000108003946496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082488151596261437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steampork_114 那你可以自己挂号去看🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2082464241148395633",
+        "created_at": "2026-07-29T15:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082488679755620816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716000108003946496",
+              "start": 0,
+              "username": "steampork_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082488679755620816",
+        "in_reply_to_user_id": "1716000108003946496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082488151596261437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steampork_114 那你可以自己挂号去看🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716000108003946496",
+        "conversation_id": "2082464241148395633",
+        "created_at": "2026-07-29T15:27:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082488151596261437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082488151596261437",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082482612367741121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 说心理医生没用怎么办）这么说过了呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 1455,
+          "like_count": 7682,
+          "listed_count": 5,
+          "media_count": 117,
+          "tweet_count": 932
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-22T07:54:52.000Z",
+        "description": "HRT2026.2.22🏳️‍⚧️🍥｜普通的学生｜生产日期2012.3.18｜断糖没钱呜｜坐标北京",
+        "id": "1716000108003946496",
+        "location": "Beijing",
+        "name": "stmpk_114🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082311453407944704/q1IRSlvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 203,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "steampork_114",
+        "verified": false
+      }
+    ]
+  }
+}

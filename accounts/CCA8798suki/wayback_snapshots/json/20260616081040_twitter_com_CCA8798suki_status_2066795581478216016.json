@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2066737563558432829",
+    "created_at": "2026-06-16T08:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066795581478216016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066795581478216016",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066768278484373827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2066737563558432829",
+        "created_at": "2026-06-16T08:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066795581478216016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066795581478216016",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066768278484373827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "2066737563558432829",
+        "created_at": "2026-06-16T06:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066768278484373827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066768278484373827",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066764978057802124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 皮下疼疼的喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 657,
+          "like_count": 1310,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "超级耐杀王 加vrc好友请私信，二代目@YangYi21649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "YangYi21649"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o23332",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o23332",
+                "start": 0,
+                "url": "https://t.co/NCmkS9Sf5a"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "location": "level 790",
+        "name": "一氧化二氢/pr80售卖中💊",
+        "pinned_tweet_id": "2065370825482723773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051673830478041088/FAHMOo4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 811,
+          "like_count": 2029,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 3948
+        },
+        "url": "https://t.co/NCmkS9Sf5a",
+        "username": "h2o2333",
+        "verified": false
+      }
+    ]
+  }
+}

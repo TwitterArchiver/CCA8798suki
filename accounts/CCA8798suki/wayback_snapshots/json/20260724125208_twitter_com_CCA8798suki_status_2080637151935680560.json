@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2080298604355555432",
+    "created_at": "2026-07-24T12:52:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080637151935680560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058029942198374400",
+          "start": 0,
+          "username": "yudia666"
+        },
+        {
+          "end": 19,
+          "id": "1884546510919979008",
+          "start": 10,
+          "username": "iamThuja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080637151935680560",
+    "in_reply_to_user_id": "2058029942198374400",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080636997153292599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yudia666 @iamThuja 👌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2080298604355555432",
+        "created_at": "2026-07-24T12:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080637151935680560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058029942198374400",
+              "start": 0,
+              "username": "yudia666"
+            },
+            {
+              "end": 19,
+              "id": "1884546510919979008",
+              "start": 10,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080637151935680560",
+        "in_reply_to_user_id": "2058029942198374400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080636997153292599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yudia666 @iamThuja 👌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058029942198374400",
+        "conversation_id": "2080298604355555432",
+        "created_at": "2026-07-24T12:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080636997153292599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 22,
+              "id": "1884546510919979008",
+              "start": 13,
+              "username": "iamThuja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080636997153292599",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080635235520393265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @iamThuja 康康"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 1423,
+          "like_count": 6992,
+          "listed_count": 5,
+          "media_count": 109,
+          "tweet_count": 847
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T03:39:58.000Z",
+        "description": "killabot  正在学习人类语言  谵妄剂爱好者 极端主义 请随便骚扰我 181",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuda21436",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuda21436",
+                "start": 0,
+                "url": "https://t.co/BUKnKIH0FA"
+              }
+            ]
+          }
+        },
+        "id": "2058029942198374400",
+        "location": "محافظة شرق الدولة الإسلامية",
+        "name": "𝖞𝖚𝖉𝖆",
+        "pinned_tweet_id": "2071924273778921875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068942921869758464/UJ-J2j84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 178,
+          "like_count": 21147,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/BUKnKIH0FA",
+        "username": "yudia666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T10:18:10.000Z",
+        "description": "@theRealThuja唯一小号，@notThujaS原老号。默认一切到处瞎鉴证追着叫的嗣爹嗣妈/我线下真不是大老粗，喝高了会泄露隐私⛔️先去问AI查我成分立场再开火好不，各位\\\\欢迎勇士把我搬回墙里，感激不尽（我是直男。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "theRealThuja"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "notThujaS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "http://xuexi.cn",
+                "start": 0,
+                "url": "https://t.co/Wwc59b2vAo"
+              }
+            ]
+          }
+        },
+        "id": "1884546510919979008",
+        "location": "发射桥鲁鲁工位上",
+        "name": "传奇出生乌鲁鲁（巡飞弹只飞别人浮木）",
+        "pinned_tweet_id": "2079235686994268393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055663647347908608/v3bgVl7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 998,
+          "like_count": 8807,
+          "listed_count": 5,
+          "media_count": 338,
+          "tweet_count": 3926
+        },
+        "url": "https://t.co/Wwc59b2vAo",
+        "username": "iamThuja",
+        "verified": false
+      }
+    ]
+  }
+}

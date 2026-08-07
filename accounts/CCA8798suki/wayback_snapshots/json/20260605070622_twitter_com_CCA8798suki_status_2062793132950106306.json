@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2062546871231610882",
+    "created_at": "2026-06-05T07:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T08:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062793132950106306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1567061441152450560",
+          "start": 0,
+          "username": "Xe1_N0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062793132950106306",
+    "in_reply_to_user_id": "1567061441152450560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062765435549024747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xe1_N0n 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2062546871231610882",
+        "created_at": "2026-06-05T07:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T08:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062793132950106306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1567061441152450560",
+              "start": 0,
+              "username": "Xe1_N0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062793132950106306",
+        "in_reply_to_user_id": "1567061441152450560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062765435549024747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xe1_N0n 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567061441152450560",
+        "conversation_id": "2062546871231610882",
+        "created_at": "2026-06-05T05:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062765435549024747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 24,
+              "id": "2019787701432532992",
+              "start": 13,
+              "username": "cx330_xyn2"
+            },
+            {
+              "end": 37,
+              "id": "1600024316552179713",
+              "start": 25,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062765435549024747",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062546871231610882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @cx330_xyn2 @kiki_qiqing 你很好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 552,
+          "like_count": 872,
+          "listed_count": 3,
+          "media_count": 25,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-06T08:05:48.000Z",
+        "description": "A Chemistry Geek",
+        "id": "1567061441152450560",
+        "location": "CN",
+        "name": "Kenzaki_Kazuma🍥",
+        "pinned_tweet_id": "1834084114460189092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869176809121808384/wgakVqI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 721,
+          "like_count": 664,
+          "listed_count": 4,
+          "media_count": 139,
+          "tweet_count": 2017
+        },
+        "username": "Xe1_N0n",
+        "verified": false
+      }
+    ]
+  }
+}

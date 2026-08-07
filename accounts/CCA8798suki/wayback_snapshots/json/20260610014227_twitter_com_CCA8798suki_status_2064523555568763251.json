@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2064188214764818449",
+    "created_at": "2026-06-10T01:42:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T02:42:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064523555568763251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2035310029667291136",
+          "start": 0,
+          "username": "DrKiChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064523555568763251",
+    "in_reply_to_user_id": "2035310029667291136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064480944073896384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrKiChan 暨大贾姐这里是要先住院+心理治疗把我的双相给缓解了然后才开GnRH，流程还蛮漫长的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2064188214764818449",
+        "created_at": "2026-06-10T01:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064523555568763251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2035310029667291136",
+              "start": 0,
+              "username": "DrKiChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064523555568763251",
+        "in_reply_to_user_id": "2035310029667291136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064480944073896384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrKiChan 暨大贾姐这里是要先住院+心理治疗把我的双相给缓解了然后才开GnRH，流程还蛮漫长的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035310029667291136",
+        "conversation_id": "2064188214764818449",
+        "created_at": "2026-06-09T22:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T23:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064480944073896384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064480944073896384",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064188214764818449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 问问姐姐GnRH要做哪些检查啊ww\n我暑假要去找刘烨医生qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 599,
+          "like_count": 1100,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 200
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-21T10:59:14.000Z",
+        "description": "Exploring……\n\n20120506|20260206~20260505|重庆|Minecraft指令|Backrooms|SCP|不鉴证！|不o|小证|减🍥准备打阻滞|永远缅怀@CenChi_1 |我不是粉红😭|好闺蜜兼大象@Mrlan66",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "CenChi_1"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "Mrlan66"
+              }
+            ]
+          }
+        },
+        "id": "2035310029667291136",
+        "location": "中国",
+        "name": "🇨🇳常希_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039746464860037123/0oAwW1nh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 106,
+          "like_count": 145,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 96
+        },
+        "username": "DrKiChan",
+        "verified": false
+      }
+    ]
+  }
+}

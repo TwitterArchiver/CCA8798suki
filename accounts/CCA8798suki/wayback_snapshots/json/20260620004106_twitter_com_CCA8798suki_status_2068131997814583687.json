@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2068107378265063635",
+    "created_at": "2026-06-20T00:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T01:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068131997814583687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068131997814583687",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068129045645295937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing 是的("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2068107378265063635",
+        "created_at": "2026-06-20T00:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068131997814583687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068131997814583687",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068129045645295937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing 是的("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600024316552179713",
+        "conversation_id": "2068107378265063635",
+        "created_at": "2026-06-20T00:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T01:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068129045645295937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068129045645295937",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068107378265063635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 不是，已经过去五天了吗😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 799,
+          "like_count": 1492,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | 非二元 | 同类可以找我互fo，但最好说一声 | 泛性恋喵 | 170cm/61kg | 有点地雷 | 老婆 @Y205621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "Y205621"
+              }
+            ]
+          }
+        },
+        "id": "1600024316552179713",
+        "location": "荒漠迷城",
+        "name": "祈晴kiki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062376314695532544/1WEAosvl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 336,
+          "like_count": 5915,
+          "listed_count": 7,
+          "media_count": 123,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false
+      }
+    ]
+  }
+}

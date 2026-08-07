@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2066701860761952510",
+    "created_at": "2026-06-17T02:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T03:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067068021550862504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067068021550862504",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066927665161126001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia 是的，但是get到了“性身份障碍？”\n应该是ICD-11相关的罢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066927665161126001].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066927665161126001",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066927665161126001"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2066701860761952510",
+        "created_at": "2026-06-17T02:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T03:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067068021550862504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067068021550862504",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066927665161126001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia 是的，但是get到了“性身份障碍？”\n应该是ICD-11相关的罢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 666,
+          "like_count": 1334,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 255
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ \n/ɪˈfiːə/ she/they\n评论&备用账号&误ban申诉@epheiamoe\nNo NSFW. 不互fo\n\nhrt since26.4.1\n账号访问权限：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 57,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "yxrchina"
+              },
+              {
+                "end": 132,
+                "start": 116,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️(she/they)",
+        "pinned_tweet_id": "2066517852908327344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 896,
+          "like_count": 30978,
+          "listed_count": 3,
+          "media_count": 606,
+          "tweet_count": 5875
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      }
+    ]
+  }
+}

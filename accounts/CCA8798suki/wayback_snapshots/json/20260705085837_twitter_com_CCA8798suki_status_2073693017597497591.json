@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073693017597497591",
+    "created_at": "2026-07-05T08:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073693017597497591"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ax09s84751/sta…",
+          "end": 149,
+          "expanded_url": "https://twitter.com/ax09s84751/status/2073411485544653077",
+          "start": 126,
+          "url": "https://t.co/krurZKPQew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073693017597497591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073411485544653077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "希望大家最近不要点进各种要求填写X账号密码的网站，谨防上当\n\n典型的套路包括但不限于：\n“查看有谁在看你的推特”等\n\n典型的上当后现象包括但不限于：\n自动向社交圈内的人发送私信等\n\n已经受害的补救措施包括但不限于：\n开启2FA两步验证\n更改账号密码等 https://t.co/krurZKPQew"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073693017597497591",
+        "created_at": "2026-07-05T08:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073693017597497591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ax09s84751/sta…",
+              "end": 149,
+              "expanded_url": "https://twitter.com/ax09s84751/status/2073411485544653077",
+              "start": 126,
+              "url": "https://t.co/krurZKPQew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073693017597497591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073411485544653077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "希望大家最近不要点进各种要求填写X账号密码的网站，谨防上当\n\n典型的套路包括但不限于：\n“查看有谁在看你的推特”等\n\n典型的上当后现象包括但不限于：\n自动向社交圈内的人发送私信等\n\n已经受害的补救措施包括但不限于：\n开启2FA两步验证\n更改账号密码等 https://t.co/krurZKPQew"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022153081031733252",
+        "conversation_id": "2073411485544653077",
+        "created_at": "2026-07-04T14:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073411485544653077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073411485544653077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 406,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有个网站真诡异吧 会自动向所有人发消息 呕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 1207,
+          "like_count": 3430,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 534
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-13T03:37:28.000Z",
+        "description": "09苏州人；居无定所，随遇而安\nBD-II（Dep, Mixed, RC）\nMTF🏳️‍⚧️，天然本色，不忘初心，以心相交，志趣相投，生于华夏，根在此处🇨🇳\n生日10.05 | 2026.2相遇，岁月悠长，相伴始终\n关联主号@Echo42es @Echog6xf\n因共鸣而聚，为理想而行，共筑未来",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "Echo42es"
+              },
+              {
+                "end": 131,
+                "start": 122,
+                "username": "Echog6xf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ax09s84751",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ax09s84751",
+                "start": 0,
+                "url": "https://t.co/PTeX0Zk9il"
+              }
+            ]
+          }
+        },
+        "id": "2022153081031733252",
+        "location": "The People's Republic of China",
+        "name": "Echo37",
+        "pinned_tweet_id": "2072703005670224128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073333035219705856/eTQJmzYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 1810,
+          "like_count": 3081,
+          "listed_count": 1,
+          "media_count": 394,
+          "tweet_count": 2687
+        },
+        "url": "https://t.co/PTeX0Zk9il",
+        "username": "ax09s84751",
+        "verified": true
+      }
+    ]
+  }
+}

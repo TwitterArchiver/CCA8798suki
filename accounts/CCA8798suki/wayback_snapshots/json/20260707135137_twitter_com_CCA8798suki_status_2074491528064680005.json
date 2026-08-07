@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2074112412425269325",
+    "created_at": "2026-07-07T13:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074491528064680005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060652328915701760",
+          "start": 0,
+          "username": "MEMZFuHua"
+        },
+        {
+          "end": 22,
+          "id": "2050537864908128256",
+          "start": 11,
+          "username": "jiutao1034"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074491528064680005",
+    "in_reply_to_user_id": "2060652328915701760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074466009550041577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZFuHua @jiutao1034 主流还是补+色，但是现在有说补+醋酸甲羟孕酮+螺内酯抗雄副作用会很小的，但是最好还是GnRHa激动剂，就是青春期阻滞剂抗雄"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2074112412425269325",
+        "created_at": "2026-07-07T13:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074491528064680005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060652328915701760",
+              "start": 0,
+              "username": "MEMZFuHua"
+            },
+            {
+              "end": 22,
+              "id": "2050537864908128256",
+              "start": 11,
+              "username": "jiutao1034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074491528064680005",
+        "in_reply_to_user_id": "2060652328915701760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074466009550041577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZFuHua @jiutao1034 主流还是补+色，但是现在有说补+醋酸甲羟孕酮+螺内酯抗雄副作用会很小的，但是最好还是GnRHa激动剂，就是青春期阻滞剂抗雄"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060652328915701760",
+        "conversation_id": "2074112412425269325",
+        "created_at": "2026-07-07T12:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074466009550041577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 24,
+              "id": "2050537864908128256",
+              "start": 13,
+              "username": "jiutao1034"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074466009550041577",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074453388755169349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @jiutao1034 话说色的副作用相较于螺内酯应该小多了吧，目前市面上主流的抗雄方案是什么啊😦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 1253,
+          "like_count": 3799,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.6.11 | 理科不好 | 无证含糖 | 中度抑郁 | 同类互fo | 技术花粉 | 抖m",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wqj.it.com",
+                "end": 23,
+                "expanded_url": "http://wqj.it.com",
+                "start": 0,
+                "url": "https://t.co/mDHzbecPxK"
+              }
+            ]
+          }
+        },
+        "id": "2060652328915701760",
+        "location": "互联网深处",
+        "name": "MEMZ-FuHua🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060653089296982016/hAS6wguA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 52,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/mDHzbecPxK",
+        "username": "MEMZFuHua",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-02T11:28:32.000Z",
+        "description": "年龄党丨mtf丨反对党（母亲反对父亲超级反对)丨出厂日期:10.3.4丨🍥hrt:26.5.18丨无证含糖丨上班族丨不o丨不刀丨同类互fo丨各类fps又菜又爱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiutao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiutao",
+                "start": 0,
+                "url": "https://t.co/r2yUTmzIja"
+              }
+            ]
+          }
+        },
+        "id": "2050537864908128256",
+        "location": "翁法罗斯",
+        "name": "玖桃🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2072324031664275752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066341755046486016/Z5gd4bcy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 195,
+          "like_count": 148,
+          "listed_count": 6,
+          "media_count": 35,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/r2yUTmzIja",
+        "username": "jiutao1034",
+        "verified": true
+      }
+    ]
+  }
+}

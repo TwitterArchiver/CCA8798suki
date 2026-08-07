@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2081392288186691900",
+    "created_at": "2026-07-27T01:16:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081549339550511123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806972371607474176",
+          "start": 0,
+          "username": "QiongliBAKA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081549339550511123",
+    "in_reply_to_user_id": "1806972371607474176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081392288186691900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiongliBAKA 我去，JQuake，xmsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71005,
+        "height": 1080,
+        "media_key": "13_2081392101024321536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081392101024321536/img/onsNSHVaETLA5_75.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081392101024321536/vid/avc1/1920x1080/5l6K6fO8MTsbcg1Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081392101024321536/vid/avc1/1280x720/5siYVEQ2Y_UVRP2q.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081392101024321536/vid/avc1/640x360/L-T-Ti47Pu50uwC4.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081392101024321536/vid/avc1/480x270/TJ3B1AU8yhBEIl8-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081392101024321536/pl/B594_bG1lcXTTUyC.m3u8"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 14441,
+        "height": 1920,
+        "media_key": "13_2081392101003300864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081392101003300864/img/-Yr4g2upmIe35nmm.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081392101003300864/vid/avc1/720x1280/JUZQkLhlD5kDSzIF.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081392101003300864/vid/avc1/320x568/nHKAO_9NyGUX3y2e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081392101003300864/pl/-5XF0Ys_-aMvk4yu.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081392101003300864/vid/avc1/1080x1920/_TYSOqLvs-UKvKnc.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081392101003300864/vid/avc1/480x852/oIcoWNOTPBCBmo6i.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2081392288186691900",
+        "created_at": "2026-07-27T01:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081549339550511123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806972371607474176",
+              "start": 0,
+              "username": "QiongliBAKA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081549339550511123",
+        "in_reply_to_user_id": "1806972371607474176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081392288186691900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiongliBAKA 我去，JQuake，xmsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081392101024321536",
+            "13_2081392101003300864"
+          ]
+        },
+        "author_id": "1806972371607474176",
+        "conversation_id": "2081392288186691900",
+        "created_at": "2026-07-26T14:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081392288186691900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wUDqaZLTrF",
+              "end": 52,
+              "expanded_url": "https://x.com/QiongliBAKA/status/2081392288186691900/video/1",
+              "media_key": "13_2081392101024321536",
+              "start": 29,
+              "url": "https://t.co/wUDqaZLTrF"
+            },
+            {
+              "display_url": "pic.x.com/wUDqaZLTrF",
+              "end": 52,
+              "expanded_url": "https://x.com/QiongliBAKA/status/2081392288186691900/video/1",
+              "media_key": "13_2081392101003300864",
+              "start": 29,
+              "url": "https://t.co/wUDqaZLTrF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081392288186691900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下我一跳\n原来serv和jquake都有台湾地区的监测a https://t.co/wUDqaZLTrF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 1443,
+          "like_count": 7242,
+          "listed_count": 5,
+          "media_count": 110,
+          "tweet_count": 876
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T08:46:10.000Z",
+        "description": "在网络的海洋里游啊｜辽宁人｜小号「逃生舱」@Qiongli_BAKA‖物理意义上的高人因为身高≈180cm\n平时发布日常\n现实中见不得人。。。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "Qiongli_BAKA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/WiBZ0sh",
+                "end": 23,
+                "expanded_url": "https://b23.tv/WiBZ0sh",
+                "start": 0,
+                "url": "https://t.co/alRvzxVnuF"
+              }
+            ]
+          }
+        },
+        "id": "1806972371607474176",
+        "location": "happiness",
+        "name": "是穹璃捏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069300212926214144/9Z4ekt4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 1205,
+          "like_count": 8473,
+          "listed_count": 3,
+          "media_count": 248,
+          "tweet_count": 2524
+        },
+        "url": "https://t.co/alRvzxVnuF",
+        "username": "QiongliBAKA",
+        "verified": true
+      }
+    ]
+  }
+}

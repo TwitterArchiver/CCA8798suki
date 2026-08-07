@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2060955819232067884",
+    "created_at": "2026-05-31T08:34:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:34:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061003340667121884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026612223788163072",
+          "start": 0,
+          "username": "Roikoyo_AI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061003340667121884",
+    "in_reply_to_user_id": "2026612223788163072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061001251480105458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roikoyo_AI 好～谢谢了咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2060955819232067884",
+        "created_at": "2026-05-31T08:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061003340667121884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026612223788163072",
+              "start": 0,
+              "username": "Roikoyo_AI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061003340667121884",
+        "in_reply_to_user_id": "2026612223788163072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061001251480105458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roikoyo_AI 好～谢谢了咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026612223788163072",
+        "conversation_id": "2060955819232067884",
+        "created_at": "2026-05-31T08:26:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061001251480105458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 25,
+              "id": "1761282483834998784",
+              "start": 13,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061001251480105458",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060955819232067884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @qiancongxyn 呜，抱抱妹妹，希望你早点好起来，要好好活着呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 403,
+          "like_count": 504,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-25T10:58:02.000Z",
+        "description": "MtF  I  2008_12  I  HRT2026_02_01 I 家长党",
+        "id": "2026612223788163072",
+        "name": "落霞寒漪🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057136998369091587/cRS-pRoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 93,
+          "like_count": 390,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 65
+        },
+        "username": "Roikoyo_AI",
+        "verified": false
+      }
+    ]
+  }
+}

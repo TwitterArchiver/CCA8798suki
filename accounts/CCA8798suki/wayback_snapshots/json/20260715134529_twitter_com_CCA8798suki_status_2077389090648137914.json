@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2077318984010236391",
+    "created_at": "2026-07-15T13:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T14:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077389090648137914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943555238574837760",
+          "start": 0,
+          "username": "xynhaha_0602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077389090648137914",
+    "in_reply_to_user_id": "1943555238574837760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077384061979644356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xynhaha_0602 这么强？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077384054773813248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRZypbakAAhKG6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2077318984010236391",
+        "created_at": "2026-07-15T13:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077389090648137914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943555238574837760",
+              "start": 0,
+              "username": "xynhaha_0602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077389090648137914",
+        "in_reply_to_user_id": "1943555238574837760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077384061979644356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xynhaha_0602 这么强？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077384054773813248"
+          ]
+        },
+        "author_id": "1943555238574837760",
+        "conversation_id": "2077318984010236391",
+        "created_at": "2026-07-15T13:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T14:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077384061979644356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3jBADHllV",
+              "end": 88,
+              "expanded_url": "https://x.com/xynhaha_0602/status/2077384061979644356/photo/1",
+              "media_key": "3_2077384054773813248",
+              "start": 65,
+              "url": "https://t.co/v3jBADHllV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077384061979644356",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077318984010236391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 其实办这个挺好的 我办了之后每次只要是看精神科都是打四折（优惠60%）好像 然后现在还没遇到过过啥问题 https://t.co/v3jBADHllV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 1332,
+          "like_count": 4964,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 705
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:17:56.000Z",
+        "description": "2010.6.2/药娘mtf/持证含糖/大证2025.4.3/小证2025.1.3/含糖但家暴党/中文&English/HRT2024.3.11/持证HRT2025.1.3/Minecraft玩家/常住宁波固定往返杭州/不抽烟不喝酒不鉴证不od/欢迎投喂/贴贴喵 可扩列～",
+        "id": "1943555238574837760",
+        "location": "Taipei City, Taiwan",
+        "name": "xynhaha",
+        "pinned_tweet_id": "2024523467140583869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943560087207055365/ZEOj5AFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 62,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "xynhaha_0602",
+        "verified": false
+      }
+    ]
+  }
+}

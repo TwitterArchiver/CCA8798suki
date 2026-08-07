@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2063871577591275690",
+    "created_at": "2026-06-15T04:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066373170396086575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066373170396086575",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066371387439370729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 喵喵？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2063871577591275690",
+        "created_at": "2026-06-15T04:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066373170396086575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066373170396086575",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066371387439370729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 喵喵？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1704469304077611008",
+        "conversation_id": "2063871577591275690",
+        "created_at": "2026-06-15T04:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066371387439370729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1558757725797986305",
+              "start": 0,
+              "username": "Hemlock_113"
+            },
+            {
+              "end": 25,
+              "id": "2048693394226974720",
+              "start": 13,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066371387439370729",
+        "in_reply_to_user_id": "1558757725797986305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063871577591275690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hemlock_113 @CCA8798suki 喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 649,
+          "like_count": 1267,
+          "listed_count": 2,
+          "media_count": 36,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！  ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4596,
+          "following_count": 3930,
+          "like_count": 28007,
+          "listed_count": 11,
+          "media_count": 1459,
+          "tweet_count": 6079
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

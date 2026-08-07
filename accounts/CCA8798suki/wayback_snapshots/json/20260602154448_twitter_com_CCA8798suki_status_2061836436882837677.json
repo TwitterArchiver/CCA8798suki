@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061836418989858816",
+        "16_2061836423251275776"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "conversation_id": "2061836436882837677",
+    "created_at": "2026-06-02T15:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061836436882837677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HJ1HYJmiXK",
+          "end": 66,
+          "expanded_url": "https://x.com/CCA8798suki/status/2061836436882837677/photo/1",
+          "media_key": "3_2061836418989858816",
+          "start": 43,
+          "url": "https://t.co/HJ1HYJmiXK"
+        },
+        {
+          "display_url": "pic.x.com/HJ1HYJmiXK",
+          "end": 66,
+          "expanded_url": "https://x.com/CCA8798suki/status/2061836436882837677/photo/1",
+          "media_key": "16_2061836423251275776",
+          "start": 43,
+          "url": "https://t.co/HJ1HYJmiXK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061836436882837677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这只是两个75mgpr可以组成的色块\n\n偏头痛真的很难受\n三叉神经我带着pr来救你了 https://t.co/HJ1HYJmiXK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1959,
+        "media_key": "3_2061836418989858816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0dTIraoAA8_He.jpg",
+        "width": 1959
+      },
+      {
+        "height": 512,
+        "media_key": "16_2061836423251275776",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJ0dTYjasAAh0a8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJ0dTYjasAAh0a8.mp4"
+          }
+        ],
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061836418989858816",
+            "16_2061836423251275776"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2061836436882837677",
+        "created_at": "2026-06-02T15:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061836436882837677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HJ1HYJmiXK",
+              "end": 66,
+              "expanded_url": "https://x.com/CCA8798suki/status/2061836436882837677/photo/1",
+              "media_key": "3_2061836418989858816",
+              "start": 43,
+              "url": "https://t.co/HJ1HYJmiXK"
+            },
+            {
+              "display_url": "pic.x.com/HJ1HYJmiXK",
+              "end": 66,
+              "expanded_url": "https://x.com/CCA8798suki/status/2061836436882837677/photo/1",
+              "media_key": "16_2061836423251275776",
+              "start": 43,
+              "url": "https://t.co/HJ1HYJmiXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061836436882837677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这只是两个75mgpr可以组成的色块\n\n偏头痛真的很难受\n三叉神经我带着pr来救你了 https://t.co/HJ1HYJmiXK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 523,
+          "like_count": 734,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}

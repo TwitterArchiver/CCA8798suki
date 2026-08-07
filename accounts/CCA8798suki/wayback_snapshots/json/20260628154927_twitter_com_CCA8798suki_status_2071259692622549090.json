@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071259689745338368"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071259692622549090",
+    "created_at": "2026-06-28T15:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T16:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071259692622549090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g6YF1gZBNd",
+          "end": 76,
+          "expanded_url": "https://x.com/CCA8798suki/status/2071259692622549090/photo/1",
+          "media_key": "3_2071259689745338368",
+          "start": 53,
+          "url": "https://t.co/g6YF1gZBNd"
+        },
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2071176391425749030",
+          "start": 77,
+          "url": "https://t.co/zC41BT7sz1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071259692622549090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我先自报身份，没正经玩过战争雷霆，也不打算入坑。\n我是真的百思不得其解，战雷这游戏到底做出来是给谁玩的？\n\n在外人眼里看，就是一堆铁疙瘩隔着几百米对射，动不动就被一发APFSDS穿弹药架直接炸飞，全程没剧情、没爽快击杀特效、没公平匹配，说白了在路人眼里，跟开着铁棺材在泥坑里互相扔石头没什么区别。\n\n你说面向军迷爱好者吧？那里面一堆冷战实验车、现代魔改、金币缝合怪，俄粘邦无敌，正经军迷谁受得了俄联邦的魔法爆反硬吃钢针、MBT2000的爆反随便被捅穿、老中的油箱永远在爆炸？考据党碰都不会碰。\n你说面向普通竞技玩家吧？现代房要看人、记点位、躲BMPT，空历更是长距主动弹对射，各种雷达模式切来切去，新人阜南刚想凑个热闹，直接被顶级房R-77-1和AIM-120D按着摩擦，半点还手39的余地都没有。\n\n最离谱的是毛子运营还格外摆烂，权重和市场跟股市一样乱跳，今天砍你导弹过载，明天涨你维修费，后天来个T58半价，圈内老玩家天天骂街，外人但凡多问一句怎么玩，就被各种“39下高”“多径杂波”“分房壮丁”等术语怼得哑口无言，压根融不进去。\n\n我就很好奇了，讨好不了军迷，包容不了新手，平衡稀烂又逼氪，肝度堪比007，圈子还自带受虐倾向。\n我就是来当个路人，不带任何恶意，也不引战，单纯实在看不懂这游戏到底图个啥，有没有街溜子大佬来给我科普科普？\n\n需要我帮你把它改得更魔法吗？"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071176391425749030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我先自报身份，没正经玩过战争雷霆，也不打算入坑。\n我是真的百思不得其解，战雷这游戏到底做出来是给谁玩的？ https://t.co/g6YF1gZBNd https://t.co/zC41BT7sz1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2071259689745338368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6XtrzbUAA2__h.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071259689745338368"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071259692622549090",
+        "created_at": "2026-06-28T15:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071259692622549090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g6YF1gZBNd",
+              "end": 76,
+              "expanded_url": "https://x.com/CCA8798suki/status/2071259692622549090/photo/1",
+              "media_key": "3_2071259689745338368",
+              "start": 53,
+              "url": "https://t.co/g6YF1gZBNd"
+            },
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2071176391425749030",
+              "start": 77,
+              "url": "https://t.co/zC41BT7sz1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071259692622549090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我先自报身份，没正经玩过战争雷霆，也不打算入坑。\n我是真的百思不得其解，战雷这游戏到底做出来是给谁玩的？\n\n在外人眼里看，就是一堆铁疙瘩隔着几百米对射，动不动就被一发APFSDS穿弹药架直接炸飞，全程没剧情、没爽快击杀特效、没公平匹配，说白了在路人眼里，跟开着铁棺材在泥坑里互相扔石头没什么区别。\n\n你说面向军迷爱好者吧？那里面一堆冷战实验车、现代魔改、金币缝合怪，俄粘邦无敌，正经军迷谁受得了俄联邦的魔法爆反硬吃钢针、MBT2000的爆反随便被捅穿、老中的油箱永远在爆炸？考据党碰都不会碰。\n你说面向普通竞技玩家吧？现代房要看人、记点位、躲BMPT，空历更是长距主动弹对射，各种雷达模式切来切去，新人阜南刚想凑个热闹，直接被顶级房R-77-1和AIM-120D按着摩擦，半点还手39的余地都没有。\n\n最离谱的是毛子运营还格外摆烂，权重和市场跟股市一样乱跳，今天砍你导弹过载，明天涨你维修费，后天来个T58半价，圈内老玩家天天骂街，外人但凡多问一句怎么玩，就被各种“39下高”“多径杂波”“分房壮丁”等术语怼得哑口无言，压根融不进去。\n\n我就很好奇了，讨好不了军迷，包容不了新手，平衡稀烂又逼氪，肝度堪比007，圈子还自带受虐倾向。\n我就是来当个路人，不带任何恶意，也不引战，单纯实在看不懂这游戏到底图个啥，有没有街溜子大佬来给我科普科普？\n\n需要我帮你把它改得更魔法吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071176391425749030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我先自报身份，没正经玩过战争雷霆，也不打算入坑。\n我是真的百思不得其解，战雷这游戏到底做出来是给谁玩的？ https://t.co/g6YF1gZBNd https://t.co/zC41BT7sz1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2071176391425749030",
+        "created_at": "2026-06-28T10:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071176391425749030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071176391425749030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我先自报身份，没入坑过任何音游，也不打算洗白。\n我是真的百思不得其解，音游到底做出来是给谁玩的？\n在外人眼里看，就是满屏花里胡哨的音符，人手跟开了加速挂似的一顿乱点乱拍，全程没剧情、没养成、没抽卡、没任何常规游戏的娱乐点，说白了在路人眼里，跟对着屏幕瞎忙活没什么区别。\n你说面向普通听歌爱好者吧？那里面一堆电波、核曲、小众同人曲，调子又吵又怪，正常人听歌都选舒缓流行的，谁愿意遭这份罪？普通乐迷压根碰都不会碰。\n你说面向普通游戏玩家吧？门槛高得离谱就算了，还一堆什么底力、定数、吃分、良谱的圈内黑话，新人刚想凑个热闹，直接被高难谱面按在地上劝退，半点入门的余地都没有。\n最离谱的是圈子还格外封闭，圈内人自顾自狂欢，外人但凡多问一句，就被各种专业术语怼得哑口无言，压根融不进去。\n我就很好奇了，讨好不了路人，包容不了新手，曲风小众又硬核，门槛高到离谱，圈子还自带壁垒。\n我就是来当个吃瓜串子，不带任何恶意，也不引战，单纯实在看不懂这个圈子的定位，有没有圈内大佬来给我科普科普？\n需要我帮你把它改的更阴阳吗？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 17338,
+          "like_count": 150,
+          "quote_count": 1,
+          "reply_count": 47,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我先自报身份，没入坑过任何音游，也不打算洗白。\n我是真的百思不得其解，音游到底做出来是给谁玩的？\n在外人眼里看，就是满屏花里胡哨的音符，人手跟开了加速挂似的一顿乱点乱拍，全程没剧情、没养成、没抽卡、没任何常规游戏的娱乐点，说白了在路人眼里，跟对着屏幕瞎忙活没什么区别。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 975,
+          "like_count": 2436,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN / en-NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "45_206io"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 112,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 89,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x45_206mhz",
+                "end": 23,
+                "expanded_url": "https://t.me/x45_206mhz",
+                "start": 0,
+                "url": "https://t.co/eEc1irn5gW"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3159,
+          "following_count": 499,
+          "like_count": 37448,
+          "listed_count": 1,
+          "media_count": 828,
+          "tweet_count": 4578
+        },
+        "url": "https://t.co/eEc1irn5gW",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

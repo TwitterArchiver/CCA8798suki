@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2061698453848387940",
+    "created_at": "2026-06-02T06:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061698453848387940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aoim33/status/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/aoim33/status/2061270321794339056",
+          "start": 33,
+          "url": "https://t.co/3nZQBv09za"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061698453848387940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061270321794339056",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每天上推最崩溃的事情是发现每天都有人监控自己然后用第三人称写出来 https://t.co/3nZQBv09za"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2061698453848387940",
+        "created_at": "2026-06-02T06:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061698453848387940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aoim33/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/aoim33/status/2061270321794339056",
+              "start": 33,
+              "url": "https://t.co/3nZQBv09za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061698453848387940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061270321794339056",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每天上推最崩溃的事情是发现每天都有人监控自己然后用第三人称写出来 https://t.co/3nZQBv09za"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902568136450424832",
+        "conversation_id": "2061270321794339056",
+        "created_at": "2026-06-01T02:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061270321794339056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061270321794339056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 27653,
+          "like_count": 783,
+          "quote_count": 36,
+          "reply_count": 15,
+          "retweet_count": 92
+        },
+        "reply_settings": "other",
+        "text": "原生家庭缺爱导致的两种极端\n\n第一种\n缺爱 恋爱脑 很容易相信别人 依赖性\n总想讨好别人 谁对她好她就爱谁\n敏感 自卑 不配得感\n时常崩溃情绪不稳定情感脆弱\n\n第二种\n理智冷漠自私自利完全不相信任何人\n孤独自我封闭永远以自我为中心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 484,
+          "like_count": 670,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 129
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "发育障碍研究 / 沪杭地铁迷 / 舞萌 Arc  / 🇨🇳 🇬🇧 🇯🇵 🇰🇷 / @supernovaArcaea 队员 / @aoim31 / 粉丝群二维码在亮点里 / 英语 & 日语课业 & 树洞咨询请私信 / 财经小趴菜 / 文案 bot",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 3007,
+          "like_count": 51250,
+          "listed_count": 19,
+          "media_count": 3068,
+          "tweet_count": 12995
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

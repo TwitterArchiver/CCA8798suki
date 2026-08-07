@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2069036002484818331",
+    "created_at": "2026-06-22T12:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069036002484818331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nagis1a/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/nagis1a/status/2069033932474163628",
+          "start": 13,
+          "url": "https://t.co/DxRyJ2pKi8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069036002484818331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069033932474163628",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有复制粘贴巡回贴环节🤓 https://t.co/DxRyJ2pKi8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_2069033843848556544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLavUZrasAAf24i.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069033843861196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLavUZubkAACn3W.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2069036002484818331",
+        "created_at": "2026-06-22T12:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069036002484818331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nagis1a/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/nagis1a/status/2069033932474163628",
+              "start": 13,
+              "url": "https://t.co/DxRyJ2pKi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069036002484818331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069033932474163628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有复制粘贴巡回贴环节🤓 https://t.co/DxRyJ2pKi8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069033843848556544",
+            "3_2069033843861196800"
+          ]
+        },
+        "author_id": "2045224199120191488",
+        "conversation_id": "2069033932474163628",
+        "created_at": "2026-06-22T12:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069033932474163628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1761282483834998784",
+              "start": 13,
+              "username": "qiancongxyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AjVCK0KBlO",
+              "end": 132,
+              "expanded_url": "https://x.com/nagis1a/status/2069033932474163628/photo/1",
+              "media_key": "3_2069033843848556544",
+              "start": 109,
+              "url": "https://t.co/AjVCK0KBlO"
+            },
+            {
+              "display_url": "pic.x.com/AjVCK0KBlO",
+              "end": 132,
+              "expanded_url": "https://x.com/nagis1a/status/2069033932474163628/photo/1",
+              "media_key": "3_2069033843861196800",
+              "start": 109,
+              "url": "https://t.co/AjVCK0KBlO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069033932474163628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好😭我是浅葱🍥，原号\n@qiancongxyn遭遇马斯克和剑人迫害导致永久封号\n这里是二代目\n\n==求原互fo宝宝们帮转帮回fo==\n\n本号会慢慢回关(三无除外)\n在账号成功找回前所有日常内容都会在该账号继续发布 https://t.co/AjVCK0KBlO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 887,
+          "like_count": 1892,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T19:34:04.000Z",
+        "description": "MtF\n原号浅葱🍥@qiancongxyn\n二代目互fo巡回中…\n\n愿以温柔为骨，活成一束柔光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "qiancongxyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qiancong1",
+                "end": 23,
+                "expanded_url": "http://t.me/qiancong1",
+                "start": 0,
+                "url": "https://t.co/Ds2IoXcHq1"
+              }
+            ]
+          }
+        },
+        "id": "2045224199120191488",
+        "name": "芊小丛🍥（糖商）",
+        "pinned_tweet_id": "2069033932474163628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068938612213989376/ZDOr5smz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 49,
+          "like_count": 404,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/Ds2IoXcHq1",
+        "username": "nagis1a",
+        "verified": false
+      }
+    ]
+  }
+}

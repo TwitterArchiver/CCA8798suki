@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2073437475104833864",
+    "created_at": "2026-07-05T13:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073763471494443169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060652328915701760",
+          "start": 0,
+          "username": "MEMZFuHua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073763471494443169",
+    "in_reply_to_user_id": "2060652328915701760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073751127850643621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZFuHua 长期来讲你这样会导致乳腺导管提前闭合，反而影响胸部发育，建议你前几个月先从2mg慢慢往上提，不用担心骨质疏松，骨质疏松是比较长期双低后才会出现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2073437475104833864",
+        "created_at": "2026-07-05T13:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073763471494443169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060652328915701760",
+              "start": 0,
+              "username": "MEMZFuHua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073763471494443169",
+        "in_reply_to_user_id": "2060652328915701760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073751127850643621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZFuHua 长期来讲你这样会导致乳腺导管提前闭合，反而影响胸部发育，建议你前几个月先从2mg慢慢往上提，不用担心骨质疏松，骨质疏松是比较长期双低后才会出现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060652328915701760",
+        "conversation_id": "2073437475104833864",
+        "created_at": "2026-07-05T12:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073751127850643621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 21,
+              "id": "2067998397429317632",
+              "start": 13,
+              "username": "nhcueee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073751127850643621",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073741198754562379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @nhcueee 大概断断续续吃了半个月吧，我本来是一天吞服2mg也就是一粒的，昨天加了个tg群，那个群主说一天吃太少了，可能会骨质疏松，让我加到6mg然后今天我就是按照这个剂量来吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党? 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/42kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 150,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2073733681118847311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 1217,
+          "like_count": 3580,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 552
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.6.11 | 理科不好 | 无证含糖 | 中度抑郁 | 同类互fo | 技术花粉 | 抖m",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wqj.it.com",
+                "end": 23,
+                "expanded_url": "http://wqj.it.com",
+                "start": 0,
+                "url": "https://t.co/mDHzbecPxK"
+              }
+            ]
+          }
+        },
+        "id": "2060652328915701760",
+        "location": "互联网深处",
+        "name": "MEMZ-FuHua🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060653089296982016/hAS6wguA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 54,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/mDHzbecPxK",
+        "username": "MEMZFuHua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2082737260244685059",
+    "created_at": "2026-07-30T08:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082738193703866715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2060652328915701760",
+          "start": 0,
+          "username": "MEMZFuHua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082738193703866715",
+    "in_reply_to_user_id": "2060652328915701760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082737511051538498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEMZFuHua 那很好了🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2082737260244685059",
+        "created_at": "2026-07-30T08:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082738193703866715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2060652328915701760",
+              "start": 0,
+              "username": "MEMZFuHua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082738193703866715",
+        "in_reply_to_user_id": "2060652328915701760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082737511051538498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEMZFuHua 那很好了🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060652328915701760",
+        "conversation_id": "2082737260244685059",
+        "created_at": "2026-07-30T07:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082737511051538498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082737511051538498",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082737260244685059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 今天上午医生也是说我左侧乳腺在发育了，没提右边的事，不过最后应该长的大小差不多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 1460,
+          "like_count": 7838,
+          "listed_count": 5,
+          "media_count": 117,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T09:20:39.000Z",
+        "description": "2010.12.27崭新下线 | HRT2026.7.4 | 理科不好 | 无证含糖 | 中度抑郁 | 同类互fo | 技术花粉 | 抖m | 不OD不割手 | 打舞萌",
+        "id": "2060652328915701760",
+        "location": "中国 安徽",
+        "name": "MEMZ-FuHua🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2075555105970233537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075471807206084610/ovf4uAvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 217,
+          "like_count": 326,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "MEMZFuHua",
+        "verified": true
+      }
+    ]
+  }
+}

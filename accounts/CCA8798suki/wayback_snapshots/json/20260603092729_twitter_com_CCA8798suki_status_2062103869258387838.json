@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2061814797843468381",
+    "created_at": "2026-06-03T09:27:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T10:27:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062103869258387838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1068031145927938049",
+          "start": 0,
+          "username": "DenisK96857693"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "hrt.transmtf.com",
+          "end": 55,
+          "expanded_url": "http://hrt.transmtf.com",
+          "start": 32,
+          "status": 200,
+          "title": "HRT Tracker",
+          "unwound_url": "https://hrt.transmtf.com/",
+          "url": "https://t.co/Zfex2Cy8Pl"
+        },
+        {
+          "display_url": "mtf.wiki",
+          "end": 92,
+          "expanded_url": "http://mtf.wiki",
+          "start": 69,
+          "status": 200,
+          "title": "MtF.wiki",
+          "unwound_url": "https://mtf.wiki/",
+          "url": "https://t.co/ECbAPbu3d2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062103869258387838",
+    "in_reply_to_user_id": "1068031145927938049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062090918124294368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DenisK96857693 凝胶的用量我不是很清楚，建议利用https://t.co/Zfex2Cy8Pl新更新的相关记录功能以及参考https://t.co/ECbAPbu3d2中的用法用量，如果是自制凝胶的话，只能自己问药代动力学和吸收数据\n\n色普龙的用量是可以的，不过分成一天6.25mg的话血药浓度会更平稳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2061814797843468381",
+        "created_at": "2026-06-03T09:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T10:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062103869258387838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1068031145927938049",
+              "start": 0,
+              "username": "DenisK96857693"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "hrt.transmtf.com",
+              "end": 55,
+              "expanded_url": "http://hrt.transmtf.com",
+              "start": 32,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.transmtf.com/",
+              "url": "https://t.co/Zfex2Cy8Pl"
+            },
+            {
+              "display_url": "mtf.wiki",
+              "end": 92,
+              "expanded_url": "http://mtf.wiki",
+              "start": 69,
+              "status": 200,
+              "title": "MtF.wiki",
+              "unwound_url": "https://mtf.wiki/",
+              "url": "https://t.co/ECbAPbu3d2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062103869258387838",
+        "in_reply_to_user_id": "1068031145927938049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062090918124294368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DenisK96857693 凝胶的用量我不是很清楚，建议利用https://t.co/Zfex2Cy8Pl新更新的相关记录功能以及参考https://t.co/ECbAPbu3d2中的用法用量，如果是自制凝胶的话，只能自己问药代动力学和吸收数据\n\n色普龙的用量是可以的，不过分成一天6.25mg的话血药浓度会更平稳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1068031145927938049",
+        "conversation_id": "2061814797843468381",
+        "created_at": "2026-06-03T08:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062090918124294368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062090918124294368",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061814797843468381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 两天12.5mg色普龙然后每天差不多5mg雌二醇凝胶 这么吃的可以么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 533,
+          "like_count": 789,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 159
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-29T06:37:23.000Z",
+        "description": "2026年3月24日吃糖\nm属性  很喜欢肌肉的壮一点的\n想聊天 什么都是可以说的😞",
+        "id": "1068031145927938049",
+        "name": "DenisK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025374846990123008/mlteY_sQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 103,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "DenisK96857693",
+        "verified": false
+      }
+    ]
+  }
+}

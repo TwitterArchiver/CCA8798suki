@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2080272388055601168",
+    "created_at": "2026-07-24T10:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T11:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080597429104296360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2024068861134528512",
+          "start": 0,
+          "username": "1gdsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080597429104296360",
+    "in_reply_to_user_id": "2024068861134528512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080272388055601168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1gdsb 我破绷了\n血糖70是移动的巧克力工厂吗🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080272343205924864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6crKTb0AA-tNU.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2080272388055601168",
+        "created_at": "2026-07-24T10:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080597429104296360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2024068861134528512",
+              "start": 0,
+              "username": "1gdsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080597429104296360",
+        "in_reply_to_user_id": "2024068861134528512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080272388055601168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1gdsb 我破绷了\n血糖70是移动的巧克力工厂吗🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080272343205924864"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "conversation_id": "2080272388055601168",
+        "created_at": "2026-07-23T12:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080272388055601168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xH074g26Vp",
+              "end": 36,
+              "expanded_url": "https://x.com/1gdsb/status/2080272388055601168/photo/1",
+              "media_key": "3_2080272343205924864",
+              "start": 13,
+              "url": "https://t.co/xH074g26Vp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080272388055601168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神了血糖能过70早死了吧 https://t.co/xH074g26Vp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "pinned_tweet_id": "2076708376483110961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1410,
+          "like_count": 6768,
+          "listed_count": 5,
+          "media_count": 108,
+          "tweet_count": 819
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？ 缺爱？抖m？ 🚪0r🥺一分不用\n不o不割纯发癫 我决定只发正常的东西了发疯的东西都去我草稿箱待着吧😋\n天残年龄党\n小号@ovvvvvvvvvvomtf\n8.31（开学前一天悲:(\n身高179 57.4kg\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "ovvvvvvvvvvomtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "pinned_tweet_id": "2079218216426230019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 573,
+          "like_count": 4007,
+          "listed_count": 3,
+          "media_count": 546,
+          "tweet_count": 2186
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": true
+      }
+    ]
+  }
+}

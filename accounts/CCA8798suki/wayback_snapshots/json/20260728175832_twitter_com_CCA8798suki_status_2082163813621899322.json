@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2082025339912589363",
+    "created_at": "2026-07-28T17:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082163813621899322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082163813621899322",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082025339912589363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 抱抱你...\n节哀顺变\n祝她Rest In Peace"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2082025273961451520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTW9KPbkAA81Vb.jpg",
+        "width": 2100
+      },
+      {
+        "height": 529,
+        "media_key": "3_2082025273948819456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTW9KMa0AAYL9J.jpg",
+        "width": 573
+      },
+      {
+        "height": 2980,
+        "media_key": "3_2082025273965662208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTW9KQb0AA8cQ3.jpg",
+        "width": 3976
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2082025273957269504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTW9KObwAAMY6J.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2082025339912589363",
+        "created_at": "2026-07-28T17:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082163813621899322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082163813621899322",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082025339912589363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 抱抱你...\n节哀顺变\n祝她Rest In Peace"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082025273961451520",
+            "3_2082025273948819456",
+            "3_2082025273965662208",
+            "3_2082025273957269504"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2082025339912589363",
+        "created_at": "2026-07-28T08:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082025339912589363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXb22Bz61i",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2082025339912589363/photo/1",
+              "media_key": "3_2082025273961451520",
+              "start": 137,
+              "url": "https://t.co/AXb22Bz61i"
+            },
+            {
+              "display_url": "pic.x.com/AXb22Bz61i",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2082025339912589363/photo/1",
+              "media_key": "3_2082025273948819456",
+              "start": 137,
+              "url": "https://t.co/AXb22Bz61i"
+            },
+            {
+              "display_url": "pic.x.com/AXb22Bz61i",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2082025339912589363/photo/1",
+              "media_key": "3_2082025273965662208",
+              "start": 137,
+              "url": "https://t.co/AXb22Bz61i"
+            },
+            {
+              "display_url": "pic.x.com/AXb22Bz61i",
+              "end": 160,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2082025339912589363/photo/1",
+              "media_key": "3_2082025273957269504",
+              "start": 137,
+              "url": "https://t.co/AXb22Bz61i"
+            },
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2081960574230167635",
+              "start": 161,
+              "url": "https://t.co/gsJEId3VtJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082025339912589363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“我知道你会来，所以我在这等你”❤️\n小吱吱，我来找你了呢🥹\n献给你的白百合，香槟玫瑰，黄菊花，白菊花与满天星哦，还有写给你的小卡片呢\n我找了好久好久…在长江边走了四个小时…好热，但我还是照着你离开前两天的动态找到了呀。你表弟说，你看向世界的最后一眼是在旁边的这个亭子里呢\n坐在这里哭了好久…好安静，只有你陪着我呀\n面对着长江啊…今天风景真好，有令人安心的蓝天白云呢，我也喜欢看着涛涛江水哦☺️\n我会再给你写一篇长文的…我还有好多想说的\n让同一荡江水洗尽那些再也不会疼的痛苦吧…随江流散，只留下咱永远记着你最温柔的灵魂哦😘"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2841,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081960574230167635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我知道你会来，所以我在这等你”❤️\n小吱吱，我来找你了呢🥹\n献给你的白百合，香槟玫瑰，黄菊花，白菊花与满天星哦，还有写给你的小卡片呢\n我找了好久好久…在长江边走了四个小时…好热，但我还是照着你离开前两天的动态找到了呀。你表弟说，你看向世界的最后一眼是在旁边的这个亭子里呢 https://t.co/AXb22Bz61i https://t.co/gsJEId3VtJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1444,
+          "like_count": 7436,
+          "listed_count": 5,
+          "media_count": 116,
+          "tweet_count": 914
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "location": "Triton, Neptune",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4770,
+          "following_count": 6718,
+          "like_count": 17432,
+          "listed_count": 12,
+          "media_count": 365,
+          "tweet_count": 4711
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true
+      }
+    ]
+  }
+}

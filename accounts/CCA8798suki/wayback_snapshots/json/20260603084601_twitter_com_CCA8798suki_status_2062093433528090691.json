@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062092184309166080"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "conversation_id": "2061814797843468381",
+    "created_at": "2026-06-03T08:46:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:46:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062093433528090691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1249681779218190338",
+          "start": 0,
+          "username": "realMlgmXyysd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v2XuaB0lva",
+          "end": 185,
+          "expanded_url": "https://x.com/CCA8798suki/status/2062093433528090691/photo/1",
+          "media_key": "3_2062092184309166080",
+          "start": 162,
+          "url": "https://t.co/v2XuaB0lva"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062093433528090691",
+    "in_reply_to_user_id": "1249681779218190338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062089466412687845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realMlgmXyysd 听起来确实是不错的用药方案，MPA也能直接买到；\n至于螺内酯的话，有的人没有了解其作为保钾利尿药的能效，所以出现上述问题\n\nMPA的药代动力学数据和吸收看起来都不错(下图)，我想向您明确一下有没有先前使用过MPA代替CPA作为抗雄制剂的案例呢，或者说能否给我一点资料让我去更新下wiki的数据 https://t.co/v2XuaB0lva"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1087,
+        "media_key": "3_2062092184309166080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4F6ovbcAAsp59.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062092184309166080"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2061814797843468381",
+        "created_at": "2026-06-03T08:46:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:46:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062093433528090691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1249681779218190338",
+              "start": 0,
+              "username": "realMlgmXyysd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v2XuaB0lva",
+              "end": 185,
+              "expanded_url": "https://x.com/CCA8798suki/status/2062093433528090691/photo/1",
+              "media_key": "3_2062092184309166080",
+              "start": 162,
+              "url": "https://t.co/v2XuaB0lva"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062093433528090691",
+        "in_reply_to_user_id": "1249681779218190338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062089466412687845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realMlgmXyysd 听起来确实是不错的用药方案，MPA也能直接买到；\n至于螺内酯的话，有的人没有了解其作为保钾利尿药的能效，所以出现上述问题\n\nMPA的药代动力学数据和吸收看起来都不错(下图)，我想向您明确一下有没有先前使用过MPA代替CPA作为抗雄制剂的案例呢，或者说能否给我一点资料让我去更新下wiki的数据 https://t.co/v2XuaB0lva"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1249681779218190338",
+        "conversation_id": "2061814797843468381",
+        "created_at": "2026-06-03T08:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062089466412687845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062089466412687845",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062088867520618991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki cpa 也会抑制乳房发育的，而且安全剂量只有 2mg/d，平替可以用 mpa 作为更好的选择，更便宜，副作用也更少。另外，螺内酯并不拉，100mg 就可以抗雄，且配合足够的雌激素可以有效拮抗利尿效果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 530,
+          "like_count": 778,
+          "listed_count": 3,
+          "media_count": 21,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T12:52:14.000Z",
+        "description": "A cat, nya~｜Inner @MlgmXyysd｜https://t.co/xB1GClxlkz｜😘@cjybyjk @WanBin1010｜XDA Recognized Developer｜Programmer/Engineer/Coder/Tipster｜CisF (DSD)｜Bisexuality｜Geek Girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "MlgmXyysd"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "username": "cjybyjk"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "WanBin1010"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 52,
+                "expanded_url": "http://neko.ink",
+                "start": 29,
+                "url": "https://t.co/xB1GClxlkz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ink",
+                "end": 23,
+                "expanded_url": "https://neko.ink",
+                "start": 0,
+                "url": "https://t.co/PeWlFBJuYU"
+              }
+            ]
+          }
+        },
+        "id": "1249681779218190338",
+        "location": "In Your Heart 💘",
+        "name": "MlgmXyysd🐱💕",
+        "pinned_tweet_id": "1612139513215582209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057543814043320320/KHl6UoL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2985,
+          "following_count": 96,
+          "like_count": 7617,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 7427
+        },
+        "url": "https://t.co/PeWlFBJuYU",
+        "username": "realMlgmXyysd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2064615062200058155",
+    "created_at": "2026-06-10T07:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064615062200058155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qiancongxyn/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/qiancongxyn/status/2064573522060640639",
+          "start": 20,
+          "url": "https://t.co/JfjfjxJoBd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064615062200058155",
+    "lang": "sl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064573522060640639",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Ciallo～(∠・ω&lt; )⌒★ https://t.co/JfjfjxJoBd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2064573417890983936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbWlcIbMAAxKh-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2064615062200058155",
+        "created_at": "2026-06-10T07:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064615062200058155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qiancongxyn/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/qiancongxyn/status/2064573522060640639",
+              "start": 20,
+              "url": "https://t.co/JfjfjxJoBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064615062200058155",
+        "lang": "sl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064573522060640639",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Ciallo～(∠・ω&lt; )⌒★ https://t.co/JfjfjxJoBd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064573417890983936"
+          ]
+        },
+        "author_id": "1761282483834998784",
+        "conversation_id": "2064573522060640639",
+        "created_at": "2026-06-10T05:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064573522060640639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0AXdKwu50J",
+              "end": 54,
+              "expanded_url": "https://x.com/qiancongxyn/status/2064573522060640639/photo/1",
+              "media_key": "3_2064573417890983936",
+              "start": 31,
+              "url": "https://t.co/0AXdKwu50J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064573522060640639",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴图～\n小捌说好漂亮呢❤️嘻嘻\n我弄了一个上午才做出来的呢 https://t.co/0AXdKwu50J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 618,
+          "following_count": 611,
+          "like_count": 1151,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 203
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥 HRT 26.2.21｜无证含糖\n出厂日期 09.3.14\n\n已炸柜｜家暴党｜😭 断糖 26.5.26\n爱哭+发牢骚｜负面帖垃圾桶｜觉得我傻逼就ban\n不阔爱不pass｜缺爱想交朋友\n\n蓝v必回fo｜友好相处｜喜欢我就关注下呗🥺\n危机联系人 @CCA8798suki\n姐姐 @huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 127,
+                "username": "CCA8798suki"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "huihui_mikumi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064594540137468316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057460306365087744/QGhTRD4k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922,
+          "following_count": 1010,
+          "like_count": 2326,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": true
+      }
+    ]
+  }
+}

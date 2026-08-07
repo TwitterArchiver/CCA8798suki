@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2084512002228306093",
+    "created_at": "2026-08-04T07:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084536095967269225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1385796067116027905",
+          "start": 0,
+          "username": "poemcloud8000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084536095967269225",
+    "in_reply_to_user_id": "1385796067116027905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084521404989690257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poemcloud8000 就是不让去住院部了，至于od的话，我认为pr超说明+少剂量是能有效缓解焦虑等症状的，这也是我的本意"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2084512002228306093",
+        "created_at": "2026-08-04T07:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084536095967269225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1385796067116027905",
+              "start": 0,
+              "username": "poemcloud8000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084536095967269225",
+        "in_reply_to_user_id": "1385796067116027905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084521404989690257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poemcloud8000 就是不让去住院部了，至于od的话，我认为pr超说明+少剂量是能有效缓解焦虑等症状的，这也是我的本意"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385796067116027905",
+        "conversation_id": "2084512002228306093",
+        "created_at": "2026-08-04T06:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084521404989690257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084521404989690257",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084512002228306093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 通缉指的是…？还有od实在不敢恭维，发药给别人我觉得从现实和道德层面来看都不合适"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/XVFvMmA9Qt"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 1488,
+          "like_count": 8679,
+          "listed_count": 5,
+          "media_count": 123,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/XVFvMmA9Qt",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-24T03:21:51.000Z",
+        "description": "Hallo world",
+        "id": "1385796067116027905",
+        "location": "Rhode Island",
+        "name": "詩雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550188704341168128/v3PRGnEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 147,
+          "like_count": 11703,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1397
+        },
+        "url": "",
+        "username": "poemcloud8000",
+        "verified": true
+      }
+    ]
+  }
+}
