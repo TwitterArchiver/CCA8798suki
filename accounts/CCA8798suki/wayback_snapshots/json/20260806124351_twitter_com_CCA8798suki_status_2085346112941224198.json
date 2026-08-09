@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2085028488655118766",
+    "created_at": "2026-08-06T12:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085346112941224198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042969235505242112",
+          "start": 0,
+          "username": "lfcypo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085346112941224198",
+    "in_reply_to_user_id": "2042969235505242112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085028488655118766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfcypo 暨大总院门诊风景一般般\n4号楼住院部风景很好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2085028488655118766",
+        "created_at": "2026-08-06T12:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085346112941224198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042969235505242112",
+              "start": 0,
+              "username": "lfcypo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085346112941224198",
+        "in_reply_to_user_id": "2042969235505242112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085028488655118766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfcypo 暨大总院门诊风景一般般\n4号楼住院部风景很好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042969235505242112",
+        "conversation_id": "2085028488655118766",
+        "created_at": "2026-08-05T15:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085028488655118766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085028488655118766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有时间的话这两天想去暨大总院附近走走喵…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 1508,
+          "like_count": 8980,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 1102
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T14:13:24.000Z",
+        "description": "08 广州｜高三在读｜计算机+医学+板绘｜直接叫我ypo吧｜猫猫｜互fo喵｜想变可爱喵\n\n🏳️‍⚧️是女孩子哦｜很社恐叭…但是想交朋友w｜窝也好想吃糖喵…\n\n最好的姐姐 @Kuriyona\n窝的大公司喵 @candyrect\n\n目标临床医学｜性腺内分泌｜跨性别&DSD\n「如果这一切能改变什么的话，那就去做吧！」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 85,
+                "username": "Kuriyona"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "candyrect"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lfcypo",
+                "end": 23,
+                "expanded_url": "https://github.com/lfcypo",
+                "start": 0,
+                "url": "https://t.co/l8q95vy9uC"
+              }
+            ]
+          }
+        },
+        "id": "2042969235505242112",
+        "name": "lfcypo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070361298706292736/mRdgCCSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 375,
+          "like_count": 3096,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/l8q95vy9uC",
+        "username": "lfcypo",
+        "verified": false
+      }
+    ]
+  }
+}

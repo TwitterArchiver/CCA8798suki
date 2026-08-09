@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2084966771547603341",
+    "created_at": "2026-08-05T12:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T13:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084974457891021172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1646839168310583296",
+          "start": 0,
+          "username": "tokio_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084974457891021172",
+    "in_reply_to_user_id": "1646839168310583296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084966771547603341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokio_8964 good luck to u\n现在的医生怎么见多识广的("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2084966771547603341",
+        "created_at": "2026-08-05T12:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084974457891021172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1646839168310583296",
+              "start": 0,
+              "username": "tokio_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084974457891021172",
+        "in_reply_to_user_id": "1646839168310583296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084966771547603341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokio_8964 good luck to u\n现在的医生怎么见多识广的("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646839168310583296",
+        "conversation_id": "2084966771547603341",
+        "created_at": "2026-08-05T11:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084966771547603341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084966771547603341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 81,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在东莞七院住院主动跟医生说我吃补佳乐色谱龙那些 也是在七院开的小证嘛 医生问我吃糖多久了 我说我c你怎么知道那叫糖 医生就问我是不是翻墙 我还主动跟医生聊到了我od割手那些 明天就要做第二次MECT了😇😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1376,
+          "following_count": 1497,
+          "like_count": 8785,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-14T11:33:58.000Z",
+        "description": "HRT2024.03.12｜小证2026.07.30｜双相｜INFP｜AvPD｜虚无主义｜反出生主义｜包蜜｜泛蓝🇹🇼 ❂｜Stand with 🇹🇼🇺🇦｜捍自由 來齊集這裡 來全力抗對｜Cantonese｜同行兒女 為正義 時代革命｜有社交焦虑和社交抑制不会主动但又想和大家做朋友🥹🥹🥹｜请和我互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/hZqiEBXlHK"
+              }
+            ]
+          }
+        },
+        "id": "1646839168310583296",
+        "location": "廣東東莞gwong2dung1dung1gun2",
+        "name": "トキオ🍥",
+        "pinned_tweet_id": "2084148649354039725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840973610821042176/RIqNhQQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788,
+          "following_count": 1773,
+          "like_count": 2610,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1013
+        },
+        "url": "https://t.co/hZqiEBXlHK",
+        "username": "tokio_8964",
+        "verified": false
+      }
+    ]
+  }
+}

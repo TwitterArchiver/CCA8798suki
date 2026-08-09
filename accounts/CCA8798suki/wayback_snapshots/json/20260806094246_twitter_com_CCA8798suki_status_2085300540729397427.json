@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2085253143152255251",
+    "created_at": "2026-08-06T09:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085300540729397427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        },
+        {
+          "end": 23,
+          "id": "1830761760334454787",
+          "start": 13,
+          "username": "Wirtz0923"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085300540729397427",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085253143152255251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing @Wirtz0923 kawaii desu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2085253055679987713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBOmyKagAEAne9.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2085253143152255251",
+        "created_at": "2026-08-06T09:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085300540729397427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            },
+            {
+              "end": 23,
+              "id": "1830761760334454787",
+              "start": 13,
+              "username": "Wirtz0923"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085300540729397427",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085253143152255251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing @Wirtz0923 kawaii desu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085253055679987713"
+          ]
+        },
+        "author_id": "1600024316552179713",
+        "conversation_id": "2085253143152255251",
+        "created_at": "2026-08-06T06:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085253143152255251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1830761760334454787",
+              "start": 21,
+              "username": "Wirtz0923"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRllfUVJtt",
+              "end": 60,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2085253143152255251/photo/1",
+              "media_key": "3_2085253055679987713",
+              "start": 37,
+              "url": "https://t.co/zRllfUVJtt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085253143152255251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 217,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我感激這年春天 花再開遍祝福相獻”\n和 @Wirtz0923 在成都🥹 https://t.co/zRllfUVJtt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 1505,
+          "like_count": 8870,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 喜欢同类 | 169cm/60kg | 有点地雷",
+        "id": "1600024316552179713",
+        "location": "Silverstone Track",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080617205654503424/h9hH830E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 365,
+          "like_count": 6338,
+          "listed_count": 7,
+          "media_count": 187,
+          "tweet_count": 2038
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-03T00:16:43.000Z",
+        "description": "mtx 瓷 Drummer infj 🥰@yuwei520ls",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "yuwei520ls"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/Jvb53TNdvSQ",
+                "end": 23,
+                "expanded_url": "http://v.douyin.com/Jvb53TNdvSQ",
+                "start": 0,
+                "url": "https://t.co/SKtTZP3yng"
+              }
+            ]
+          }
+        },
+        "id": "1830761760334454787",
+        "location": "夏日如梦，梦也聚合",
+        "name": "WirtzShallowEnd🍥",
+        "pinned_tweet_id": "2084518134590169218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083395556949561344/qOMplkXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 322,
+          "like_count": 3624,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 1555
+        },
+        "url": "https://t.co/SKtTZP3yng",
+        "username": "Wirtz0923",
+        "verified": false
+      }
+    ]
+  }
+}

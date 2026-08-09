@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084915517434023936"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2084916679096906131",
+    "created_at": "2026-08-05T08:17:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T09:12:59.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084915556575334668",
+      "2084916679096906131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DiFKbAHhOu",
+          "end": 106,
+          "expanded_url": "https://x.com/CCA8798suki/status/2084916679096906131/photo/1",
+          "media_key": "3_2084915517434023936",
+          "start": 83,
+          "url": "https://t.co/DiFKbAHhOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084916679096906131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "粤西粤中跨性别必打卡科室\n广府跨性别点评榜第一名之贾艳滨\n\n贾：“我和你妈妈说了，让她对你态度好一点，你看看你想留指甲就留，可以留长头发，买裙子穿，我们慢慢好起来” https://t.co/DiFKbAHhOu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084915517434023936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8bneNa0AAD2Jc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084915517434023936"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084915556575334668",
+        "created_at": "2026-08-05T08:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:12:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084915556575334668",
+          "2084916679096906131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7lazCqAJl",
+              "end": 104,
+              "expanded_url": "https://x.com/CCA8798suki/status/2084915556575334668/photo/1",
+              "media_key": "3_2084915517434023936",
+              "start": 81,
+              "url": "https://t.co/h7lazCqAJl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084915556575334668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粤西粤中跨性别必打卡科室\n跨性别点评榜第一名之贾艳滨\n\n贾：“我和你妈妈说了，让她对你态度好一点，你看看你想留指甲就留，可以留长头发，买裙子穿，我们慢慢好起来” https://t.co/h7lazCqAJl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084915517434023936"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084916679096906131",
+        "created_at": "2026-08-05T08:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T09:12:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084915556575334668",
+          "2084916679096906131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiFKbAHhOu",
+              "end": 106,
+              "expanded_url": "https://x.com/CCA8798suki/status/2084916679096906131/photo/1",
+              "media_key": "3_2084915517434023936",
+              "start": 83,
+              "url": "https://t.co/DiFKbAHhOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084916679096906131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粤西粤中跨性别必打卡科室\n广府跨性别点评榜第一名之贾艳滨\n\n贾：“我和你妈妈说了，让她对你态度好一点，你看看你想留指甲就留，可以留长头发，买裙子穿，我们慢慢好起来” https://t.co/DiFKbAHhOu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 166cm/43kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1490,
+          "like_count": 8770,
+          "listed_count": 5,
+          "media_count": 126,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true
+      }
+    ]
+  }
+}
