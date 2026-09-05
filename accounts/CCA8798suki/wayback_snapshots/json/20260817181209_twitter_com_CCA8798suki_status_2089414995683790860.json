@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2089414995683790860",
+    "created_at": "2026-08-17T18:12:09.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T19:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089414995683790860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QWQ_0312/statu…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/QWQ_0312/status/2089373404835254717",
+          "start": 141,
+          "url": "https://t.co/AV5asijall"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089414995683790860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "这个博主制作的内容没有一点营养价值，完全是拿陈年旧事/断章取义的内容在宣扬大家对单一群体产生恶意，评论区的留言不出所料地让其得偿所愿，充满了对群体的无意义指责、歧视、阴阳怪气，完全不考虑群体的复杂性和自身刻板印象先入为主的情况；连男娘和药娘都分不清、药物正常使用和基本药理学都不明白、知道几个词就使劲往上堆砌的畜牲玩意，还他妈在墙内传播overdose相关药物，妈妈还是否健在都是个谜，还是说你那可悲的QQ产出的精虫上脑，“全网最潮无药男娘”，我潮你m，吃你妈男娘饭还要在这对药娘群体产生基本归因谬误，完全不考虑外部和家庭因素的影响，在这个sb眼中药娘群体就活该恶堕是吗？像这样人畜不如的流量炒作狗就应该去死\n\n请来位勇士帮我把我这段话转载到墙内这位博主的评论区，谢谢！"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089373404835254717",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个博主制作的内容没有一点营养价值，完全是拿陈年旧事/断章取义的内容在宣扬大家对单一群体产生恶意，评论区的留言不出所料地让其得偿所愿，充满了对群体的无意义指责、歧视、阴阳怪气，完全不考虑群体的复杂性和自身刻板印象先入为主的情况；连男娘和药娘都分不清、药物正常使用和基本药理学都不明 https://t.co/AV5asijall"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2089373392726315008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7yB9ya0AAE-5B.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2089414995683790860",
+        "created_at": "2026-08-17T18:12:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T19:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089414995683790860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QWQ_0312/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/QWQ_0312/status/2089373404835254717",
+              "start": 141,
+              "url": "https://t.co/AV5asijall"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089414995683790860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个博主制作的内容没有一点营养价值，完全是拿陈年旧事/断章取义的内容在宣扬大家对单一群体产生恶意，评论区的留言不出所料地让其得偿所愿，充满了对群体的无意义指责、歧视、阴阳怪气，完全不考虑群体的复杂性和自身刻板印象先入为主的情况；连男娘和药娘都分不清、药物正常使用和基本药理学都不明白、知道几个词就使劲往上堆砌的畜牲玩意，还他妈在墙内传播overdose相关药物，妈妈还是否健在都是个谜，还是说你那可悲的QQ产出的精虫上脑，“全网最潮无药男娘”，我潮你m，吃你妈男娘饭还要在这对药娘群体产生基本归因谬误，完全不考虑外部和家庭因素的影响，在这个sb眼中药娘群体就活该恶堕是吗？像这样人畜不如的流量炒作狗就应该去死\n\n请来位勇士帮我把我这段话转载到墙内这位博主的评论区，谢谢！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089373404835254717",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个博主制作的内容没有一点营养价值，完全是拿陈年旧事/断章取义的内容在宣扬大家对单一群体产生恶意，评论区的留言不出所料地让其得偿所愿，充满了对群体的无意义指责、歧视、阴阳怪气，完全不考虑群体的复杂性和自身刻板印象先入为主的情况；连男娘和药娘都分不清、药物正常使用和基本药理学都不明 https://t.co/AV5asijall"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089373392726315008"
+          ]
+        },
+        "author_id": "1809500399394779143",
+        "conversation_id": "2089373404835254717",
+        "created_at": "2026-08-17T15:26:53.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089373404835254717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kH5MVfm0Ui",
+              "end": 42,
+              "expanded_url": "https://x.com/QWQ_0312/status/2089373404835254717/photo/1",
+              "media_key": "3_2089373392726315008",
+              "start": 19,
+              "url": "https://t.co/kH5MVfm0Ui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089373404835254717",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089373392726315008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞人血馒头起号圈钱扩列，这算盘打的🤣 https://t.co/kH5MVfm0Ui"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2089414995683790860",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 1540,
+          "like_count": 11030,
+          "listed_count": 5,
+          "media_count": 140,
+          "tweet_count": 1244
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-06T08:11:49.000Z",
+        "description": "It's Showtime,Folks",
+        "id": "1809500399394779143",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089373404835254717",
+        "name": "ramune-小波",
+        "pinned_tweet_id": "1955700739646365848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809500399394779143/1731147791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081796040110575617/Kt0ciF-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 310,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 739
+        },
+        "url": "",
+        "username": "QWQ_0312",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2093222463215939804",
+    "created_at": "2026-08-28T10:44:16.000Z",
+    "display_text_range": [
+      15,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093288550473359502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1906196697018966016",
+          "start": 0,
+          "username": "wang_wen15656"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093288550473359502",
+    "in_reply_to_user_id": "1906196697018966016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093247501319143641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_wen15656 🤔存疑，但能确定的是柚汁属于CYP3A4抑制剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2093222463215939804",
+        "created_at": "2026-08-28T10:44:16.000Z",
+        "display_text_range": [
+          15,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093288550473359502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1906196697018966016",
+              "start": 0,
+              "username": "wang_wen15656"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093288550473359502",
+        "in_reply_to_user_id": "1906196697018966016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093247501319143641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_wen15656 🤔存疑，但能确定的是柚汁属于CYP3A4抑制剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906196697018966016",
+        "conversation_id": "2093222463215939804",
+        "created_at": "2026-08-28T08:01:09.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093247501319143641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093247501319143641",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093222463215939804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 柚子会阻断药物代谢吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2093288550473359502",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1542,
+          "like_count": 11431,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 1321
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T04:08:50.000Z",
+        "description": "Photograph/cosplayer ；\n言和厨子/少前指挥官/VocaloidChina全员厨；\n男的🙃（大约在男娘的路上一去不复返？）；\n产量很低（满脑子涩涩大约还是个受？🥵）；\n中v/少前欢迎扩列+q",
+        "id": "1906196697018966016",
+        "is_identity_verified": false,
+        "location": "国棉17厂",
+        "most_recent_tweet_id": "2093256210212651174",
+        "name": "小王今天吃🌾",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906196697018966016/1767450390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078747909277814784/7F84IiJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 149,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "wang_wen15656",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

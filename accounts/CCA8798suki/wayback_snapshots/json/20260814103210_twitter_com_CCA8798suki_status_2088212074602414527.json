@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2087805482828488843",
+    "created_at": "2026-08-14T10:32:10.000Z",
+    "display_text_range": [
+      23,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088212074602414527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "liulingyo"
+        },
+        {
+          "end": 22,
+          "id": "2045829915149324288",
+          "start": 11,
+          "username": "PoisonlQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088212074602414527",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087805482828488843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyo @PoisonlQAQ 跨性别刻板印象+1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087805454911262720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlf_-Qb0AAITAp.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087805454873509888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlf_-HbwAApoSO.jpg",
+        "width": 946
+      },
+      {
+        "height": 448,
+        "media_key": "3_2087805453992673281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPlf_61bQAE227X.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2087805482828488843",
+        "created_at": "2026-08-14T10:32:10.000Z",
+        "display_text_range": [
+          23,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088212074602414527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "liulingyo"
+            },
+            {
+              "end": 22,
+              "id": "2045829915149324288",
+              "start": 11,
+              "username": "PoisonlQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088212074602414527",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087805482828488843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyo @PoisonlQAQ 跨性别刻板印象+1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087805454911262720",
+            "3_2087805454873509888",
+            "3_2087805453992673281"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "conversation_id": "2087805482828488843",
+        "created_at": "2026-08-13T07:36:31.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T08:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087805482828488843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 90,
+              "id": "2045829915149324288",
+              "start": 79,
+              "username": "PoisonlQAQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/as2CuvDdHV",
+              "end": 114,
+              "expanded_url": "https://x.com/liulingyo/status/2087805482828488843/photo/1",
+              "media_key": "3_2087805454911262720",
+              "start": 91,
+              "url": "https://t.co/as2CuvDdHV"
+            },
+            {
+              "display_url": "pic.x.com/as2CuvDdHV",
+              "end": 114,
+              "expanded_url": "https://x.com/liulingyo/status/2087805482828488843/photo/1",
+              "media_key": "3_2087805454873509888",
+              "start": 91,
+              "url": "https://t.co/as2CuvDdHV"
+            },
+            {
+              "display_url": "pic.x.com/as2CuvDdHV",
+              "end": 114,
+              "expanded_url": "https://x.com/liulingyo/status/2087805482828488843/photo/1",
+              "media_key": "3_2087805453992673281",
+              "start": 91,
+              "url": "https://t.co/as2CuvDdHV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087805482828488843",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087805454911262720"
+          },
+          {
+            "media_key": "3_2087805454873509888"
+          },
+          {
+            "media_key": "3_2087805453992673281"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 38430,
+          "like_count": 244,
+          "quote_count": 11,
+          "reply_count": 99,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "目前见过的最勇敢的mtf年龄党，在不注射m药的情况下直接进行自切，可惜进行到一半就因为剧痛送进医院，这个计划以失败告终，目前人已平安无恙（发帖已经过本人同意）@PoisonlQAQ https://t.co/as2CuvDdHV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2088212074602414527",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 1546,
+          "like_count": 10650,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1209
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "06年mtf 已切蛋 已炸柜 重抑 0.5\n🍥hrt：2024.10 🔪切蛋：2026.07\n1米75 bmi17+ 脚码38 严肃戒掉zc od\n抖音号：js8r （可陪聊（ 门槛🚪30\n吾の傻猫：@GanYuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 100,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDKVXQ"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "📍浙",
+        "most_recent_tweet_id": "2088194807843979585",
+        "name": "悠悠酱🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2081746042371109056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1786638942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083812453872435200/_9JqN1ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3976,
+          "following_count": 1092,
+          "like_count": 4557,
+          "listed_count": 6,
+          "media_count": 219,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/i1HGsDKVXQ",
+        "username": "liulingyo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T11:40:58.000Z",
+        "description": "无证含糖🍥|HRT日期2026.01.08|年龄13|159cm/40.9kg|抑郁焦虑|不OD|同类互fo|抖音账号72882568888_",
+        "id": "2045829915149324288",
+        "is_identity_verified": false,
+        "location": "Nara-shi, Nara",
+        "most_recent_tweet_id": "2063271309132603808",
+        "name": "Poisonl🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045829915149324288/1776599232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045831253879103488/v4e72qg7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 99,
+          "like_count": 18,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "PoisonlQAQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

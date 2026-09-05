@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2093222463215939804",
+    "created_at": "2026-08-28T08:51:59.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T09:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093260294370041875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853836659957399552",
+          "start": 0,
+          "username": "FrozenScythex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093260294370041875",
+    "in_reply_to_user_id": "1853836659957399552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093251489875837418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrozenScythex 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2093222463215939804",
+        "created_at": "2026-08-28T08:51:59.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093260294370041875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853836659957399552",
+              "start": 0,
+              "username": "FrozenScythex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093260294370041875",
+        "in_reply_to_user_id": "1853836659957399552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093251489875837418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrozenScythex 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853836659957399552",
+        "conversation_id": "2093222463215939804",
+        "created_at": "2026-08-28T08:17:00.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093251489875837418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093251489875837418",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093222463215939804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 这就喝成高血糖😢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2093260294370041875",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1543,
+          "like_count": 11421,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 1312
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-05T16:28:21.000Z",
+        "description": "世界，你毁灭吧！(不要盯着我不要骂我不要在心里讨厌我不要记住我😢对不起对不起对不起)",
+        "id": "1853836659957399552",
+        "is_identity_verified": false,
+        "location": "在你背后👁",
+        "most_recent_tweet_id": "2093251489875837418",
+        "name": "Frozen",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853837358569050112/WJ2E5mj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 283,
+          "like_count": 15215,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "FrozenScythex",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

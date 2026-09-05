@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2092522726875332812",
+    "created_at": "2026-08-27T21:11:43.000Z",
+    "display_text_range": [
+      16,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T22:11:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093084065146822764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1963297807374106624",
+          "start": 0,
+          "username": "GlowingTree880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093084065146822764",
+    "in_reply_to_user_id": "1963297807374106624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092628191798301157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlowingTree880 xm 300大洋有钱人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2092522726875332812",
+        "created_at": "2026-08-27T21:11:43.000Z",
+        "display_text_range": [
+          16,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T22:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093084065146822764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1963297807374106624",
+              "start": 0,
+              "username": "GlowingTree880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093084065146822764",
+        "in_reply_to_user_id": "1963297807374106624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092628191798301157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlowingTree880 xm 300大洋有钱人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963297807374106624",
+        "conversation_id": "2092522726875332812",
+        "created_at": "2026-08-26T15:00:14.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092628191798301157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092628191798301157",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092522726875332812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 树树子是今天上午去的喵，错失会面机会😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2093084065146822764",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1455,
+          "following_count": 1541,
+          "like_count": 11378,
+          "listed_count": 5,
+          "media_count": 148,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-03T17:47:43.000Z",
+        "description": "是超可爱的树树子喵/mtf🏳️‍⚧️/生产日期2004-04-11/HRT2026-04-11🍥/某小破本计科研究牲在读喵/计算机爱好者/蔚蓝档案重度依赖/想要变成可爱的女孩子！/欢迎互fo喵",
+        "id": "1963297807374106624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093026481865969832",
+        "name": "超绝可爱树树子🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1963297807374106624/1756921994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963299198570524672/r0UD2-iK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 47,
+          "like_count": 419,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "GlowingTree880",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093193203365371904",
+        "3_2093193372077092864"
+      ]
+    },
+    "author_id": "2048693394226974720",
+    "conversation_id": "2093193411017035870",
+    "created_at": "2026-08-28T04:26:13.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T05:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093193411017035870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3lbwUG2G5u",
+          "end": 72,
+          "expanded_url": "https://x.com/CCA8798suki/status/2093193411017035870/photo/1",
+          "media_key": "3_2093193203365371904",
+          "start": 49,
+          "url": "https://t.co/3lbwUG2G5u"
+        },
+        {
+          "display_url": "pic.x.com/3lbwUG2G5u",
+          "end": 72,
+          "expanded_url": "https://x.com/CCA8798suki/status/2093193411017035870/photo/1",
+          "media_key": "3_2093193372077092864",
+          "start": 49,
+          "url": "https://t.co/3lbwUG2G5u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093193411017035870",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093193203365371904"
+      },
+      {
+        "media_key": "3_2093193372077092864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "邪恶的中共政府，检测到神秘数字直接把我QQ号封了😡\n9月3号才解封\n各位推u有我QQ的注意一下😭 https://t.co/3lbwUG2G5u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1833,
+        "media_key": "3_2093193203365371904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyEINTa4AANb6L.jpg",
+        "width": 1843
+      },
+      {
+        "height": 3480,
+        "media_key": "3_2093193372077092864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyESBzbcAAf-M6.jpg",
+        "width": 1843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093193203365371904",
+            "3_2093193372077092864"
+          ]
+        },
+        "author_id": "2048693394226974720",
+        "conversation_id": "2093193411017035870",
+        "created_at": "2026-08-28T04:26:13.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T05:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093193411017035870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3lbwUG2G5u",
+              "end": 72,
+              "expanded_url": "https://x.com/CCA8798suki/status/2093193411017035870/photo/1",
+              "media_key": "3_2093193203365371904",
+              "start": 49,
+              "url": "https://t.co/3lbwUG2G5u"
+            },
+            {
+              "display_url": "pic.x.com/3lbwUG2G5u",
+              "end": 72,
+              "expanded_url": "https://x.com/CCA8798suki/status/2093193411017035870/photo/1",
+              "media_key": "3_2093193372077092864",
+              "start": 49,
+              "url": "https://t.co/3lbwUG2G5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093193411017035870",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093193203365371904"
+          },
+          {
+            "media_key": "3_2093193372077092864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "邪恶的中共政府，检测到神秘数字直接把我QQ号封了😡\n9月3号才解封\n各位推u有我QQ的注意一下😭 https://t.co/3lbwUG2G5u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2093193411017035870",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1545,
+          "like_count": 11400,
+          "listed_count": 5,
+          "media_count": 149,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

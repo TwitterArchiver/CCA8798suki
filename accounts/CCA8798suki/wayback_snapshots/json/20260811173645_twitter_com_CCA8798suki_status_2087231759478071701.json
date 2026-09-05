@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2087231759478071701",
+    "created_at": "2026-08-11T17:36:45.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T18:34:11.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087231115191058888",
+      "2087231759478071701"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jiafeimao3591/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/jiafeimao3591/status/2087156073908363572",
+          "start": 12,
+          "url": "https://t.co/0Fyas02Jav"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087231759478071701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087156073908363572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "脑膜瘤：哟，是色王来了 https://t.co/0Fyas02Jav"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2087231115191058888",
+        "created_at": "2026-08-11T17:34:11.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:34:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087231115191058888",
+          "2087231759478071701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiafeimao3591/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/jiafeimao3591/status/2087156073908363572",
+              "start": 14,
+              "url": "https://t.co/0Fyas02Jav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087231115191058888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087156073908363572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "脑膜瘤：哟，是色普龙王来了 https://t.co/0Fyas02Jav"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2087231759478071701",
+        "created_at": "2026-08-11T17:36:45.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T18:34:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087231115191058888",
+          "2087231759478071701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiafeimao3591/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/jiafeimao3591/status/2087156073908363572",
+              "start": 12,
+              "url": "https://t.co/0Fyas02Jav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087231759478071701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087156073908363572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "脑膜瘤：哟，是色王来了 https://t.co/0Fyas02Jav"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236685274907906049",
+        "conversation_id": "2087156073908363572",
+        "created_at": "2026-08-11T12:36:00.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087156073908363572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087156073908363572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2997,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来不知道有药片切割器这个东西，傻傻的每天吃一片50mg的色😓😓一盒近400块钱只够吃不到俩月，我就说为啥别人hrt一个月花的钱比我少那么多😭😭我真的是笨蛋喵呜呜呜呜😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2087231759478071701",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 1541,
+          "like_count": 10399,
+          "listed_count": 5,
+          "media_count": 137,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别🏳️‍⚧️/无证hrt中/暂居荷兰，家在长春/曾经的化竞党，吉林省省一/JLU化学本科/欧硕打算转学ing/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，经常发疯/喜欢同类，男生勿扰",
+        "id": "1236685274907906049",
+        "is_identity_verified": false,
+        "location": "The Netherlands",
+        "most_recent_tweet_id": "2087199319510147358",
+        "name": "坏猪宝宝🐷",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049379601412202496/2BRcVdsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 491,
+          "like_count": 662,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 1311
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

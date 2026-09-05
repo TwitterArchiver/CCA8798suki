@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2085715834736144477",
+    "created_at": "2026-08-08T06:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-08T07:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085973404839186796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2078138260069691393",
+          "start": 0,
+          "username": "caiyu55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085973404839186796",
+    "in_reply_to_user_id": "2078138260069691393",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085715834736144477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caiyu55 ✓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2085715834736144477",
+        "created_at": "2026-08-08T06:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-08T07:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085973404839186796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2078138260069691393",
+              "start": 0,
+              "username": "caiyu55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085973404839186796",
+        "in_reply_to_user_id": "2078138260069691393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085715834736144477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caiyu55 ✓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078138260069691393",
+        "conversation_id": "2085715834736144477",
+        "created_at": "2026-08-07T13:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085715834736144477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CCA8798suki/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/CCA8798suki/status/2082482032735850884",
+              "start": 35,
+              "url": "https://t.co/v85owYX56B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085715834736144477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082482032735850884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许应该叫傀儡，毕竟llm看起来都比这类人更具有独立人格更会独立思考 https://t.co/v85owYX56B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1398,
+          "following_count": 1533,
+          "like_count": 9477,
+          "listed_count": 5,
+          "media_count": 130,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-17T15:27:02.000Z",
+        "description": "179cm/55kg，厌恶人身距离小于0.2m的人际关系，恐婚恐育的普通人 | ❌拒吵架/恶语｜❎不混圈不od不混社群｜✨不伤害原则｜✨理想主义｜✨互动行为或关注列表并不代表我认可其整个主体，性别多元友好互fo | 😋不知名的cs under｜❓涩涩和非主流性癖内容接受能力弱｜空白太少写不下，可去看置顶帖",
+        "id": "2078138260069691393",
+        "location": "救赎之手",
+        "name": "彩玉(calm)🍥",
+        "pinned_tweet_id": "2080707185173225571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085302478644617216/idWqr-IW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 56,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "caiyu55",
+        "verified": false
+      }
+    ]
+  }
+}

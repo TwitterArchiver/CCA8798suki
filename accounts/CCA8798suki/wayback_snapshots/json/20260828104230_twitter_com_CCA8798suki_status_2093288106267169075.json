@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2093222463215939804",
+    "created_at": "2026-08-28T10:42:30.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093288106267169075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016496475098759169",
+          "start": 0,
+          "username": "BaoDou44475"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093288106267169075",
+    "in_reply_to_user_id": "2016496475098759169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093286943807205879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaoDou44475 小心高血糖，每瓶有42g碳水😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "16_2093286863289085952",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQzZT7tWcAASyao.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQzZT7tWcAASyao.mp4"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2093222463215939804",
+        "created_at": "2026-08-28T10:42:30.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093288106267169075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016496475098759169",
+              "start": 0,
+              "username": "BaoDou44475"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093288106267169075",
+        "in_reply_to_user_id": "2016496475098759169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093286943807205879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaoDou44475 小心高血糖，每瓶有42g碳水😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2093286863289085952"
+          ]
+        },
+        "author_id": "2016496475098759169",
+        "conversation_id": "2093222463215939804",
+        "created_at": "2026-08-28T10:37:53.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093286943807205879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zAz185BNSq",
+              "end": 50,
+              "expanded_url": "https://x.com/BaoDou44475/status/2093286943807205879/photo/1",
+              "media_key": "16_2093286863289085952",
+              "start": 27,
+              "url": "https://t.co/zAz185BNSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093286943807205879",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2093286863289085952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093222463215939804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki ok，开始一天一瓶水溶C了 https://t.co/zAz185BNSq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2093288106267169075",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1542,
+          "like_count": 11430,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 1318
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-28T13:00:34.000Z",
+        "description": "MtF",
+        "id": "2016496475098759169",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093287729182163291",
+        "name": "Goldfish🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016496475098759169/1776015610",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043383644849610752/WARdrgfy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "BaoDou44475",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

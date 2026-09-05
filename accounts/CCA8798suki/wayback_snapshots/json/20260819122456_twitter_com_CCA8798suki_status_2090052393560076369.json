@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2090052393560076369",
+    "created_at": "2026-08-19T12:24:56.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T13:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090052393560076369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/theforeveriris…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/theforeveriris/status/2090025411166286011",
+          "start": 5,
+          "url": "https://t.co/4mW8YMfBNk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090052393560076369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090025411166286011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老马疯了 https://t.co/4mW8YMfBNk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2673,
+        "media_key": "3_2090025228030345216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFC3xhagAAQzWy.jpg",
+        "width": 1843
+      },
+      {
+        "height": 2667,
+        "media_key": "3_2090025267997880320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFC6GaasAAXibA.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2090052393560076369",
+        "created_at": "2026-08-19T12:24:56.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090052393560076369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/theforeveriris…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/theforeveriris/status/2090025411166286011",
+              "start": 5,
+              "url": "https://t.co/4mW8YMfBNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090052393560076369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090025411166286011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老马疯了 https://t.co/4mW8YMfBNk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090025228030345216",
+            "3_2090025267997880320"
+          ]
+        },
+        "author_id": "1721714145480114176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090025411166286011",
+        "created_at": "2026-08-19T10:37:43.000Z",
+        "display_text_range": [
+          0,
+          189
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090025411166286011"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "推友情况通报"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2083872895659634688",
+              "start": 8,
+              "username": "LingYu0612"
+            },
+            {
+              "end": 35,
+              "id": "2063957681984225280",
+              "start": 25,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 55,
+              "id": "2033160782687731712",
+              "start": 41,
+              "username": "Shioochic_Xyn"
+            },
+            {
+              "end": 81,
+              "id": "1992506703678705664",
+              "start": 65,
+              "username": "jingqngyng64121"
+            },
+            {
+              "end": 100,
+              "id": "1947508861063335939",
+              "start": 91,
+              "username": "vvyyjbkb"
+            },
+            {
+              "end": 115,
+              "id": "1883207896768651264",
+              "start": 106,
+              "username": "clem0216"
+            },
+            {
+              "end": 136,
+              "id": "1857802986837172224",
+              "start": 122,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 156,
+              "id": "1605538501705043968",
+              "start": 141,
+              "username": "yangyan_huntun"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8JFBucsr4J",
+              "end": 213,
+              "expanded_url": "https://x.com/theforeveriris/status/2090025411166286011/photo/1",
+              "media_key": "3_2090025228030345216",
+              "start": 190,
+              "url": "https://t.co/8JFBucsr4J"
+            },
+            {
+              "display_url": "pic.x.com/8JFBucsr4J",
+              "end": 213,
+              "expanded_url": "https://x.com/theforeveriris/status/2090025411166286011/photo/1",
+              "media_key": "3_2090025267997880320",
+              "start": 190,
+              "url": "https://t.co/8JFBucsr4J"
+            },
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 237,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2089993740362690585",
+              "start": 214,
+              "url": "https://t.co/uNb7YQYB0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090025411166286011",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090025228030345216"
+          },
+          {
+            "media_key": "3_2090025267997880320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 275,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089993740362690585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#推友情况通报\n@LingYu0612  冷羽秋\n@YuwenMewo  唐毓文\n@Shioochic_Xyn  汐落 shio\n@jingqngyng64121 kawaii✝️\n@vvyyjbkb 凌喵喵🍥\n@clem0216 波奇酱🍥.\n@LingJiaXin233 凌嘉欣\n@yangyan_huntun 羊言\n全部遭遇冻结（且时间集中在今天上午8点以后，下午5点以前） https://t.co/8JFBucsr4J https://t.co/uNb7YQYB0J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2090052393560076369",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 1527,
+          "like_count": 11205,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 1263
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-07T02:20:25.000Z",
+        "description": "死亡是涼爽的夜晚，生命是悶熱的白天。天黑了，我昏昏欲睡，白天讓我疲憊不堪。我的床前長出一棵樹，樹上有一隻年輕的夜鶯在歌唱；牠唱著純潔的愛情，即使在夢中我也能聽見。",
+        "id": "1721714145480114176",
+        "is_identity_verified": false,
+        "location": "theforeveriris@proton.me",
+        "most_recent_tweet_id": "2090025753895420398",
+        "name": "👾𝓽𝓱𝓮𝓯𝓸𝓻𝓮𝓿𝓮𝓻𝓲𝓻𝓲𝓼🍥",
+        "pinned_tweet_id": "2086668319885849079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721714145480114176/1781957875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068305431949348864/g2dhHzCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 473,
+          "like_count": 19869,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "theforeveriris",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

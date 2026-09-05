@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2087827818663256454",
+    "created_at": "2026-08-13T14:15:59.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087906011017593229"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1965007054961291264",
+          "start": 0,
+          "username": "jadeinreality29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087906011017593229",
+    "in_reply_to_user_id": "1965007054961291264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087827818663256454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jadeinreality29 太恐怖了 可以报警鉴定为轻伤抓人了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087827801496055808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl0UtxbcAA48z-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087827801508593664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPl0Ut0awAA1wke.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2087827818663256454",
+        "created_at": "2026-08-13T14:15:59.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087906011017593229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1965007054961291264",
+              "start": 0,
+              "username": "jadeinreality29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087906011017593229",
+        "in_reply_to_user_id": "1965007054961291264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087827818663256454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jadeinreality29 太恐怖了 可以报警鉴定为轻伤抓人了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087827801496055808",
+            "3_2087827801508593664"
+          ]
+        },
+        "author_id": "1965007054961291264",
+        "conversation_id": "2087827818663256454",
+        "created_at": "2026-08-13T09:05:16.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087827818663256454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbxGn2hcG5",
+              "end": 44,
+              "expanded_url": "https://x.com/jadeinreality29/status/2087827818663256454/photo/1",
+              "media_key": "3_2087827801496055808",
+              "start": 21,
+              "url": "https://t.co/zbxGn2hcG5"
+            },
+            {
+              "display_url": "pic.x.com/zbxGn2hcG5",
+              "end": 44,
+              "expanded_url": "https://x.com/jadeinreality29/status/2087827818663256454/photo/1",
+              "media_key": "3_2087827801508593664",
+              "start": 21,
+              "url": "https://t.co/zbxGn2hcG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087827818663256454",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087827801496055808"
+          },
+          {
+            "media_key": "3_2087827801508593664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4422,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "烧炭自杀未遂被父母打成这样（不完全统计） https://t.co/zbxGn2hcG5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2087906011017593229",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 1545,
+          "like_count": 10575,
+          "listed_count": 5,
+          "media_count": 138,
+          "tweet_count": 1203
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-08T10:59:35.000Z",
+        "description": "od/ed/lgbt镇魂 我没有双亲你伤害不到我我们只是网友",
+        "id": "1965007054961291264",
+        "is_identity_verified": false,
+        "location": "07",
+        "most_recent_tweet_id": "2087828017213276340",
+        "name": "Jaded_dust",
+        "pinned_tweet_id": "2036017437943144921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965007054961291264/1775764417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028567578642395136/QkvTu9RP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 179,
+          "like_count": 3015,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 844
+        },
+        "url": "",
+        "username": "jadeinreality29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

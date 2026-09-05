@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2093222463215939804",
+    "created_at": "2026-08-28T08:51:48.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T09:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093260247800611194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1583489949348679681",
+          "start": 0,
+          "username": "mmminika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093260247800611194",
+    "in_reply_to_user_id": "1583489949348679681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093247276747817003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmminika 确实，我也觉得不好喝("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2093222463215939804",
+        "created_at": "2026-08-28T08:51:48.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093260247800611194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1583489949348679681",
+              "start": 0,
+              "username": "mmminika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093260247800611194",
+        "in_reply_to_user_id": "1583489949348679681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093247276747817003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmminika 确实，我也觉得不好喝("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1583489949348679681",
+        "conversation_id": "2093222463215939804",
+        "created_at": "2026-08-28T08:00:16.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093247276747817003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093247276747817003",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093222463215939804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki 已经对这个饮料的味道应激了，一闻就恶心"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2093260247800611194",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1543,
+          "like_count": 11421,
+          "listed_count": 5,
+          "media_count": 150,
+          "tweet_count": 1311
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-21T16:06:53.000Z",
+        "description": "🇨🇳Chinesisch🇩🇪 Deutsch 🇬🇧ein bisschen Englisch ／你可以称呼我为Maximilian／画水彩/莫妮卡的狂热侍从/mtf 2024 .7/06年 ／白头菲尔德1 ／植物大战僵尸2／火影忍者／喜欢写诗、看书和听音乐！/欧陆哲学学习者，齐拉黑学派／追寻回溯性的法力（雾",
+        "id": "1583489949348679681",
+        "is_identity_verified": false,
+        "location": "法兰西第一共和国 旺代 ",
+        "most_recent_tweet_id": "2093247276747817003",
+        "name": "超级机枪豌豆🫧💊#追四",
+        "pinned_tweet_id": "1966925353714340221",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1583489949348679681/1776596743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086468338788806656/-fP01hJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 538,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "mmminika",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

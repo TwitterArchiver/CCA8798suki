@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2048693394226974720",
+    "conversation_id": "2088948337202643267",
+    "created_at": "2026-08-16T13:58:17.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088988721173729629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1600024316552179713",
+          "start": 0,
+          "username": "kiki_qiqing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088988721173729629",
+    "in_reply_to_user_id": "1600024316552179713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088948337202643267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiki_qiqing 超！级！可！爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2088947434311618560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1un7CbkAA7ZSd.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2088948337202643267",
+        "created_at": "2026-08-16T13:58:17.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088988721173729629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1600024316552179713",
+              "start": 0,
+              "username": "kiki_qiqing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088988721173729629",
+        "in_reply_to_user_id": "1600024316552179713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088948337202643267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiki_qiqing 超！级！可！爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088947434311618560"
+          ]
+        },
+        "author_id": "1600024316552179713",
+        "conversation_id": "2088948337202643267",
+        "created_at": "2026-08-16T11:17:49.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T12:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088948337202643267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J0CANedjg6",
+              "end": 40,
+              "expanded_url": "https://x.com/kiki_qiqing/status/2088948337202643267/photo/1",
+              "media_key": "3_2088947434311618560",
+              "start": 17,
+              "url": "https://t.co/J0CANedjg6"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "8bd61930ae4f642d"
+        },
+        "id": "2088948337202643267",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088947434311618560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wq我居然开口说话还被别人叫姐了 https://t.co/J0CANedjg6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 小证正规含糖 | 年龄党+半家长党 出柜26.05.05 出厂:壹贰.零壹.零叁 | 167cm/45kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD(Once/Month) | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://blog.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/iYW96Tj9ST"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "is_identity_verified": false,
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限公司",
+        "most_recent_tweet_id": "2088988721173729629",
+        "name": "不会起名の捌拐玖捌🍥(二代目)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048693394226974720/1777281811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 1535,
+          "like_count": 10933,
+          "listed_count": 5,
+          "media_count": 140,
+          "tweet_count": 1230
+        },
+        "url": "https://t.co/iYW96Tj9ST",
+        "username": "CCA8798suki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T07:08:19.000Z",
+        "description": "出厂日期2007.9.24 | mtx/f | 无证含糖 | HRT 2025.12.05 | 非二元 | 同类可以找我互fo，但最好说一声 | 喜欢同类 | 169cm/60kg | 有点地雷",
+        "id": "1600024316552179713",
+        "is_identity_verified": false,
+        "location": "Silverstone Track",
+        "most_recent_tweet_id": "2088951218311930348",
+        "name": "祈晴kiki🍥",
+        "pinned_tweet_id": "2071875138975580225",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600024316552179713/1784887409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080617205654503424/h9hH830E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1739,
+          "following_count": 368,
+          "like_count": 6394,
+          "listed_count": 7,
+          "media_count": 216,
+          "tweet_count": 2095
+        },
+        "url": "",
+        "username": "kiki_qiqing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
